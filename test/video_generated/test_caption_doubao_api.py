@@ -1,0 +1,132 @@
+import os
+import json
+import torch
+import time
+from openai import OpenAI
+
+
+def load_model():
+    print("正在初始化OpenAI客户端...")
+    client = OpenAI(base_url="", api_key=os.getenv("OPENAI_API_KEY", ""))
+    print("OpenAI客户端初始化完成!")
+    return client
+
+
+# 根据视频生成描述
+def generate_caption(client, video_path):
+    # 构建prompt
+    prompt = "你是一个专业的AI视频问答助手，请使用完整且连续的一段话描述这个视频的内容。"
+    
+    file = client.files.create(
+        file=open(video_path, "rb"),
+        purpose="user_data"
+    )
+    while (file.status == "processing"):
+        time.sleep(2)
+        file = client.files.retrieve(file.id)
+    print(f"File processed: {file}")
+
+    response  = client.responses.create(
+        model="doubao-seed-1-6-251015",
+        input = [
+            {
+                "role": "user",
+                "content": [
+                    {
+                        "type": "input_video",
+                        "file_id": file.id,
+                    },
+                    {"type": "input_text", "text": prompt},
+                ],
+            }
+        ],
+        extra_body={
+        "thinking": {"type": "disabled"},
+    }
+    )
+    return response.output[0].content[0].text
+
+
+# 预先构建视频路径映射以避免重复查找
+def build_video_mapping(video_dir):
+    video_mapping = {}
+    if os.path.exists(video_dir):
+        for filename in os.listdir(video_dir):
+            name, ext = os.path.splitext(filename)
+            if ext.lower() in ['.mp4', '.avi', '.mov', '.mkv']:
+                video_mapping[name] = os.path.join(video_dir, filename)
+    return video_mapping
+
+
+# 主函数
+def main():
+    model = "doubao-seed-1-6-251015"
+    caption_source_dir = "../../video_generated/caption.json"
+    video_dir = "../../video_generated/all_video"
+    os.makedirs(model, exist_ok=True)
+    caption_target_dir = f"{model}/caption_{model}.json"    
+
+    # 加载模型
+    client = load_model()
+    
+    # 读取caption文件
+    with open(caption_source_dir, "r", encoding="utf-8") as f:
+        captions_data = json.load(f)
+    
+    # 创建视频路径映射
+    video_mapping = build_video_mapping(video_dir)
+    
+    # 创建结果数据结构
+    results = []
+    
+    # 处理每个视频
+    for i, item in enumerate(captions_data):
+        caption_id = item.get("caption_id", "")
+        video_id = item.get("video_id", "")
+        
+        print(f"处理视频 {video_id} ({i+1}/{len(captions_data)})")
+        
+        # 查找对应的视频文件
+        video_path = video_mapping.get(video_id)
+        
+        if video_path is None:
+            print(f"警告: 未找到视频文件 {video_id}")
+            # 使用空结果填充
+            result_item = {
+                "caption_id": caption_id,
+                "video_id": video_id,
+                "caption_a": ""
+            }
+            results.append(result_item)
+            continue
+        
+        # 生成描述
+        try:
+            caption_a = generate_caption(client, video_path)
+            print(f"模型生成描述: {caption_a}")
+        except Exception as e:
+            print(f"处理视频 {video_id} 时出错: {e}")
+            caption_a = ""
+        
+        # 添加到结果中
+        result_item = {
+            "caption_id": caption_id,
+            "video_id": video_id,
+            "caption_a": caption_a
+        }
+        results.append(result_item)
+        
+        # 每处理20个视频保存一次结果
+        if (i + 1) % 20 == 0:
+            with open(caption_target_dir, "w", encoding="utf-8") as f:
+                json.dump(results, f, ensure_ascii=False, indent=2)
+            print(f"已保存 {i+1} 个视频的结果")
+    
+    # 保存最终结果
+    with open(caption_target_dir, "w", encoding="utf-8") as f:
+        json.dump(results, f, ensure_ascii=False, indent=2)
+    
+    print("所有视频处理完成!")
+
+if __name__ == "__main__":
+    main()

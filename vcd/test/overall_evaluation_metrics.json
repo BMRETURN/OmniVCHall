@@ -1,0 +1,61 @@
+{
+  "overall_accuracy": 0.6852272727272727,
+  "detailed_results": {
+    "Qwen3-VL-8B-Instruct": {
+      "video_real": {
+        "s_ynqa": {
+          "accuracy": 0.6791044776119403,
+          "correct": 182,
+          "total": 268
+        },
+        "m_ynqa": {
+          "accuracy": 0.6377551020408163,
+          "correct": 125,
+          "total": 196
+        },
+        "s_mcqa": {
+          "accuracy": 0.5865384615384616,
+          "correct": 122,
+          "total": 208
+        },
+        "m_mcqa": {
+          "accuracy": 0.5955882352941176,
+          "correct": 81,
+          "total": 136
+        },
+        "overall": {
+          "accuracy": 0.6311881188118812,
+          "correct": 510,
+          "total": 808
+        }
+      },
+      "video_generated": {
+        "s_ynqa": {
+          "accuracy": 0.8104395604395604,
+          "correct": 295,
+          "total": 364
+        },
+        "m_ynqa": {
+          "accuracy": 0.7889908256880734,
+          "correct": 172,
+          "total": 218
+        },
+        "s_mcqa": {
+          "accuracy": 0.6311111111111111,
+          "correct": 142,
+          "total": 225
+        },
+        "m_mcqa": {
+          "accuracy": 0.6,
+          "correct": 87,
+          "total": 145
+        },
+        "overall": {
+          "accuracy": 0.7310924369747899,
+          "correct": 696,
+          "total": 952
+        }
+      }
+    }
+  }
+}

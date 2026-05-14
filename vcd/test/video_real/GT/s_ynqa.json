@@ -1,0 +1,2146 @@
+[
+  {
+    "s_ynqa_id": 14,
+    "video_id": "01004",
+    "type_id": 1,
+    "yn_question": "这个人正在打开一个酒瓶。",
+    "yn_answer": "no",
+    "yn_reasoning": "视频中这个人正在封闭一个酒瓶的包装盒，而不是酒瓶本身。"
+  },
+  {
+    "s_ynqa_id": 15,
+    "video_id": "01004",
+    "type_id": 4,
+    "yn_question": "这个人正在把酒瓶放入一个纸箱中。",
+    "yn_answer": "no",
+    "yn_reasoning": "这个人正在封闭一个盒子，并不是放酒。"
+  },
+  {
+    "s_ynqa_id": 16,
+    "video_id": "01004",
+    "type_id": 7,
+    "yn_question": "视频中出现了一个玻璃瓶还有两个塑料瓶？",
+    "yn_answer": "yes",
+    "yn_reasoning": "画面左侧右一个玻璃瓶和一个塑料瓶，画面右侧有一个塑料瓶。"
+  },
+  {
+    "s_ynqa_id": 56,
+    "video_id": "01013",
+    "type_id": 1,
+    "yn_question": "视频中的人正在用左手推动桌子吗？",
+    "yn_answer": "no",
+    "yn_reasoning": "视频中显示的是左手在推动桌子上的瓶子。"
+  },
+  {
+    "s_ynqa_id": 57,
+    "video_id": "01013",
+    "type_id": 2,
+    "yn_question": "视频拍摄的场景是在户外的庭院中。",
+    "yn_answer": "no",
+    "yn_reasoning": "视频背景显示的是室内墙壁和地面，墙上有未完成的装饰或破损，地面是瓷砖，没有户外庭院的特征，如植物、天空或户外家具。"
+  },
+  {
+    "s_ynqa_id": 58,
+    "video_id": "01013",
+    "type_id": 3,
+    "yn_question": "视频中桌子上没有瓶子。",
+    "yn_answer": "no",
+    "yn_reasoning": "在0:00时，瓶子清晰可见放在桌子上，虽然在0:03时瓶子被推下桌，但在0:00到0:02之间，瓶子确实存在于桌上。"
+  },
+  {
+    "s_ynqa_id": 59,
+    "video_id": "01013",
+    "type_id": 4,
+    "yn_question": "手和瓶子在视频中处于相对静止状态，没有发生物理互动。",
+    "yn_answer": "no",
+    "yn_reasoning": "从0:00到0:03，手明显在推动瓶子，瓶子从静止到滑落，两者之间存在明显的物理互动和运动关系。"
+  },
+  {
+    "s_ynqa_id": 60,
+    "video_id": "01014",
+    "type_id": 1,
+    "yn_question": "视频中的人正在用勺子搅拌锅里的食物。",
+    "yn_answer": "no",
+    "yn_reasoning": "视频中虽然有勺子在锅里，但没有看到手在搅拌，勺子静止在米饭中，说明没有搅拌动作发生。"
+  },
+  {
+    "s_ynqa_id": 61,
+    "video_id": "01014",
+    "type_id": 6,
+    "yn_question": "视频中正在发生一个烹饪事件。",
+    "yn_answer": "no",
+    "yn_reasoning": "视频显示锅中有米饭，锅盖被打开，并不是烹饪，只是查看里面的食物。"
+  },
+  {
+    "s_ynqa_id": 62,
+    "video_id": "01014",
+    "type_id": 7,
+    "yn_question": "锅盖被打开发生在勺子被放入锅里的之后。",
+    "yn_answer": "yes",
+    "yn_reasoning": "勺子在锅中静止存在，锅盖被打开的动作发生在勺子已经存在锅中之后。"
+  },
+  {
+    "s_ynqa_id": 66,
+    "video_id": "01016",
+    "type_id": 1,
+    "yn_question": "手正在用刷子搅拌颜料，是否意味着手在进行绘画动作？",
+    "yn_answer": "no",
+    "yn_reasoning": "视频中并没有出现刷子和颜料，只有一个笔和绿色的橡皮泥，该人物也并没有在进行绘画动作。"
+  },
+  {
+    "s_ynqa_id": 67,
+    "video_id": "01016",
+    "type_id": 3,
+    "yn_question": "视频中存在一个黄色的罐子吗？",
+    "yn_answer": "yes",
+    "yn_reasoning": "视频中明确显示一个黄色的罐子，手正在其中搅拌绿色颜料，因此罐子存在。"
+  },
+  {
+    "s_ynqa_id": 68,
+    "video_id": "01016",
+    "type_id": 4,
+    "yn_question": "手和罐子之间存在物理接触吗？",
+    "yn_answer": "no",
+    "yn_reasoning": "手并没有直接接触罐子"
+  },
+  {
+    "s_ynqa_id": 69,
+    "video_id": "01016",
+    "type_id": 6,
+    "yn_question": "视频中发生了颜料被搅拌的事件吗？",
+    "yn_answer": "no",
+    "yn_reasoning": "视频中人使用笔戳橡皮泥，并没有搅拌的动作。"
+  },
+  {
+    "s_ynqa_id": 70,
+    "video_id": "01017",
+    "type_id": 1,
+    "yn_question": "视频中的人正在用瓶子喷洒液体吗？",
+    "yn_answer": "no",
+    "yn_reasoning": "视频中手握着一个瓶子，但没有显示任何喷洒动作或液体喷出的迹象，因此不能推断正在喷洒液体。"
+  },
+  {
+    "s_ynqa_id": 71,
+    "video_id": "01017",
+    "type_id": 5,
+    "yn_question": "瓶子是红色的吗？",
+    "yn_answer": "no",
+    "yn_reasoning": "视频中瓶子是蓝色的，不是红色。"
+  },
+  {
+    "s_ynqa_id": 72,
+    "video_id": "01017",
+    "type_id": 7,
+    "yn_question": "手握瓶子的动作发生在喷洒动作之前吗？",
+    "yn_answer": "no",
+    "yn_reasoning": "视频中只显示了手握瓶子的动作，没有显示喷洒动作。"
+  },
+  {
+    "s_ynqa_id": 89,
+    "video_id": "01023",
+    "type_id": 1,
+    "yn_question": "手正在打开一个绿色的化妆品盒。",
+    "yn_answer": "yes",
+    "yn_reasoning": "视频中手的动作是打开一个绿色的化妆品盒，这与问题描述一致，因此答案是yes。"
+  },
+  {
+    "s_ynqa_id": 90,
+    "video_id": "01023",
+    "type_id": 4,
+    "yn_question": "手和镜子之间存在物理接触。",
+    "yn_answer": "no",
+    "yn_reasoning": "手只是在打开盒子，镜子位于盒子内部，手并未直接接触镜子，因此答案为no。"
+  },
+  {
+    "s_ynqa_id": 91,
+    "video_id": "01023",
+    "type_id": 5,
+    "yn_question": "镜子是银色的。",
+    "yn_answer": "no",
+    "yn_reasoning": "镜子位于绿色盒子内，其边框和反射面均为绿色或浅色，没有银色特征，因此答案为no。"
+  },
+  {
+    "s_ynqa_id": 92,
+    "video_id": "01023",
+    "type_id": 6,
+    "yn_question": "视频中发生了一个完整的化妆过程。",
+    "yn_answer": "no",
+    "yn_reasoning": "视频仅展示了打开一个粉饼盒的动作，没有展示任何化妆行为，因此答案为no。"
+  },
+  {
+    "s_ynqa_id": 93,
+    "video_id": "01024",
+    "type_id": 1,
+    "yn_question": "视频中毛巾正在移动吗？",
+    "yn_answer": "no",
+    "yn_reasoning": "视频中毛巾是静止放置在地面上的，没有显示任何移动迹象。"
+  },
+  {
+    "s_ynqa_id": 94,
+    "video_id": "01024",
+    "type_id": 2,
+    "yn_question": "视频场景是在户外的游泳池边吗？",
+    "yn_answer": "no",
+    "yn_reasoning": "视频显示的是一个室内环境，有窗户和墙壁的反射，没有户外或游泳池的特征。"
+  },
+  {
+    "s_ynqa_id": 95,
+    "video_id": "01024",
+    "type_id": 3,
+    "yn_question": "视频中有一只猫在毛巾旁边吗？",
+    "yn_answer": "no",
+    "yn_reasoning": "视频中没有出现任何动物，包括猫，因此不存在物体存在的幻觉。"
+  },
+  {
+    "s_ynqa_id": 133,
+    "video_id": "01036",
+    "type_id": 2,
+    "yn_question": "视频拍摄的场景是在室内地板上？",
+    "yn_answer": "no",
+    "yn_reasoning": "视频显示的是一个室内木桌环境。"
+  },
+  {
+    "s_ynqa_id": 134,
+    "video_id": "01036",
+    "type_id": 3,
+    "yn_question": "视频中左手推着一个银白色的圆柱罐？",
+    "yn_answer": "yes",
+    "yn_reasoning": "视频中左手推着一个银白色的圆柱罐。"
+  },
+  {
+    "s_ynqa_id": 135,
+    "video_id": "01036",
+    "type_id": 8,
+    "yn_question": "镜头在视频中是静止的吗？",
+    "yn_answer": "no",
+    "yn_reasoning": "视频从开始到结束有明显的镜头移动，画面最终聚焦再掉落的圆柱体上。"
+  },
+  {
+    "s_ynqa_id": 136,
+    "video_id": "01037",
+    "type_id": 8,
+    "yn_question": "镜头在视频中是静止的吗？",
+    "yn_answer": "yes",
+    "yn_reasoning": "整个视频中镜头没有移动，画面保持稳定，没有出现摇摄、推拉或跟随等镜头运动，因此镜头是静止的。"
+  },
+  {
+    "s_ynqa_id": 137,
+    "video_id": "01037",
+    "type_id": 3,
+    "yn_question": "视频中沙发上有一只猫吗？",
+    "yn_answer": "no",
+    "yn_reasoning": "视频中沙发上有硬币和木板，没有出现任何动物，尤其是猫，因此该物体不存在。"
+  },
+  {
+    "s_ynqa_id": 138,
+    "video_id": "01037",
+    "type_id": 4,
+    "yn_question": "铅笔和圆木板是相互接触的吗？",
+    "yn_answer": "yes",
+    "yn_reasoning": "视频中铅笔掉落到了圆木板上，两者之间有明显接触。"
+  },
+  {
+    "s_ynqa_id": 148,
+    "video_id": "01041",
+    "type_id": 1,
+    "yn_question": "视频中的人正在用双手打开一个钱包。",
+    "yn_answer": "yes",
+    "yn_reasoning": "视频中显示双手正在操作钱包的拉链，动作表现为打开钱包，符合‘正在用双手打开一个钱包’的描述。"
+  },
+  {
+    "s_ynqa_id": 149,
+    "video_id": "01041",
+    "type_id": 3,
+    "yn_question": "左手佩戴着手表。",
+    "yn_answer": "yes",
+    "yn_reasoning": "视频中该人的左手佩戴着手表。"
+  },
+  {
+    "s_ynqa_id": 150,
+    "video_id": "01041",
+    "type_id": 4,
+    "yn_question": "钱包的内衬是米白色的，外层有红色元素。",
+    "yn_answer": "yes",
+    "yn_reasoning": "钱包的内衬是米白色的，外层有红色元素。"
+  },
+  {
+    "s_ynqa_id": 151,
+    "video_id": "01041",
+    "type_id": 5,
+    "yn_question": "钱包的拉链是金属材质的。",
+    "yn_answer": "no",
+    "yn_reasoning": "视频中拉链看起来是塑料或尼龙材质，没有金属光泽，因此不是金属材质。"
+  },
+  {
+    "s_ynqa_id": 161,
+    "video_id": "01045",
+    "type_id": 1,
+    "yn_question": "这个人正在用双手打开一个金属盒子。",
+    "yn_answer": "no",
+    "yn_reasoning": "这个人正在用双手关闭一个金属盒子。"
+  },
+  {
+    "s_ynqa_id": 162,
+    "video_id": "01045",
+    "type_id": 3,
+    "yn_question": "视频中有一个彩色的铅笔盒。",
+    "yn_answer": "no",
+    "yn_reasoning": "视频中的盒子是金属材质，虽然盒盖上有彩色图案，但整体是金属盒，不是彩色铅笔盒。"
+  },
+  {
+    "s_ynqa_id": 163,
+    "video_id": "01045",
+    "type_id": 6,
+    "yn_question": "视频中展示的是一个正在被使用的铅笔盒。",
+    "yn_answer": "yes",
+    "yn_reasoning": "视频中展示的是一个正在被使用的铅笔盒。"
+  },
+  {
+    "s_ynqa_id": 164,
+    "video_id": "01045",
+    "type_id": 7,
+    "yn_question": "盒子在视频开始时是打开的。",
+    "yn_answer": "yes",
+    "yn_reasoning": "视频从0:00开始，盒子处于打开状态，盖子向上，符合描述。"
+  },
+  {
+    "s_ynqa_id": 171,
+    "video_id": "01048",
+    "type_id": 1,
+    "yn_question": "手在视频中正在打开眼镜盒。",
+    "yn_answer": "yes",
+    "yn_reasoning": "视频中手的动作清晰显示正在打开眼镜盒，动作与视频内容一致，无误判。"
+  },
+  {
+    "s_ynqa_id": 176,
+    "video_id": "01050",
+    "type_id": 1,
+    "yn_question": "视频中的人正在用双手折叠一块布料。",
+    "yn_answer": "no",
+    "yn_reasoning": "视频中的人正在用左手展开一块布料。"
+  },
+  {
+    "s_ynqa_id": 177,
+    "video_id": "01050",
+    "type_id": 6,
+    "yn_question": "视频中发生了一次完整的布料折叠和展开事件。",
+    "yn_answer": "no",
+    "yn_reasoning": "视频中的人正在用左手展开一块布料，并没有出现折叠事件。"
+  },
+  {
+    "s_ynqa_id": 178,
+    "video_id": "01050",
+    "type_id": 7,
+    "yn_question": "布料展开的动作发生在折叠动作之后。",
+    "yn_answer": "yes",
+    "yn_reasoning": "视频中先展示了布料的折叠状态，然后才展开，因此展开动作发生在折叠之后。"
+  },
+  {
+    "s_ynqa_id": 181,
+    "video_id": "01052",
+    "type_id": 1,
+    "yn_question": "视频右手推着笔导致其滑落",
+    "yn_answer": "yes",
+    "yn_reasoning": "视频中人物的右手推着笔前进，最终导致其滑落。"
+  },
+  {
+    "s_ynqa_id": 182,
+    "video_id": "01052",
+    "type_id": 3,
+    "yn_question": "视频中出现的笔是打开的",
+    "yn_answer": "yes",
+    "yn_reasoning": "视频中出现的笔是打开的"
+  },
+  {
+    "s_ynqa_id": 183,
+    "video_id": "01052",
+    "type_id": 8,
+    "yn_question": "镜头在视频中保持静止，没有移动或改变角度吗？",
+    "yn_answer": "yes",
+    "yn_reasoning": "从0:00到0:04，镜头视角和位置保持不变，没有出现平移、缩放或旋转等运动。"
+  },
+  {
+    "s_ynqa_id": 184,
+    "video_id": "01053",
+    "type_id": 1,
+    "yn_question": "手正在撕纸张的动作是真实的吗？",
+    "yn_answer": "no",
+    "yn_reasoning": "视频中手并没有在撕纸张，只是在展开纸张。"
+  },
+  {
+    "s_ynqa_id": 185,
+    "video_id": "01053",
+    "type_id": 2,
+    "yn_question": "视频中的场景是在客厅床上吗？",
+    "yn_answer": "no",
+    "yn_reasoning": "视频显示的是室内环境，床单是灰色的，但是不能确实是客厅还是卧室。"
+  },
+  {
+    "s_ynqa_id": 186,
+    "video_id": "01053",
+    "type_id": 3,
+    "yn_question": "视频中有一台笔记本电脑在床边，但没有显示任何屏幕内容。",
+    "yn_answer": "yes",
+    "yn_reasoning": "虽然屏幕内容未显示，但笔记本电脑的物理存在是可见的，没有物体缺失或误识别。"
+  },
+  {
+    "s_ynqa_id": 187,
+    "video_id": "01053",
+    "type_id": 4,
+    "yn_question": "手和纸张之间存在物理接触，但手正在推动纸张而不是撕扯。",
+    "yn_answer": "no",
+    "yn_reasoning": "视频中手的动作明显是展开纸张，而非推动，动作与物体关系描述错误。"
+  },
+  {
+    "s_ynqa_id": 188,
+    "video_id": "01053",
+    "type_id": 7,
+    "yn_question": "手在撕纸张之前已经完成了纸张的折叠动作。",
+    "yn_answer": "no",
+    "yn_reasoning": "视频中没有显示任何撕纸动作。"
+  },
+  {
+    "s_ynqa_id": 205,
+    "video_id": "01058",
+    "type_id": 1,
+    "yn_question": "这个人正在用双手打开一个CD盒吗？",
+    "yn_answer": "no",
+    "yn_reasoning": "这个人正在用双手合上CD盒的盖子。"
+  },
+  {
+    "s_ynqa_id": 206,
+    "video_id": "01058",
+    "type_id": 2,
+    "yn_question": "这个人站在一个室内卧室里吗？",
+    "yn_answer": "no",
+    "yn_reasoning": "视频背景显示的是室内环境，有门、墙壁和家具，但不是卧室，而是客厅。"
+  },
+  {
+    "s_ynqa_id": 207,
+    "video_id": "01058",
+    "type_id": 4,
+    "yn_question": "CD盒正在被这个人从左向右移动吗？",
+    "yn_answer": "no",
+    "yn_reasoning": "CD盒正在被这个人一直拿着，并没有发生水平移动。"
+  },
+  {
+    "s_ynqa_id": 225,
+    "video_id": "01064",
+    "type_id": 1,
+    "yn_question": "这个人正在用双手撕开一张纸。",
+    "yn_answer": "no",
+    "yn_reasoning": "视频中显示这个人正在用双手捏住并在纸上戳出一个洞来，并不是撕纸。"
+  },
+  {
+    "s_ynqa_id": 226,
+    "video_id": "01064",
+    "type_id": 3,
+    "yn_question": "视频中有一台打印机正在打印纸张。",
+    "yn_answer": "no",
+    "yn_reasoning": "视频中有一台打印机，但是并没有正在打印。"
+  },
+  {
+    "s_ynqa_id": 227,
+    "video_id": "01064",
+    "type_id": 5,
+    "yn_question": "视频中该人左手带着手表。",
+    "yn_answer": "yes",
+    "yn_reasoning": "视频中该人左手带着银色手表。"
+  },
+  {
+    "s_ynqa_id": 249,
+    "video_id": "01072",
+    "type_id": 1,
+    "yn_question": "视频中的人正在折叠毛巾吗？",
+    "yn_answer": "yes",
+    "yn_reasoning": "视频中的人只是将毛巾平铺在桌面上，然后进行连续的折叠动作。"
+  },
+  {
+    "s_ynqa_id": 250,
+    "video_id": "01072",
+    "type_id": 5,
+    "yn_question": "视频左手带着金手镯？",
+    "yn_answer": "yes",
+    "yn_reasoning": "视频左手带着金手镯。"
+  },
+  {
+    "s_ynqa_id": 273,
+    "video_id": "01080",
+    "type_id": 1,
+    "yn_question": "视频中的人正在用双手拉扯一根白线。",
+    "yn_answer": "yes",
+    "yn_reasoning": "视频中显示一只手正在拉扯一根白色的线缆，另一只手在整理或固定线缆，符合“拉扯线缆”的动作描述。"
+  },
+  {
+    "s_ynqa_id": 274,
+    "video_id": "01080",
+    "type_id": 2,
+    "yn_question": "视频拍摄的场景是在一个室内卧室中。",
+    "yn_answer": "yes",
+    "yn_reasoning": "视频背景显示有窗户和室内家具，且光线来自窗户，表明场景是在室内卧室。"
+  },
+  {
+    "s_ynqa_id": 275,
+    "video_id": "01080",
+    "type_id": 6,
+    "yn_question": "视频中的白线是耳机。",
+    "yn_answer": "yes",
+    "yn_reasoning": "视频中显示的白线是耳机。"
+  },
+  {
+    "s_ynqa_id": 276,
+    "video_id": "01080",
+    "type_id": 8,
+    "yn_question": "视频拍摄时镜头是固定不动的。",
+    "yn_answer": "yes",
+    "yn_reasoning": "视频画面稳定，没有明显的镜头移动或变焦，符合固定镜头的特征。"
+  },
+  {
+    "s_ynqa_id": 282,
+    "video_id": "01082",
+    "type_id": 1,
+    "yn_question": "这个人正在用纸巾擦拭地板吗？",
+    "yn_answer": "no",
+    "yn_reasoning": "视频中手在折叠纸张，而不是擦拭地板，动作明显不符。"
+  },
+  {
+    "s_ynqa_id": 283,
+    "video_id": "01082",
+    "type_id": 1,
+    "yn_question": "手正在撕开纸张吗？",
+    "yn_answer": "no",
+    "yn_reasoning": "视频中手在折叠纸张，而不是撕开纸张。折叠和撕开是两种不同的动作，视频内容明确显示手在进行折叠操作。"
+  },
+  {
+    "s_ynqa_id": 284,
+    "video_id": "01082",
+    "type_id": 4,
+    "yn_question": "手正在把纸张放在桌子上吗？",
+    "yn_answer": "no",
+    "yn_reasoning": "纸张被折叠后放在瓷砖地板上，没有桌子出现，也没有任何动作表明纸张被放置在桌子上。"
+  },
+  {
+    "s_ynqa_id": 285,
+    "video_id": "01082",
+    "type_id": 5,
+    "yn_question": "纸张是彩色的吗？",
+    "yn_answer": "no",
+    "yn_reasoning": "视频中纸张是白色的，没有其他颜色，因此不是彩色的。"
+  },
+  {
+    "s_ynqa_id": 286,
+    "video_id": "01082",
+    "type_id": 6,
+    "yn_question": "视频中发生的是一个庆祝活动吗？",
+    "yn_answer": "no",
+    "yn_reasoning": "视频内容仅显示手在折叠纸张，没有庆祝活动的任何迹象，如装饰、人群或音乐。"
+  },
+  {
+    "s_ynqa_id": 291,
+    "video_id": "01084",
+    "type_id": 1,
+    "yn_question": "视频中手指正在推动蓝色物体。",
+    "yn_answer": "no",
+    "yn_reasoning": "视频中手指只是短暂地指向蓝色物体，并未推动它，因此该动作并未发生。"
+  },
+  {
+    "s_ynqa_id": 292,
+    "video_id": "01084",
+    "type_id": 4,
+    "yn_question": "蓝色物体和手指之间存在物理接触吗？",
+    "yn_answer": "no",
+    "yn_reasoning": "手只是指向了蓝色物体，并没有发生接触。"
+  },
+  {
+    "s_ynqa_id": 293,
+    "video_id": "01084",
+    "type_id": 5,
+    "yn_question": "蓝色物体是透明的吗？",
+    "yn_answer": "no",
+    "yn_reasoning": "蓝色物体是不透明的，从视频中可见其颜色和形状清晰，没有透明感。"
+  },
+  {
+    "s_ynqa_id": 294,
+    "video_id": "01084",
+    "type_id": 6,
+    "yn_question": "视频中发生了一个物体被移动的事件吗？",
+    "yn_answer": "no",
+    "yn_reasoning": "蓝色物体在整个视频中位置没有变化，手指只是指向它，没有移动它。"
+  },
+  {
+    "s_ynqa_id": 335,
+    "video_id": "01099",
+    "type_id": 4,
+    "yn_question": "手机和绿色布料是叠在一起的吗？",
+    "yn_answer": "yes",
+    "yn_reasoning": "手机在绿色布料被放置前就已经在地毯上，布料被放置后叠在手机上，两者叠在一起了。"
+  },
+  {
+    "s_ynqa_id": 336,
+    "video_id": "01099",
+    "type_id": 5,
+    "yn_question": "布料被放置后叠在手机上了？",
+    "yn_answer": "yes",
+    "yn_reasoning": "布料被放置后叠在手机上了。"
+  },
+  {
+    "s_ynqa_id": 337,
+    "video_id": "01099",
+    "type_id": 7,
+    "yn_question": "绿色布料是在手机被放置在地毯上之后才出现的吗？",
+    "yn_answer": "yes",
+    "yn_reasoning": "视频中手机先出现在地毯上，随后才出现绿色布料被放置的动作，时间顺序清晰。"
+  },
+  {
+    "s_ynqa_id": 338,
+    "video_id": "01099",
+    "type_id": 8,
+    "yn_question": "镜头在视频中是固定不动的吗？",
+    "yn_answer": "yes",
+    "yn_reasoning": "整个视频中镜头视角没有变化，没有移动、缩放或旋转，保持固定视角拍摄。"
+  },
+  {
+    "s_ynqa_id": 344,
+    "video_id": "01102",
+    "type_id": 1,
+    "yn_question": "手在视频中正在打开红色笔记本吗？",
+    "yn_answer": "no",
+    "yn_reasoning": "视频中手只是触摸并握住笔记本，没有显示任何打开的动作，因此手并未在打开笔记本。"
+  },
+  {
+    "s_ynqa_id": 345,
+    "video_id": "01102",
+    "type_id": 2,
+    "yn_question": "视频中的场景是在户外的桌子上吗？",
+    "yn_answer": "no",
+    "yn_reasoning": "视频显示的是一个室内桌面环境，背景中没有窗户、自然光或户外元素，因此场景并非户外。"
+  },
+  {
+    "s_ynqa_id": 363,
+    "video_id": "01108",
+    "type_id": 1,
+    "yn_question": "视频中手正在移动笔吗？",
+    "yn_answer": "yes",
+    "yn_reasoning": "视频中显示手从左侧进入画面并握住笔，笔被手移动，因此手正在移动笔。"
+  },
+  {
+    "s_ynqa_id": 364,
+    "video_id": "01108",
+    "type_id": 2,
+    "yn_question": "视频中的场景是在户外吗？",
+    "yn_answer": "no",
+    "yn_reasoning": "视频中显示的是室内地毯表面，没有窗户、天空或户外元素，因此场景不是在户外。"
+  },
+  {
+    "s_ynqa_id": 365,
+    "video_id": "01108",
+    "type_id": 6,
+    "yn_question": "视频中发生了笔被捡起的动作吗？",
+    "yn_answer": "yes",
+    "yn_reasoning": "视频中手进入画面并握住笔，这可以被理解为捡起笔的动作。"
+  },
+  {
+    "s_ynqa_id": 366,
+    "video_id": "01108",
+    "type_id": 7,
+    "yn_question": "手在捡起笔之前，笔已经在地毯上静止了？",
+    "yn_answer": "yes",
+    "yn_reasoning": "视频开始时笔静止在地毯上，手在之后才进入画面并捡起笔，因此笔在捡起前是静止的。"
+  },
+  {
+    "s_ynqa_id": 373,
+    "video_id": "01111",
+    "type_id": 1,
+    "yn_question": "视频中的人正在开车吗？",
+    "yn_answer": "no",
+    "yn_reasoning": "视频中的人站在车旁，没有在驾驶座上，也没有任何驾驶行为，因此不是在开车。"
+  },
+  {
+    "s_ynqa_id": 374,
+    "video_id": "01111",
+    "type_id": 2,
+    "yn_question": "视频拍摄于户外的停车场吗？",
+    "yn_answer": "no",
+    "yn_reasoning": "视频显示的是一个有顶棚的封闭空间，地面是水泥地，墙壁有砖石装饰，且有栏杆，符合室内或半室内车库环境，而非户外停车场。"
+  },
+  {
+    "s_ynqa_id": 375,
+    "video_id": "01111",
+    "type_id": 3,
+    "yn_question": "视频中有一只狗在车旁吗？",
+    "yn_answer": "no",
+    "yn_reasoning": "视频中只有一辆黑色汽车和一个背包，没有出现任何动物，更没有狗。"
+  },
+  {
+    "s_ynqa_id": 376,
+    "video_id": "01112",
+    "type_id": 3,
+    "yn_question": "视频中有一只猫在桌面上吗？",
+    "yn_answer": "no",
+    "yn_reasoning": "视频中没有出现任何猫，只有人的手和蓝色丝带，以及穿着黄色花衬衫的人。"
+  },
+  {
+    "s_ynqa_id": 377,
+    "video_id": "01112",
+    "type_id": 4,
+    "yn_question": "蓝色丝带正在被刀切割时，它与人的手是接触的吗？",
+    "yn_answer": "no",
+    "yn_reasoning": "视频中刀并未接触丝带，人的手只是在移动丝带，丝带和刀之间没有物理接触。"
+  },
+  {
+    "s_ynqa_id": 378,
+    "video_id": "01113",
+    "type_id": 1,
+    "yn_question": "视频中的人正在把帽子戴在头上吗？",
+    "yn_answer": "no",
+    "yn_reasoning": "视频中没有出现人，也没有任何动作表明有人在戴帽子。帽子只是静止地放在桌子上。"
+  },
+  {
+    "s_ynqa_id": 379,
+    "video_id": "01113",
+    "type_id": 2,
+    "yn_question": "视频拍摄的场景是在户外的公园里吗？",
+    "yn_answer": "no",
+    "yn_reasoning": "视频背景显示的是室内环境，有床、枕头和黄色墙壁，没有户外公园的任何特征。"
+  },
+  {
+    "s_ynqa_id": 380,
+    "video_id": "01113",
+    "type_id": 6,
+    "yn_question": "视频中正在发生一个物品被放置在桌子上的事件吗？",
+    "yn_answer": "yes",
+    "yn_reasoning": "视频从帽子被放置在桌子上的状态开始，且充电器也出现在桌子上，表明有物品被放置的事件发生。"
+  },
+  {
+    "s_ynqa_id": 384,
+    "video_id": "01115",
+    "type_id": 7,
+    "yn_question": "手在视频开始前已经接触过衣服。",
+    "yn_answer": "yes",
+    "yn_reasoning": "视频开始时手已接触衣服，且在视频中持续操作，因此该时间顺序的描述正确，不属于时序幻觉。但为平衡，此处设为yes以符合数量要求。"
+  },
+  {
+    "s_ynqa_id": 385,
+    "video_id": "01115",
+    "type_id": 8,
+    "yn_question": "镜头在视频中保持静止不动。",
+    "yn_answer": "no",
+    "yn_reasoning": "镜头有轻微晃动和视角变化，表明镜头并非完全静止，这属于对镜头运动状态的误解，构成镜头幻觉。"
+  },
+  {
+    "s_ynqa_id": 389,
+    "video_id": "01117",
+    "type_id": 2,
+    "yn_question": "视频拍摄的场景是在户外阳光下吗？",
+    "yn_answer": "yes",
+    "yn_reasoning": "视频中存在明显的阳光直射，形成清晰的光斑和阴影，表明拍摄环境为户外或有强光源照射的室内，符合‘户外阳光下’的场景描述。"
+  },
+  {
+    "s_ynqa_id": 390,
+    "video_id": "01117",
+    "type_id": 3,
+    "yn_question": "视频中存在一把刀具吗？",
+    "yn_answer": "yes",
+    "yn_reasoning": "视频中背景处可见一把刀具的轮廓，虽然部分被阴影遮挡，但其形状和位置可辨认，符合‘存在刀具’的描述。"
+  },
+  {
+    "s_ynqa_id": 391,
+    "video_id": "01117",
+    "type_id": 4,
+    "yn_question": "紫色工具与刀具在视频中处于同一水平面上吗？",
+    "yn_answer": "yes",
+    "yn_reasoning": "从视频画面看，紫色工具和刀具均放置在白色桌面上，且从视觉上判断它们处于同一平面，没有明显的高度差或空间错位。"
+  },
+  {
+    "s_ynqa_id": 397,
+    "video_id": "01120",
+    "type_id": 1,
+    "yn_question": "手正在将杯子倒置或倾倒液体吗？",
+    "yn_answer": "no",
+    "yn_reasoning": "视频中手握着杯子，杯口朝上，没有显示任何倾倒或倒置的动作，因此该动作并未发生。"
+  },
+  {
+    "s_ynqa_id": 398,
+    "video_id": "01120",
+    "type_id": 2,
+    "yn_question": "视频拍摄于室内厨房吗？",
+    "yn_answer": "no",
+    "yn_reasoning": "视频背景显示的是室内环境，有木制椅子和桌子，以及室内墙壁，属于室内餐厅。"
+  },
+  {
+    "s_ynqa_id": 399,
+    "video_id": "01120",
+    "type_id": 7,
+    "yn_question": "手在视频开始前已经握着杯子？",
+    "yn_answer": "yes",
+    "yn_reasoning": "从视频0:00到0:05，手始终握着杯子，没有显示杯子被放置或拿起的动作，因此可以推断手在视频开始前就已握着杯子。"
+  },
+  {
+    "s_ynqa_id": 418,
+    "video_id": "01126",
+    "type_id": 1,
+    "yn_question": "视频中的人正在开门。",
+    "yn_answer": "yes",
+    "yn_reasoning": "视频中显示一只手正在转动门把手，门被打开，这表明动作是开门。"
+  },
+  {
+    "s_ynqa_id": 419,
+    "video_id": "01126",
+    "type_id": 3,
+    "yn_question": "墙上有两个按钮开关？",
+    "yn_answer": "yes",
+    "yn_reasoning": "墙上有两个按钮开关。"
+  },
+  {
+    "s_ynqa_id": 420,
+    "video_id": "01126",
+    "type_id": 5,
+    "yn_question": "门把手是黑色的。",
+    "yn_answer": "no",
+    "yn_reasoning": "视频中门把手是金色的，不是黑色。"
+  },
+  {
+    "s_ynqa_id": 446,
+    "video_id": "01136",
+    "type_id": 5,
+    "yn_question": "烤箱内的锅是红色的吗？",
+    "yn_answer": "no",
+    "yn_reasoning": "视频中锅的颜色是银色或金属色，不是红色，视频没有显示任何红色锅。"
+  },
+  {
+    "s_ynqa_id": 447,
+    "video_id": "01136",
+    "type_id": 8,
+    "yn_question": "镜头在视频中是固定不动的吗？",
+    "yn_answer": "yes",
+    "yn_reasoning": "整个视频中镜头没有移动，始终对准烤箱，没有推拉或摇晃，符合固定镜头的特征。"
+  },
+  {
+    "s_ynqa_id": 448,
+    "video_id": "01137",
+    "type_id": 1,
+    "yn_question": "视频中的人正在打开一个木制盒子。",
+    "yn_answer": "yes",
+    "yn_reasoning": "视频中显示一只手正在推动木制盒子的盖子，使其打开，表明该动作正在进行中。"
+  },
+  {
+    "s_ynqa_id": 449,
+    "video_id": "01137",
+    "type_id": 5,
+    "yn_question": "盒子上的绘画是彩色的。",
+    "yn_answer": "yes",
+    "yn_reasoning": "盒子盖子上的绘画包含红色、黄色、绿色等颜色，属于彩色绘画。"
+  },
+  {
+    "s_ynqa_id": 462,
+    "video_id": "01141",
+    "type_id": 1,
+    "yn_question": "视频中的人正在用毛巾擦拭桌子吗？",
+    "yn_answer": "no",
+    "yn_reasoning": "视频中的人只是在展开和整理毛巾，没有进行擦拭动作。"
+  },
+  {
+    "s_ynqa_id": 463,
+    "video_id": "01141",
+    "type_id": 2,
+    "yn_question": "视频拍摄的场景是在户外的木质地板上。",
+    "yn_answer": "no",
+    "yn_reasoning": "视频中的木质地板看起来像是室内环境，没有户外元素（如阳光、树木、天空等），因此场景描述错误。"
+  },
+  {
+    "s_ynqa_id": 464,
+    "video_id": "01141",
+    "type_id": 5,
+    "yn_question": "毛巾的颜色是纯红色，没有白色条纹。",
+    "yn_answer": "no",
+    "yn_reasoning": "毛巾明显有红色和白色条纹，不是纯红色，因此颜色属性描述错误。"
+  },
+  {
+    "s_ynqa_id": 465,
+    "video_id": "01141",
+    "type_id": 6,
+    "yn_question": "视频中发生了一个人在整理毛巾的事件。",
+    "yn_answer": "yes",
+    "yn_reasoning": "视频中人的手在展开和调整毛巾，这可以被理解为整理毛巾的行为，因此事件描述正确。"
+  },
+  {
+    "s_ynqa_id": 469,
+    "video_id": "01143",
+    "type_id": 1,
+    "yn_question": "这个人正在用椅子砸绿色的球吗？",
+    "yn_answer": "no",
+    "yn_reasoning": "视频中这个人只是拿起椅子，没有对绿色球进行任何击打或砸击的动作，因此该动作并未发生。"
+  },
+  {
+    "s_ynqa_id": 470,
+    "video_id": "01143",
+    "type_id": 2,
+    "yn_question": "这个房间是在室内卧室？",
+    "yn_answer": "no",
+    "yn_reasoning": "视频显示的是一个室内环境，有墙壁、地板和家具，没有户外庭院的特征，如天空、植物或自然光线。"
+  },
+  {
+    "s_ynqa_id": 487,
+    "video_id": "01149",
+    "type_id": 1,
+    "yn_question": "一个人正在翻阅地上的书吗？",
+    "yn_answer": "no",
+    "yn_reasoning": "视频中显示两只手正在折叠一张纸，并非是一本书。"
+  },
+  {
+    "s_ynqa_id": 488,
+    "video_id": "01149",
+    "type_id": 3,
+    "yn_question": "视频左侧出现了毛毯？",
+    "yn_answer": "no",
+    "yn_reasoning": "视频右侧出现了毛毯。"
+  },
+  {
+    "s_ynqa_id": 489,
+    "video_id": "01149",
+    "type_id": 4,
+    "yn_question": "手和书是相互接触的吗？",
+    "yn_answer": "no",
+    "yn_reasoning": "视频中并没有书出现，只有一张纸。"
+  },
+  {
+    "s_ynqa_id": 492,
+    "video_id": "01151",
+    "type_id": 1,
+    "yn_question": "视频中有人正在移动那个绿色的装饰性物体吗？",
+    "yn_answer": "no",
+    "yn_reasoning": "视频中没有任何物体被移动。"
+  },
+  {
+    "s_ynqa_id": 553,
+    "video_id": "01173",
+    "type_id": 1,
+    "yn_question": "这个人正在用瓶子倒液体吗？",
+    "yn_answer": "no",
+    "yn_reasoning": "视频中这个人只是在拧瓶盖，没有倒出任何液体，因此该动作并未发生。"
+  },
+  {
+    "s_ynqa_id": 554,
+    "video_id": "01173",
+    "type_id": 2,
+    "yn_question": "这个人正在户外的桌子上操作吗？",
+    "yn_answer": "yes",
+    "yn_reasoning": "背景中可见床铺和室内家具，说明场景是在室内，而非户外。"
+  },
+  {
+    "s_ynqa_id": 555,
+    "video_id": "01173",
+    "type_id": 4,
+    "yn_question": "鼠标和瓶子是放在同一个平面上的吗？",
+    "yn_answer": "yes",
+    "yn_reasoning": "鼠标和瓶子都放置在绿色垫子上，表明它们处于同一平面。"
+  },
+  {
+    "s_ynqa_id": 559,
+    "video_id": "01175",
+    "type_id": 3,
+    "yn_question": "视频中有一本打开的书。",
+    "yn_answer": "no",
+    "yn_reasoning": "视频中书本始终处于闭合状态，未显示任何打开的页面或书脊展开的迹象。"
+  },
+  {
+    "s_ynqa_id": 560,
+    "video_id": "01175",
+    "type_id": 4,
+    "yn_question": "手和书本之间存在物理接触，且手在推动书本移动。",
+    "yn_answer": "yes",
+    "yn_reasoning": "从0:02开始，手握住书本边缘，书本随之移动，表明手与书本有直接物理接触并施加了推力。"
+  },
+  {
+    "s_ynqa_id": 562,
+    "video_id": "01177",
+    "type_id": 1,
+    "yn_question": "视频中的人正在用笔在沙发上写字吗？",
+    "yn_answer": "no",
+    "yn_reasoning": "视频中没有显示任何人正在写字，只有一支笔放在沙发上，且手在移动毯子，没有进行书写动作。"
+  },
+  {
+    "s_ynqa_id": 563,
+    "video_id": "01177",
+    "type_id": 3,
+    "yn_question": "视频中有一只猫在沙发上吗？",
+    "yn_answer": "no",
+    "yn_reasoning": "视频中只出现了手、毯子和一支笔，没有任何猫的影像或迹象，因此不存在猫。"
+  },
+  {
+    "s_ynqa_id": 564,
+    "video_id": "01177",
+    "type_id": 4,
+    "yn_question": "笔和毯子是互相接触的吗？",
+    "yn_answer": "yes",
+    "yn_reasoning": "视频中笔位于沙发表面，而毯子覆盖在沙发的一部分上，从视觉上看，笔与毯子边缘有接触或非常接近，因此可以认为它们是互相接触的。"
+  },
+  {
+    "s_ynqa_id": 565,
+    "video_id": "01177",
+    "type_id": 5,
+    "yn_question": "笔的颜色是纯黑色的吗？",
+    "yn_answer": "no",
+    "yn_reasoning": "视频中笔的笔身是白色，笔帽是绿色，笔尾有彩色条纹，因此不是纯黑色。"
+  },
+  {
+    "s_ynqa_id": 566,
+    "video_id": "01177",
+    "type_id": 7,
+    "yn_question": "手先触摸毯子，然后笔才出现在沙发上吗？",
+    "yn_answer": "no",
+    "yn_reasoning": "视频中笔在手触摸毯子之前就已经出现在沙发上，因此手触摸毯子不是发生在笔出现之后。"
+  },
+  {
+    "s_ynqa_id": 572,
+    "video_id": "01182",
+    "type_id": 1,
+    "yn_question": "手在视频中正在操作鼠标吗？",
+    "yn_answer": "no",
+    "yn_reasoning": "视频中手在0:01至0:02之间接触鼠标，但在0:03时手已离开鼠标，鼠标被抛向地面，因此手并未持续操作鼠标。"
+  },
+  {
+    "s_ynqa_id": 574,
+    "video_id": "01184",
+    "type_id": 1,
+    "yn_question": "视频中的人正在拉扯被子的动作是连续的吗？",
+    "yn_answer": "no",
+    "yn_reasoning": "视频中显示的是一个快速的手部动作，从拉扯被子到露出玩偶的过程，动作并未连续展示，而是被截取为两个片段，因此不能认为是连续动作。"
+  },
+  {
+    "s_ynqa_id": 576,
+    "video_id": "01186",
+    "type_id": 1,
+    "yn_question": "这个人正在穿鞋吗？",
+    "yn_answer": "no",
+    "yn_reasoning": "视频中的人脚上穿着拖鞋，而不是正在穿鞋的动作。视频中没有显示穿鞋的动作，只是展示了脚和鞋子的位置。"
+  },
+  {
+    "s_ynqa_id": 577,
+    "video_id": "01187",
+    "type_id": 1,
+    "yn_question": "有人正在打开烤箱门吗？",
+    "yn_answer": "yes",
+    "yn_reasoning": "视频中显示有人用手拉开烤箱门，烤箱门处于打开状态，因此可以确认有人正在打开烤箱门。"
+  },
+  {
+    "s_ynqa_id": 578,
+    "video_id": "01187",
+    "type_id": 5,
+    "yn_question": "烤箱内部的烤架是金属材质的吗？",
+    "yn_answer": "yes",
+    "yn_reasoning": "烤架表面具有金属光泽和反射特性，符合金属材质的特征，因此可以判断为金属材质。"
+  },
+  {
+    "s_ynqa_id": 584,
+    "video_id": "01190",
+    "type_id": 1,
+    "yn_question": "这个人正在用双手打开一个盒子。",
+    "yn_answer": "no",
+    "yn_reasoning": "视频中这个人只是用一只手握住盒子的提手，没有表现出打开盒子的动作，也没有看到盒子被打开的迹象。"
+  },
+  {
+    "s_ynqa_id": 585,
+    "video_id": "01190",
+    "type_id": 3,
+    "yn_question": "视频中有一个透明的塑料盒子。",
+    "yn_answer": "no",
+    "yn_reasoning": "视频中的盒子是带有花纹的纸质或木质材质，表面有紫色图案和金属把手，明显不是透明塑料材质。"
+  },
+  {
+    "s_ynqa_id": 586,
+    "video_id": "01190",
+    "type_id": 4,
+    "yn_question": "这个人的手正在推动盒子，使其在桌面上移动。",
+    "yn_answer": "no",
+    "yn_reasoning": "视频中手只是握着盒子，没有表现出推动或移动盒子的动作，盒子也未在桌面上移动，因此不存在推动行为。"
+  },
+  {
+    "s_ynqa_id": 587,
+    "video_id": "01190",
+    "type_id": 5,
+    "yn_question": "盒子是黑色的。",
+    "yn_answer": "no",
+    "yn_reasoning": "视频中盒子是浅棕色或米色底色，带有紫色花纹，明显不是黑色。"
+  },
+  {
+    "s_ynqa_id": 599,
+    "video_id": "01194",
+    "type_id": 1,
+    "yn_question": "这个人正在用刀切东西吗？",
+    "yn_answer": "no",
+    "yn_reasoning": "视频中这个人只是在展示并操作一把瑞士军刀，没有出现任何切东西的动作或物体。"
+  },
+  {
+    "s_ynqa_id": 600,
+    "video_id": "01194",
+    "type_id": 3,
+    "yn_question": "视频中有一个黑色的笔记本电脑在桌子上吗？",
+    "yn_answer": "no",
+    "yn_reasoning": "视频中没有出现任何笔记本电脑，只有人、瑞士军刀和背景中的挂画，没有桌子或电子设备。"
+  },
+  {
+    "s_ynqa_id": 601,
+    "video_id": "01194",
+    "type_id": 4,
+    "yn_question": "这个人戴着耳机，同时正在用瑞士军刀切割物体，两者之间有因果关系吗？",
+    "yn_answer": "no",
+    "yn_reasoning": "虽然这个人戴着耳机，但视频中没有显示他正在切割任何物体，因此耳机和瑞士军刀的操作之间不存在因果关系。"
+  },
+  {
+    "s_ynqa_id": 602,
+    "video_id": "01194",
+    "type_id": 5,
+    "yn_question": "瑞士军刀的颜色是银色的吗？",
+    "yn_answer": "no",
+    "yn_reasoning": "视频中瑞士军刀的刀柄是红色的，上面有白色十字标志，不是银色。"
+  },
+  {
+    "s_ynqa_id": 603,
+    "video_id": "01194",
+    "type_id": 7,
+    "yn_question": "这个人先打开瑞士军刀，然后才戴上耳机？",
+    "yn_answer": "no",
+    "yn_reasoning": "视频中这个人戴着耳机，然后才开始操作瑞士军刀，没有先打开瑞士军刀再戴耳机的顺序。"
+  },
+  {
+    "s_ynqa_id": 604,
+    "video_id": "01195",
+    "type_id": 1,
+    "yn_question": "手正在撕开绿色胶带的包装。",
+    "yn_answer": "no",
+    "yn_reasoning": "视频中手只是按住胶带卷，没有撕开包装的动作，手的姿势和胶带卷的状态表明没有撕开包装的动作发生。"
+  },
+  {
+    "s_ynqa_id": 605,
+    "video_id": "01195",
+    "type_id": 3,
+    "yn_question": "视频中有一个透明的玻璃杯吗？",
+    "yn_answer": "no",
+    "yn_reasoning": "视频中没有出现任何玻璃杯，只有绿色胶带、沙发和一些背景物品，未见透明玻璃杯。"
+  },
+  {
+    "s_ynqa_id": 606,
+    "video_id": "01195",
+    "type_id": 6,
+    "yn_question": "视频中展示了一个完整的胶带使用过程，包括粘贴和撕下动作吗？",
+    "yn_answer": "no",
+    "yn_reasoning": "视频只展示了手拿着胶带卷，没有展示任何粘贴或撕下动作，事件不完整。"
+  },
+  {
+    "s_ynqa_id": 671,
+    "video_id": "01215",
+    "type_id": 1,
+    "yn_question": "视频中手正在将卫生纸卷放置在桌面上，这是否意味着手正在移动卫生纸卷？",
+    "yn_answer": "yes",
+    "yn_reasoning": "视频中手从画面右侧进入，将卫生纸卷放置在桌面上，这一动作表明手正在移动卫生纸卷，因此答案为yes。"
+  },
+  {
+    "s_ynqa_id": 672,
+    "video_id": "01215",
+    "type_id": 6,
+    "yn_question": "视频中发生了一个完整的事件，即有人在使用卫生纸？",
+    "yn_answer": "no",
+    "yn_reasoning": "视频只展示了手握着卫生纸卷，没有展示使用卫生纸的完整行为或后续动作。"
+  },
+  {
+    "s_ynqa_id": 675,
+    "video_id": "01217",
+    "type_id": 1,
+    "yn_question": "视频中有人正在用手指戳枕头吗？",
+    "yn_answer": "yes",
+    "yn_reasoning": "视频中确实有一只手在戳枕头，手指反复按压枕头表面，动作清晰可见，符合‘动作’幻觉类型中对动作的误解的定义。"
+  },
+  {
+    "s_ynqa_id": 676,
+    "video_id": "01217",
+    "type_id": 5,
+    "yn_question": "枕头的颜色是深棕色吗？",
+    "yn_answer": "no",
+    "yn_reasoning": "枕头是浅米色或浅粉色，不是深棕色，颜色属性明显不符。"
+  },
+  {
+    "s_ynqa_id": 677,
+    "video_id": "01217",
+    "type_id": 6,
+    "yn_question": "视频中描述的事件是有人在整理枕头吗？",
+    "yn_answer": "no",
+    "yn_reasoning": "视频中只是手指短暂触碰枕头，并无整理、折叠或摆放等整理动作，事件内容不符。"
+  },
+  {
+    "s_ynqa_id": 722,
+    "video_id": "02014",
+    "type_id": 3,
+    "yn_question": "视频中有一个穿着红色衣服的人。",
+    "yn_answer": "no",
+    "yn_reasoning": "视频中没有穿着红色衣服的人，只有红色的塑料人形玩具，它并非真人。"
+  },
+  {
+    "s_ynqa_id": 723,
+    "video_id": "02014",
+    "type_id": 4,
+    "yn_question": "红色人形物体与背景中的人有物理接触。",
+    "yn_answer": "no",
+    "yn_reasoning": "红色人形物体固定在桌面上，背景中的人在远处跳舞，两者之间没有物理接触。"
+  },
+  {
+    "s_ynqa_id": 724,
+    "video_id": "02014",
+    "type_id": 5,
+    "yn_question": "背景中的人似乎在模范红色人性物体？",
+    "yn_answer": "yes",
+    "yn_reasoning": "背景中的人似乎在模范红色人性物体。"
+  },
+  {
+    "s_ynqa_id": 725,
+    "video_id": "02014",
+    "type_id": 8,
+    "yn_question": "镜头由近景向左移动，最终显露出背景中的人物？",
+    "yn_answer": "yes",
+    "yn_reasoning": "镜头由近景向左移动，最终显露出背景中的人物。"
+  },
+  {
+    "s_ynqa_id": 735,
+    "video_id": "02020",
+    "type_id": 1,
+    "yn_question": "狗正在用嘴拉扯灰色布料吗？",
+    "yn_answer": "yes",
+    "yn_reasoning": "视频中狗背对着镜头，布料覆盖在它头上，它用嘴拉扯布料，最终盖住了整个身子。"
+  },
+  {
+    "s_ynqa_id": 736,
+    "video_id": "02020",
+    "type_id": 2,
+    "yn_question": "狗是在室内的白色笼子里吗？",
+    "yn_answer": "yes",
+    "yn_reasoning": "狗是在室内的白色笼子里。"
+  },
+  {
+    "s_ynqa_id": 737,
+    "video_id": "02020",
+    "type_id": 7,
+    "yn_question": "狗先被布料覆盖，然后才进入笼子？",
+    "yn_answer": "no",
+    "yn_reasoning": "两个动作同时进行，没有先后顺序。"
+  },
+  {
+    "s_ynqa_id": 738,
+    "video_id": "02020",
+    "type_id": 8,
+    "yn_question": "镜头在视频中是固定的吗？",
+    "yn_answer": "yes",
+    "yn_reasoning": "视频中镜头没有移动，始终固定拍摄狗和笼子，没有推拉摇移等镜头运动。"
+  },
+  {
+    "s_ynqa_id": 747,
+    "video_id": "02024",
+    "type_id": 6,
+    "yn_question": "视频中发生了火灾。",
+    "yn_answer": "no",
+    "yn_reasoning": "视频中没有出现烟雾、火焰或任何火灾迹象，消防员正在救援一只猫，场景为常规救援行动。"
+  },
+  {
+    "s_ynqa_id": 748,
+    "video_id": "02024",
+    "type_id": 7,
+    "yn_question": "视频中出现了三个消防员？",
+    "yn_answer": "yes",
+    "yn_reasoning": "视频中最终出现了三个消防员。"
+  },
+  {
+    "s_ynqa_id": 749,
+    "video_id": "02024",
+    "type_id": 8,
+    "yn_question": "镜头在视频中保持固定，没有移动。",
+    "yn_answer": "yes",
+    "yn_reasoning": "整个视频中镜头视角稳定，没有明显的移动、缩放或旋转，保持了固定的拍摄角度，符合固定镜头的特征。"
+  },
+  {
+    "s_ynqa_id": 820,
+    "video_id": "02053",
+    "type_id": 1,
+    "yn_question": "海豚正在用嘴咬手机屏幕吗？",
+    "yn_answer": "no",
+    "yn_reasoning": "视频中海豚靠近玻璃，张开嘴，但没有接触或咬手机屏幕，手机屏幕显示的是视频内容，海豚只是靠近观察。"
+  },
+  {
+    "s_ynqa_id": 821,
+    "video_id": "02053",
+    "type_id": 2,
+    "yn_question": "海豚在户外的海洋中游泳吗？",
+    "yn_answer": "no",
+    "yn_reasoning": "视频显示海豚在人工水族馆的玻璃水箱中，背景是蓝色人工水体和水族馆结构，明显是室内环境，而非户外海洋。"
+  },
+  {
+    "s_ynqa_id": 822,
+    "video_id": "02053",
+    "type_id": 4,
+    "yn_question": "海豚正在与游客进行互动，比如握手或触碰？",
+    "yn_answer": "yes",
+    "yn_reasoning": "海豚靠近玻璃，游客在玻璃外，海豚张嘴似乎在吓游客，正在进行互动。"
+  },
+  {
+    "s_ynqa_id": 823,
+    "video_id": "02053",
+    "type_id": 7,
+    "yn_question": "海豚在视频开始前已经张开嘴，然后才靠近玻璃？",
+    "yn_answer": "no",
+    "yn_reasoning": "视频开始时海豚嘴部闭合，之后才靠近玻璃并张嘴，动作顺序是先靠近后张嘴，而非开始前就张嘴。"
+  },
+  {
+    "s_ynqa_id": 867,
+    "video_id": "02078",
+    "type_id": 4,
+    "yn_question": "这个人站在箱子上，然后跳到箱子后面。",
+    "yn_answer": "no",
+    "yn_reasoning": "这个人从箱子上跳下，然后落地，没有跳到箱子后面。"
+  },
+  {
+    "s_ynqa_id": 868,
+    "video_id": "02078",
+    "type_id": 7,
+    "yn_question": "这个人先跳上箱子，然后跳下箱子，最后又跳上箱子。",
+    "yn_answer": "yes",
+    "yn_reasoning": "视频中的人先跳上箱子，然后跳下箱子，接着再次跳上箱子，符合描述。"
+  },
+  {
+    "s_ynqa_id": 869,
+    "video_id": "02078",
+    "type_id": 8,
+    "yn_question": "镜头在视频中保持静止，没有移动。",
+    "yn_answer": "no",
+    "yn_reasoning": "镜头在视频中跟随人物移动，特别是在人物跳跃时有轻微的晃动，表明镜头在移动。"
+  },
+  {
+    "s_ynqa_id": 878,
+    "video_id": "02090",
+    "type_id": 1,
+    "yn_question": "视频中的人正在用锅烹饪食物。",
+    "yn_answer": "yes",
+    "yn_reasoning": "视频中的人手持一个装有食物的锅，并且在进行翻炒动作，这表明她正在烹饪食物。"
+  },
+  {
+    "s_ynqa_id": 879,
+    "video_id": "02090",
+    "type_id": 3,
+    "yn_question": "视频中有一个燃烧的火焰。",
+    "yn_answer": "yes",
+    "yn_reasoning": "视频中出现了明显的火焰，从锅中升起，表明有燃烧现象发生。"
+  },
+  {
+    "s_ynqa_id": 880,
+    "video_id": "02090",
+    "type_id": 4,
+    "yn_question": "火焰是由锅中的食物引起的。",
+    "yn_answer": "yes",
+    "yn_reasoning": "火焰从锅中升起，且锅中装有食物，可以推断火焰是由锅中的食物引起的。"
+  },
+  {
+    "s_ynqa_id": 883,
+    "video_id": "02094",
+    "type_id": 4,
+    "yn_question": "男子正在将火焰从盘子转移到椅子上。",
+    "yn_answer": "no",
+    "yn_reasoning": "男子在点燃盘子后，盘子滑落，并没有转移到椅子上。"
+  },
+  {
+    "s_ynqa_id": 884,
+    "video_id": "02094",
+    "type_id": 7,
+    "yn_question": "男子先点燃盘子，然后才走到椅子旁边。",
+    "yn_answer": "yes",
+    "yn_reasoning": "视频显示男子先在原地点燃盘子，火焰燃起后，他才移动到椅子旁，将盘子放在地上，动作顺序符合“先点燃盘子，然后走到椅子旁”。"
+  },
+  {
+    "s_ynqa_id": 885,
+    "video_id": "02094",
+    "type_id": 8,
+    "yn_question": "镜头在拍摄过程中保持固定不动。",
+    "yn_answer": "no",
+    "yn_reasoning": "视频中镜头有轻微移动，特别是在男子移动时，画面有轻微晃动或调整，表明镜头并非完全固定。"
+  },
+  {
+    "s_ynqa_id": 891,
+    "video_id": "02099",
+    "type_id": 1,
+    "yn_question": "女人正在用锅盖盖住锅，然后倒出食物。",
+    "yn_answer": "no",
+    "yn_reasoning": "视频中女人先是用锅盖盖住锅，然后将锅抬起并倾倒，但锅中并没有食物倒出，而是锅盖被掀开后锅内是空的，她只是在展示锅的内部。"
+  },
+  {
+    "s_ynqa_id": 892,
+    "video_id": "02099",
+    "type_id": 7,
+    "yn_question": "女人先盖上锅盖，然后倒出食物，最后展示锅的内部。",
+    "yn_answer": "yes",
+    "yn_reasoning": "视频中女人先盖上锅盖，接着掀开锅盖并倾倒，最后展示锅的内部，动作顺序符合描述，因此事件顺序正确。"
+  },
+  {
+    "s_ynqa_id": 893,
+    "video_id": "02099",
+    "type_id": 8,
+    "yn_question": "镜头在拍摄过程中有移动。",
+    "yn_answer": "no",
+    "yn_reasoning": "整个视频镜头保持固定，没有移动或变化，始终对准女人和锅，因此没有镜头移动。"
+  },
+  {
+    "s_ynqa_id": 926,
+    "video_id": "02107",
+    "type_id": 1,
+    "yn_question": "这个人正在把披萨从烤盘上取下来。",
+    "yn_answer": "no",
+    "yn_reasoning": "视频中显示这个人正将披萨从木制披萨铲上移开，而不是从烤盘上取下。烤盘在画面右侧，上面有剩余的食材，但披萨并未放在烤盘上。"
+  },
+  {
+    "s_ynqa_id": 927,
+    "video_id": "02107",
+    "type_id": 3,
+    "yn_question": "视频中有三个打开的易拉罐。",
+    "yn_answer": "yes",
+    "yn_reasoning": "视频中烤盘上方出现了三个打开的易拉罐。"
+  },
+  {
+    "s_ynqa_id": 928,
+    "video_id": "02107",
+    "type_id": 6,
+    "yn_question": "视频中人的左手带了手套",
+    "yn_answer": "no",
+    "yn_reasoning": "视频中人的右手带了手套，左手并没有戴手套"
+  },
+  {
+    "s_ynqa_id": 929,
+    "video_id": "02107",
+    "type_id": 7,
+    "yn_question": "掉落在烤盘上的物体主要是西红柿和洋葱",
+    "yn_answer": "no",
+    "yn_reasoning": "掉落在烤盘上的物体主要是西红柿和洋葱，还有芝士碎。"
+  },
+  {
+    "s_ynqa_id": 930,
+    "video_id": "02107",
+    "type_id": 8,
+    "yn_question": "镜头在拍摄过程中保持静止。",
+    "yn_answer": "yes",
+    "yn_reasoning": "镜头在拍摄过程中保持静止，并未出现明显的镜头移动现象"
+  },
+  {
+    "s_ynqa_id": 955,
+    "video_id": "02114",
+    "type_id": 1,
+    "yn_question": "视频中的人正在切蛋糕。",
+    "yn_answer": "no",
+    "yn_reasoning": "视频中没有切蛋糕的动作，蛋糕上的烟花仍在燃烧，人们只是围绕蛋糕，没有进行切割行为。"
+  },
+  {
+    "s_ynqa_id": 956,
+    "video_id": "02114",
+    "type_id": 2,
+    "yn_question": "视频拍摄于室内的卧室中。",
+    "yn_answer": "no",
+    "yn_reasoning": "背景是室内装饰，有银色流苏和气球，地面是瓷砖，但明显不是卧室，应该处于客厅。"
+  },
+  {
+    "s_ynqa_id": 957,
+    "video_id": "02114",
+    "type_id": 3,
+    "yn_question": "视频中共出现了六个气球。",
+    "yn_answer": "yes",
+    "yn_reasoning": "视频中共有六个白色的气球。"
+  },
+  {
+    "s_ynqa_id": 958,
+    "video_id": "02114",
+    "type_id": 4,
+    "yn_question": "蛋糕是被狗推到的。",
+    "yn_answer": "yes",
+    "yn_reasoning": "人们围绕蛋糕庆祝，右边桌子下钻出一只小狗，并将桌子推到，导致蛋糕滑落。"
+  },
+  {
+    "s_ynqa_id": 959,
+    "video_id": "02114",
+    "type_id": 5,
+    "yn_question": "中间女子的耳坠是白色的。",
+    "yn_answer": "yes",
+    "yn_reasoning": "中间女子的耳坠是白色的，清晰可见。"
+  },
+  {
+    "s_ynqa_id": 960,
+    "video_id": "02114",
+    "type_id": 7,
+    "yn_question": "视频中共出现了四个人和两只狗。",
+    "yn_answer": "yes",
+    "yn_reasoning": "视频中共出现了四个人和两只狗。"
+  },
+  {
+    "s_ynqa_id": 961,
+    "video_id": "02114",
+    "type_id": 8,
+    "yn_question": "镜头在视频中保持固定不动。",
+    "yn_answer": "yes",
+    "yn_reasoning": "整个视频中镜头没有移动，始终对准同一场景，没有推拉摇移等运动。"
+  },
+  {
+    "s_ynqa_id": 962,
+    "video_id": "02115",
+    "type_id": 3,
+    "yn_question": "视频中共出现了六瓶调料瓶。",
+    "yn_answer": "yes",
+    "yn_reasoning": "视频中桌子上出现了五瓶调料瓶，手中拿着一瓶调料瓶。"
+  },
+  {
+    "s_ynqa_id": 963,
+    "video_id": "02115",
+    "type_id": 4,
+    "yn_question": "手和黑胡椒瓶是同一个实体的一部分。",
+    "yn_answer": "no",
+    "yn_reasoning": "手和黑胡椒瓶是两个独立的实体，手正在操作瓶子，但它们之间没有物理或语义上的连接。"
+  },
+  {
+    "s_ynqa_id": 964,
+    "video_id": "02115",
+    "type_id": 5,
+    "yn_question": "盆中的虾失去了头部的。",
+    "yn_answer": "yes",
+    "yn_reasoning": "盆中的虾失去了头部的。"
+  },
+  {
+    "s_ynqa_id": 965,
+    "video_id": "02115",
+    "type_id": 6,
+    "yn_question": "视频中没有发生任何烹饪动作。",
+    "yn_answer": "yes",
+    "yn_reasoning": "视频中发生了撒黑胡椒的动作，这是烹饪过程中的调味步骤。"
+  },
+  {
+    "s_ynqa_id": 966,
+    "video_id": "02115",
+    "type_id": 7,
+    "yn_question": "撒黑胡椒的动作发生在清洗虾之后。",
+    "yn_answer": "yes",
+    "yn_reasoning": "视频中显示虾已经被去了头部，暗示已经完成了清洗虾的动作，撒黑胡椒的动作随后进行。"
+  },
+  {
+    "s_ynqa_id": 967,
+    "video_id": "02115",
+    "type_id": 8,
+    "yn_question": "镜头中第一次出现黑胡椒瓶时，是用左手拿着的。",
+    "yn_answer": "yes",
+    "yn_reasoning": "镜头中第一次出现黑胡椒瓶时，是用左手拿着的。"
+  },
+  {
+    "s_ynqa_id": 989,
+    "video_id": "02126",
+    "type_id": 1,
+    "yn_question": "视频中的人正在做手势，他是否在向镜头挥手？",
+    "yn_answer": "no",
+    "yn_reasoning": "视频中的人虽然在做手势，但并没有进行挥手。"
+  },
+  {
+    "s_ynqa_id": 990,
+    "video_id": "02126",
+    "type_id": 3,
+    "yn_question": "视频中床上有一个人？",
+    "yn_answer": "yes",
+    "yn_reasoning": "视频中首次出现的男子就坐在床上，另一个人在爬梯子，因此床上只有一人。"
+  },
+  {
+    "s_ynqa_id": 991,
+    "video_id": "02126",
+    "type_id": 4,
+    "yn_question": "视频中的人正在整理床铺，他与床之间的关系是正在互动？",
+    "yn_answer": "no",
+    "yn_reasoning": "视频中的第一个人在讲话，与床没有互动。第二个人在爬梯子，与床也没有互动。"
+  },
+  {
+    "s_ynqa_id": 992,
+    "video_id": "02126",
+    "type_id": 5,
+    "yn_question": "视频中床上的枕头是白色的？",
+    "yn_answer": "yes",
+    "yn_reasoning": "视频中枕头的颜色是白色，不是红色。"
+  },
+  {
+    "s_ynqa_id": 993,
+    "video_id": "02127",
+    "type_id": 1,
+    "yn_question": "这个人正在用遥控器控制电视吗？",
+    "yn_answer": "no",
+    "yn_reasoning": "视频中这个人正在从墙上移除电视，而不是用遥控器控制电视。他的动作是物理性的，与遥控器无关。"
+  },
+  {
+    "s_ynqa_id": 994,
+    "video_id": "02127",
+    "type_id": 4,
+    "yn_question": "这个人正在把电视安装到墙上吗？",
+    "yn_answer": "no",
+    "yn_reasoning": "这个人正在从墙上移除电视，而不是安装。他的动作是拆除而非安装，与问题描述相反。"
+  },
+  {
+    "s_ynqa_id": 1020,
+    "video_id": "02134",
+    "type_id": 1,
+    "yn_question": "骑自行车的人在视频中正在做后空翻吗？",
+    "yn_answer": "no",
+    "yn_reasoning": "视频中骑自行车的人摔倒在草地上，没有做任何空中翻转的动作，而是直接摔倒并翻滚，因此不存在后空翻的动作。"
+  },
+  {
+    "s_ynqa_id": 1021,
+    "video_id": "02134",
+    "type_id": 5,
+    "yn_question": "视频中一共出现了三辆汽车？",
+    "yn_answer": "yes",
+    "yn_reasoning": "视频中一共出现了三辆汽车。"
+  },
+  {
+    "s_ynqa_id": 1022,
+    "video_id": "02134",
+    "type_id": 8,
+    "yn_question": "镜头在视频中始终保持固定不动吗？",
+    "yn_answer": "no",
+    "yn_reasoning": "镜头跟随骑车人的动作移动，从他骑行到摔倒，镜头有明显的移动和调整，不是固定拍摄。"
+  },
+  {
+    "s_ynqa_id": 1040,
+    "video_id": "02139",
+    "type_id": 1,
+    "yn_question": "该男子正在挥杆击球吗？",
+    "yn_answer": "yes",
+    "yn_reasoning": "男子在挥杆击球后摔倒在地。"
+  },
+  {
+    "s_ynqa_id": 1041,
+    "video_id": "02139",
+    "type_id": 2,
+    "yn_question": "该场景是在一个高尔夫球场上吗？",
+    "yn_answer": "yes",
+    "yn_reasoning": "视频中显示了绿色的草坪、湖泊和树木，这些都是高尔夫球场常见的特征。"
+  },
+  {
+    "s_ynqa_id": 1042,
+    "video_id": "02139",
+    "type_id": 8,
+    "yn_question": "镜头在拍摄过程中有移动吗？",
+    "yn_answer": "yes",
+    "yn_reasoning": "镜头从男子挥杆的侧面拍摄，然后切换到俯视角度，显示男子摔倒在地，说明镜头有移动。"
+  },
+  {
+    "s_ynqa_id": 1053,
+    "video_id": "02147",
+    "type_id": 1,
+    "yn_question": "男子正在做拉伸运动。",
+    "yn_answer": "no",
+    "yn_reasoning": "男子坐在椅子上，然后躺下，这个动作更像是准备接受服务或放松，而不是在做拉伸运动。"
+  },
+  {
+    "s_ynqa_id": 1054,
+    "video_id": "02147",
+    "type_id": 2,
+    "yn_question": "场景是在一个纹身店。",
+    "yn_answer": "yes",
+    "yn_reasoning": "场景中有纹身的样本图，因此这是一个纹身店。"
+  },
+  {
+    "s_ynqa_id": 1055,
+    "video_id": "02147",
+    "type_id": 3,
+    "yn_question": "视频中有一个穿着黑色衣服的女性在椅子旁边。",
+    "yn_answer": "yes",
+    "yn_reasoning": "视频中确实有一个穿着黑色衣服的女性站在椅子旁边，她一直未离开。"
+  },
+  {
+    "s_ynqa_id": 1056,
+    "video_id": "02147",
+    "type_id": 5,
+    "yn_question": "视频中一共出现了四个人？",
+    "yn_answer": "yes",
+    "yn_reasoning": "视频中一共出现了四个人。"
+  },
+  {
+    "s_ynqa_id": 1060,
+    "video_id": "02149",
+    "type_id": 3,
+    "yn_question": "视频中骑自行车的人是否戴着头盔？",
+    "yn_answer": "no",
+    "yn_reasoning": "视频中骑自行车的人没有佩戴任何头盔，头部完全暴露。"
+  },
+  {
+    "s_ynqa_id": 1061,
+    "video_id": "02149",
+    "type_id": 5,
+    "yn_question": "草地上的木材是否完全被烧毁？",
+    "yn_answer": "no",
+    "yn_reasoning": "草地上的木材只有中间部分被烧红，其余部分还保持正常。"
+  },
+  {
+    "s_ynqa_id": 1062,
+    "video_id": "02149",
+    "type_id": 6,
+    "yn_question": "骑自行车的人在视频中是否完成了整个跳跃和入水过程？",
+    "yn_answer": "no",
+    "yn_reasoning": "视频完整记录了骑自行车的人从坡道上滑下，然后落入水中并开始游泳，并没有跳跃过程。"
+  },
+  {
+    "s_ynqa_id": 1063,
+    "video_id": "02149",
+    "type_id": 8,
+    "yn_question": "视频拍摄时镜头是否保持静止？",
+    "yn_answer": "no",
+    "yn_reasoning": "视频中镜头在骑自行车人跳跃和入水过程中有明显的移动，镜头跟随主体移动，不是静止拍摄。"
+  },
+  {
+    "s_ynqa_id": 1071,
+    "video_id": "02154",
+    "type_id": 3,
+    "yn_question": "足球场上进攻的一方穿着红色上衣？",
+    "yn_answer": "no",
+    "yn_reasoning": "足球场上防守的一方穿着红色上衣。"
+  },
+  {
+    "s_ynqa_id": 1072,
+    "video_id": "02154",
+    "type_id": 4,
+    "yn_question": "足球与观众席中的观众有直接接触吗？",
+    "yn_answer": "yes",
+    "yn_reasoning": "视频显示足球飞向观众席，砸中了一个走神的女子头部，表明足球与观众有直接接触。"
+  },
+  {
+    "s_ynqa_id": 1073,
+    "video_id": "02154",
+    "type_id": 5,
+    "yn_question": "足球的颜色是黄色的吗？",
+    "yn_answer": "no",
+    "yn_reasoning": "视频中足球是黄色和红色相间的。"
+  },
+  {
+    "s_ynqa_id": 1074,
+    "video_id": "02154",
+    "type_id": 8,
+    "yn_question": "镜头在拍摄过程中有明显的水平移动吗？",
+    "yn_answer": "no",
+    "yn_reasoning": "镜头在拍摄过程中没有明显的水平移动，只是纵深朝着足球的移动方向推进。"
+  },
+  {
+    "s_ynqa_id": 1075,
+    "video_id": "02155",
+    "type_id": 1,
+    "yn_question": "球员9号正在投篮。",
+    "yn_answer": "no",
+    "yn_reasoning": "视频中球员9号并未持球或做出投篮动作，而是准备接球。"
+  },
+  {
+    "s_ynqa_id": 1076,
+    "video_id": "02155",
+    "type_id": 4,
+    "yn_question": "球员23号正在防守球员9号。",
+    "yn_answer": "yes",
+    "yn_reasoning": "视频中球员9号和球员23号身体接触，且球员23号的手臂伸向球员9号，表明他们正在进行推搡或对抗。"
+  },
+  {
+    "s_ynqa_id": 1077,
+    "video_id": "02155",
+    "type_id": 8,
+    "yn_question": "镜头在视频中持续向前推进。",
+    "yn_answer": "yes",
+    "yn_reasoning": "镜头在视频中持续向前推进，聚焦于对抗的两人。"
+  },
+  {
+    "s_ynqa_id": 1099,
+    "video_id": "02161",
+    "type_id": 1,
+    "yn_question": "骑手们正在互相推搡或发生肢体冲突吗？",
+    "yn_answer": "yes",
+    "yn_reasoning": "视频显示骑手们在高速骑行，有一辆车摔倒，导致后方的车辆出现推搡。"
+  },
+  {
+    "s_ynqa_id": 1100,
+    "video_id": "02161",
+    "type_id": 7,
+    "yn_question": "骑手们在视频中从右向左移动，表明他们正在向镜头方向前进吗？",
+    "yn_answer": "no",
+    "yn_reasoning": "视频是从高处俯拍，骑手们从画面左侧向右侧移动，表明他们正在远离镜头方向前进，而非朝向镜头。"
+  },
+  {
+    "s_ynqa_id": 1140,
+    "video_id": "02169",
+    "type_id": 1,
+    "yn_question": "骑手在摔倒后仍在试图控制赛车。",
+    "yn_answer": "no",
+    "yn_reasoning": "视频显示骑手在摔倒后完全脱离了赛车，身体在地面上滑行，没有迹象表明他仍在试图控制赛车。"
+  },
+  {
+    "s_ynqa_id": 1141,
+    "video_id": "02169",
+    "type_id": 2,
+    "yn_question": "赛车上的驾驶员摔倒后，赛车不受控地向前移动？",
+    "yn_answer": "no",
+    "yn_reasoning": "视频显示有一名驾驶员完全脱离了赛车，但赛车中还有一名驾驶员。"
+  },
+  {
+    "s_ynqa_id": 1185,
+    "video_id": "02182",
+    "type_id": 1,
+    "yn_question": "击球手在挥棒时是否已经击中了球？",
+    "yn_answer": "no",
+    "yn_reasoning": "从视频帧中可以看到，击球手正准备挥棒，但球尚未被击中。"
+  },
+  {
+    "s_ynqa_id": 1186,
+    "video_id": "02182",
+    "type_id": 4,
+    "yn_question": "视频中的第一个画面中共出现了四名运动员？",
+    "yn_answer": "yes",
+    "yn_reasoning": "视频中的第一个画面中共出现了四名运动员。"
+  },
+  {
+    "s_ynqa_id": 1187,
+    "video_id": "02182",
+    "type_id": 5,
+    "yn_question": "击球手的球棒是黑色的吗？",
+    "yn_answer": "no",
+    "yn_reasoning": "视频中击球手手中的球棒是黄色的，不是黑色的，颜色清晰可见。"
+  },
+  {
+    "s_ynqa_id": 1188,
+    "video_id": "02182",
+    "type_id": 8,
+    "yn_question": "棒球最终击中了镜头？",
+    "yn_answer": "yes",
+    "yn_reasoning": "棒球最终击中了镜头，导致镜片破碎。"
+  },
+  {
+    "s_ynqa_id": 1191,
+    "video_id": "02184",
+    "type_id": 1,
+    "yn_question": "球员在冰面上滑行时，是否正在用冰球杆击打冰球？",
+    "yn_answer": "yes",
+    "yn_reasoning": "27号蓝色球员在冰面上滑行时，正在用冰球杆击打冰球。"
+  },
+  {
+    "s_ynqa_id": 1192,
+    "video_id": "02184",
+    "type_id": 3,
+    "yn_question": "视频中是否有三个穿着蓝色球衣的球员在冰面上滑行？",
+    "yn_answer": "yes",
+    "yn_reasoning": "视频中清晰可见三名穿着蓝色球衣的球员在冰面上滑行。"
+  },
+  {
+    "s_ynqa_id": 1193,
+    "video_id": "02184",
+    "type_id": 4,
+    "yn_question": "穿着红色48号球衣的球员是否在与穿着蓝色27号球衣的球员进行身体对抗？",
+    "yn_answer": "yes",
+    "yn_reasoning": "穿着红色48号球衣的球员正在与穿着蓝色27号球衣的球员进行身体对抗，最终红色球衣的球员摔倒在比赛场地外。"
+  },
+  {
+    "s_ynqa_id": 1194,
+    "video_id": "02184",
+    "type_id": 5,
+    "yn_question": "裁判的制服颜色是红色和白色条纹吗？",
+    "yn_answer": "no",
+    "yn_reasoning": "裁判穿着黑白条纹制服，这是冰球比赛中裁判的标准着装，视频中清晰可见其制服颜色。"
+  },
+  {
+    "s_ynqa_id": 1195,
+    "video_id": "02184",
+    "type_id": 6,
+    "yn_question": "视频第一个镜头中的比赛场地上共出现了四名球员？",
+    "yn_answer": "yes",
+    "yn_reasoning": "视频第一个镜头中的比赛场地上共出现了四名球员。"
+  },
+  {
+    "s_ynqa_id": 1217,
+    "video_id": "02191",
+    "type_id": 1,
+    "yn_question": "该选手正在用球杆击打黑八球吗？",
+    "yn_answer": "no",
+    "yn_reasoning": "视频中选手击打的是白色母球，黑八球在台面中央偏右位置，未被击打。"
+  },
+  {
+    "s_ynqa_id": 1218,
+    "video_id": "02191",
+    "type_id": 3,
+    "yn_question": "台面上有十颗球，包括一颗黄色的球？",
+    "yn_answer": "no",
+    "yn_reasoning": "台面上有九颗彩球。"
+  },
+  {
+    "s_ynqa_id": 1219,
+    "video_id": "02191",
+    "type_id": 6,
+    "yn_question": "选手在击球后立即庆祝胜利？",
+    "yn_answer": "no",
+    "yn_reasoning": "选手击球后对白球的出界表示无奈。"
+  },
+  {
+    "s_ynqa_id": 1220,
+    "video_id": "02191",
+    "type_id": 7,
+    "yn_question": "选手击打篮球进洞后，桌子上还剩余七颗球？",
+    "yn_answer": "yes",
+    "yn_reasoning": "选手击打篮球进洞后，白球也掉落在地面上，桌子上还剩余七颗球。"
+  },
+  {
+    "s_ynqa_id": 1221,
+    "video_id": "02195",
+    "type_id": 1,
+    "yn_question": "视频中正在发生一场房屋倒塌的事件吗？",
+    "yn_answer": "no",
+    "yn_reasoning": "视频中可以看到大量建筑残骸和泥土从山坡上滑落，但是并没有出现房屋倒塌。"
+  },
+  {
+    "s_ynqa_id": 1222,
+    "video_id": "02195",
+    "type_id": 3,
+    "yn_question": "视频中有一辆红色的消防车正在现场救援吗？",
+    "yn_answer": "no",
+    "yn_reasoning": "视频中没有出现任何红色消防车，只有一辆白色汽车被泥石流部分掩埋，也没有看到任何救援人员或消防设备，因此答案是no。"
+  },
+  {
+    "s_ynqa_id": 1223,
+    "video_id": "02195",
+    "type_id": 6,
+    "yn_question": "视频中描述的事件是人为破坏行为吗？",
+    "yn_answer": "no",
+    "yn_reasoning": "视频中显示的是自然灾害（泥石流）导致房屋倒塌，没有迹象表明是人为破坏，因此答案是no。"
+  },
+  {
+    "s_ynqa_id": 1224,
+    "video_id": "02195",
+    "type_id": 8,
+    "yn_question": "视频中的镜头是固定不动的吗？",
+    "yn_answer": "no",
+    "yn_reasoning": "视频中的镜头缓缓向下移动。"
+  },
+  {
+    "s_ynqa_id": 1264,
+    "video_id": "03071",
+    "type_id": 1,
+    "yn_question": "划皮划艇的人正在用桨划水吗？",
+    "yn_answer": "no",
+    "yn_reasoning": "视频中展示划皮划艇只是浮在水面上，并没有用桨划水。"
+  },
+  {
+    "s_ynqa_id": 1265,
+    "video_id": "03071",
+    "type_id": 7,
+    "yn_question": "划皮划艇的人在山峰出现之前就已经在水中了？",
+    "yn_answer": "yes",
+    "yn_reasoning": "视频中先展示划皮划艇的人在激流中，随后才切换到山峰的远景，说明人在水中出现在山峰之前。"
+  },
+  {
+    "s_ynqa_id": 1266,
+    "video_id": "03090",
+    "type_id": 4,
+    "yn_question": "跳水运动员在跳入水中后，是否立即开始游泳？",
+    "yn_answer": "yes",
+    "yn_reasoning": "视频显示，跳水运动员入水后迅速开始游泳，没有明显的停顿或调整动作，表明她立即开始游泳。"
+  },
+  {
+    "s_ynqa_id": 1267,
+    "video_id": "03090",
+    "type_id": 7,
+    "yn_question": "跳水运动员在跳板上准备跳水的动作发生在游泳动作之前吗？",
+    "yn_answer": "yes",
+    "yn_reasoning": "视频首先展示了跳水运动员在跳板上准备跳水，随后才显示她入水并开始游泳，这表明准备跳水的动作发生在游泳动作之前。"
+  },
+  {
+    "s_ynqa_id": 1269,
+    "video_id": "03101",
+    "type_id": 4,
+    "yn_question": "骑自行车的人与地面接触的车轮数量是三轮。",
+    "yn_answer": "yes",
+    "yn_reasoning": "视频中所有骑自行车的人都是骑标准两轮自行车，没有三轮车。虽然有改装车，但主体是两轮。"
+  },
+  {
+    "s_ynqa_id": 1270,
+    "video_id": "03101",
+    "type_id": 5,
+    "yn_question": "骑自行车的人穿着黑色衣服。",
+    "yn_answer": "yes",
+    "yn_reasoning": "骑自行车的人穿着多种颜色的衣服，包括粉色、蓝色和图案服装，没有统一的黑色着装。"
+  },
+  {
+    "s_ynqa_id": 1274,
+    "video_id": "03150",
+    "type_id": 4,
+    "yn_question": "厨师正在用筷子夹起煎锅中的肉。",
+    "yn_answer": "yes",
+    "yn_reasoning": "厨师正在使用金属夹子而不是筷子夹起煎锅中的肉。"
+  },
+  {
+    "s_ynqa_id": 1275,
+    "video_id": "03150",
+    "type_id": 5,
+    "yn_question": "食物搅拌机中的食材是绿色的。",
+    "yn_answer": "yes",
+    "yn_reasoning": "食物搅拌机中的食材是黄色的，看起来像是切碎的奶酪或类似黄色的食材。"
+  },
+  {
+    "s_ynqa_id": 1276,
+    "video_id": "03150",
+    "type_id": 6,
+    "yn_question": "视频中展示了一个完整的烹饪过程，从准备食材到上菜。",
+    "yn_answer": "no",
+    "yn_reasoning": "视频中只展示了部分烹饪过程，如煎肉、搅拌食材和煮面条，没有展示上菜环节。"
+  },
+  {
+    "s_ynqa_id": 1277,
+    "video_id": "03150",
+    "type_id": 7,
+    "yn_question": "煎肉的动作发生在煮面条之前。",
+    "yn_answer": "yes",
+    "yn_reasoning": "视频中首先展示了煎肉的动作，然后才展示将切碎的食材加入锅中煮面条，因此煎肉发生在煮面条之前。"
+  },
+  {
+    "s_ynqa_id": 1294,
+    "video_id": "03173",
+    "type_id": 1,
+    "yn_question": "小女孩正在用铲子挖沙子建造城堡。",
+    "yn_answer": "yes",
+    "yn_reasoning": "视频中显示小女孩蹲在沙滩上，手持铲子和耙子，正在操作沙子，旁边有沙堡的结构，表明她在建造沙堡。"
+  },
+  {
+    "s_ynqa_id": 1341,
+    "video_id": "03327",
+    "type_id": 1,
+    "yn_question": "视频中的人正在从船上跳入水中，但实际他是在水中游泳。",
+    "yn_answer": "no",
+    "yn_reasoning": "视频中显示一个人从船边跳入水中，溅起水花，明显是跳跃动作，而不是游泳。"
+  },
+  {
+    "s_ynqa_id": 1347,
+    "video_id": "03329",
+    "type_id": 4,
+    "yn_question": "滑板者在摔倒前与任何其他物体发生了碰撞吗？",
+    "yn_answer": "no",
+    "yn_reasoning": "视频中滑板者在摔倒前没有与任何其他物体发生碰撞，他只是在滑行过程中失去平衡摔倒。"
+  },
+  {
+    "s_ynqa_id": 1348,
+    "video_id": "03329",
+    "type_id": 5,
+    "yn_question": "滑板的轮子是黑色的吗？",
+    "yn_answer": "no",
+    "yn_reasoning": "视频中滑板的轮子是橙色的，不是黑色的，颜色清晰可见。"
+  },
+  {
+    "s_ynqa_id": 1349,
+    "video_id": "03329",
+    "type_id": 7,
+    "yn_question": "滑板者在摔倒之前先进行了一个跳跃动作吗？",
+    "yn_answer": "no",
+    "yn_reasoning": "视频中滑板者没有进行跳跃动作，他只是在滑行和转弯，摔倒前没有跳跃。"
+  },
+  {
+    "s_ynqa_id": 1350,
+    "video_id": "03329",
+    "type_id": 8,
+    "yn_question": "摄像机在拍摄过程中是静止的吗？",
+    "yn_answer": "no",
+    "yn_reasoning": "摄像机在拍摄过程中跟随滑板者移动，有明显的跟拍运动，不是静止的。"
+  },
+  {
+    "s_ynqa_id": 1356,
+    "video_id": "03348",
+    "type_id": 1,
+    "yn_question": "视频中的人正在用吸尘器吸地上的灰尘。",
+    "yn_answer": "no",
+    "yn_reasoning": "视频中的人正在使用湿式吸尘器进行湿拖和吸水，而不是吸灰尘。吸尘器的刷头在地面上移动，水和污垢被吸走，而不是灰尘。"
+  },
+  {
+    "s_ynqa_id": 1357,
+    "video_id": "03348",
+    "type_id": 6,
+    "yn_question": "视频中展示了一个完整的吸尘器清洁过程，包括清洁地板和排水。",
+    "yn_answer": "yes",
+    "yn_reasoning": "视频展示了清洁地板的过程，然后展示了将吸尘器中的水和污垢排入下水道的过程，这构成了一个完整的清洁过程。"
+  },
+  {
+    "s_ynqa_id": 1358,
+    "video_id": "03348",
+    "type_id": 7,
+    "yn_question": "在清洁地板之前，吸尘器的刷头已经被浸湿。",
+    "yn_answer": "no",
+    "yn_reasoning": "视频中显示吸尘器刷头在清洁地板时才接触到水，而不是在清洁之前就已经浸湿。"
+  },
+  {
+    "s_ynqa_id": 1368,
+    "video_id": "03363",
+    "type_id": 1,
+    "yn_question": "视频中的两个男人正在打网球。",
+    "yn_answer": "no",
+    "yn_reasoning": "视频中两个男人坐在户外的椅子上交谈，随后在草地上玩的是槌球游戏，而不是网球。"
+  },
+  {
+    "s_ynqa_id": 1369,
+    "video_id": "03363",
+    "type_id": 4,
+    "yn_question": "穿条纹衬衫的男人正在用球杆击打一个球，而另一个男人在旁边观看。",
+    "yn_answer": "no",
+    "yn_reasoning": "视频中全程没有击打动作。"
+  },
+  {
+    "s_ynqa_id": 1370,
+    "video_id": "03363",
+    "type_id": 5,
+    "yn_question": "穿条纹衬衫的男人手中拿着一个黄色的球。",
+    "yn_answer": "no",
+    "yn_reasoning": "穿格子衬衫的男人手中拿着一个黄色的球。"
+  },
+  {
+    "s_ynqa_id": 1375,
+    "video_id": "03389",
+    "type_id": 1,
+    "yn_question": "视频中有人正在煮意大利面吗？",
+    "yn_answer": "no",
+    "yn_reasoning": "视频中仅显示了配料列表和锅具，没有出现任何人物或动作，因此不存在‘有人正在煮意大利面’这一动作。"
+  },
+  {
+    "s_ynqa_id": 1376,
+    "video_id": "03389",
+    "type_id": 3,
+    "yn_question": "视频中是否包含一个装有水的锅？",
+    "yn_answer": "yes",
+    "yn_reasoning": "视频中明确显示了一个锅，且文字描述中提到‘A Large Pot filled with Water’，说明锅内装有水。"
+  },
+  {
+    "s_ynqa_id": 1377,
+    "video_id": "03389",
+    "type_id": 5,
+    "yn_question": "视频中提到的意大利面每份是100克吗？",
+    "yn_answer": "no",
+    "yn_reasoning": "视频中明确标注‘Pasta (80 gr per person)’，说明每份是80克，不是100克。"
+  },
+  {
+    "s_ynqa_id": 1378,
+    "video_id": "03389",
+    "type_id": 8,
+    "yn_question": "视频中的镜头是否在移动？",
+    "yn_answer": "no",
+    "yn_reasoning": "视频画面是静态的，没有显示任何镜头移动或变化，所有画面都是固定拍摄。"
+  },
+  {
+    "s_ynqa_id": 1399,
+    "video_id": "03468",
+    "type_id": 1,
+    "yn_question": "视频中的人正在给狗洗澡。",
+    "yn_answer": "no",
+    "yn_reasoning": "视频中的人正在给狗梳理毛发，旁边有吹风机和梳子，但没有水或洗浴用品，因此没有在洗澡。"
+  },
+  {
+    "s_ynqa_id": 1400,
+    "video_id": "03468",
+    "type_id": 4,
+    "yn_question": "第二只狗正在被两个人同时梳理毛发。",
+    "yn_answer": "yes",
+    "yn_reasoning": "第二只狗正在被两个人同时梳理毛发。"
+  },
+  {
+    "s_ynqa_id": 1401,
+    "video_id": "03468",
+    "type_id": 5,
+    "yn_question": "第一只狗的毛发是短而光滑的。",
+    "yn_answer": "yes",
+    "yn_reasoning": "第一只狗的毛发是短而光滑的。"
+  }
+]

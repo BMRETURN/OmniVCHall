@@ -1,0 +1,2530 @@
+[
+  {
+    "s_ynqa_id": 1,
+    "video_id": "11029",
+    "type_id": 4,
+    "yn_question": "水流与树干之间存在物理接触并推动树干移动？",
+    "yn_answer": "no",
+    "yn_reasoning": "水流从岩石流入池中，树干静止在水边，无任何迹象表明水流与树干有物理接触或推动其移动。"
+  },
+  {
+    "s_ynqa_id": 2,
+    "video_id": "11034",
+    "type_id": 1,
+    "yn_question": "卡车正在倒车吗？",
+    "yn_answer": "no",
+    "yn_reasoning": "视频中卡车正向前行驶，车轮在推动地面，扬起尘土，且车头朝向镜头方向，表明其在前进而非倒车。"
+  },
+  {
+    "s_ynqa_id": 3,
+    "video_id": "11034",
+    "type_id": 3,
+    "yn_question": "视频中有一只狗在卡车旁边奔跑？",
+    "yn_answer": "no",
+    "yn_reasoning": "视频中仅出现卡车和地面，没有任何动物或人物出现，因此不存在狗在奔跑的情况。"
+  },
+  {
+    "s_ynqa_id": 4,
+    "video_id": "11034",
+    "type_id": 4,
+    "yn_question": "卡车的车轮与地面接触，但车头抬离地面？",
+    "yn_answer": "yes",
+    "yn_reasoning": "卡车在行驶中，车轮持续接触地面，且车身保持稳定，没有出现车头抬离地面的悬空状态。"
+  },
+  {
+    "s_ynqa_id": 5,
+    "video_id": "11037",
+    "type_id": 1,
+    "yn_question": "驼队正在向画面左侧移动吗？",
+    "yn_answer": "yes",
+    "yn_reasoning": "驼队整体位置基本保持在沙丘顶部，缓慢向左侧移动。"
+  },
+  {
+    "s_ynqa_id": 6,
+    "video_id": "11037",
+    "type_id": 3,
+    "yn_question": "视频中有一位骑着骆驼的儿童吗？",
+    "yn_answer": "no",
+    "yn_reasoning": "视频中驼队由多只骆驼组成，但未见任何儿童，也未见任何人骑在骆驼上，所有骆驼均为步行状态，且无儿童出现。"
+  },
+  {
+    "s_ynqa_id": 7,
+    "video_id": "11037",
+    "type_id": 5,
+    "yn_question": "老人的胡须是灰白色的吗？",
+    "yn_answer": "yes",
+    "yn_reasoning": "视频中老人的胡须明显为灰白色。"
+  },
+  {
+    "s_ynqa_id": 8,
+    "video_id": "11037",
+    "type_id": 6,
+    "yn_question": "视频中发生了一场沙漠风暴？",
+    "yn_answer": "no",
+    "yn_reasoning": "虽然沙丘表面有轻微沙尘流动，但无强风或沙暴迹象，骆驼行走平稳，天空无乌云或强风扰动，不符合风暴特征。"
+  },
+  {
+    "s_ynqa_id": 9,
+    "video_id": "12001",
+    "type_id": 1,
+    "yn_question": "该男子正在跑步吗？",
+    "yn_answer": "yes",
+    "yn_reasoning": "视频中男子的动作是快速小跑。"
+  },
+  {
+    "s_ynqa_id": 10,
+    "video_id": "12001",
+    "type_id": 2,
+    "yn_question": "视频拍摄于夜晚干净的街道上？",
+    "yn_answer": "no",
+    "yn_reasoning": "视频中街道湿滑、有大量水渍，远处建筑灯光亮起，表明是夜晚或阴雨天气。"
+  },
+  {
+    "s_ynqa_id": 11,
+    "video_id": "12001",
+    "type_id": 4,
+    "yn_question": "男子短暂触摸了街边的急救包？",
+    "yn_answer": "yes",
+    "yn_reasoning": "男子在第4秒短暂触碰街边的急救包，随后继续前行。"
+  },
+  {
+    "s_ynqa_id": 12,
+    "video_id": "12001",
+    "type_id": 7,
+    "yn_question": "男子先经过红色灯光区域，后经过蓝色灯光区域，最后在街角停下吗？",
+    "yn_answer": "no",
+    "yn_reasoning": "男子从红色灯光区域出发，经过蓝色灯光区域，但并未在街角停下，而是继续向前走，镜头持续跟随其移动，未出现停止动作。"
+  },
+  {
+    "s_ynqa_id": 13,
+    "video_id": "12004",
+    "type_id": 1,
+    "yn_question": "该男子正在划船移动。",
+    "yn_answer": "no",
+    "yn_reasoning": "视频中男子静坐在船上，没有划桨或任何移动身体的动作，表明他并未在划船移动。"
+  },
+  {
+    "s_ynqa_id": 14,
+    "video_id": "12004",
+    "type_id": 3,
+    "yn_question": "视频中存在一条绳索。",
+    "yn_answer": "yes",
+    "yn_reasoning": "视频中救生圈旁边就存在一条绳索。"
+  },
+  {
+    "s_ynqa_id": 15,
+    "video_id": "12004",
+    "type_id": 4,
+    "yn_question": "男子一直望着远处的船只",
+    "yn_answer": "no",
+    "yn_reasoning": "男子面向远处船只，随后又转头侧向面对镜头。"
+  },
+  {
+    "s_ynqa_id": 16,
+    "video_id": "12018",
+    "type_id": 1,
+    "yn_question": "骑马的女性正在用缰绳控制马匹向前奔跑。",
+    "yn_answer": "yes",
+    "yn_reasoning": "视频中女性双手握缰绳，马匹呈奔跑姿态，表明她正在控制马匹前进，符合动作幻觉类型中的动作误解判断。"
+  },
+  {
+    "s_ynqa_id": 17,
+    "video_id": "12018",
+    "type_id": 2,
+    "yn_question": "视频中的场景是一个真实的户外草原。",
+    "yn_answer": "no",
+    "yn_reasoning": "背景为深色幕布，有舞台灯光和烟雾效果，地面为几何形状的纸艺结构，明显是舞台或艺术装置场景，而非真实户外草原。"
+  },
+  {
+    "s_ynqa_id": 18,
+    "video_id": "12018",
+    "type_id": 5,
+    "yn_question": "马匹的鬃毛和尾巴是柔软的毛发材质。",
+    "yn_answer": "yes",
+    "yn_reasoning": "鬃毛和尾巴呈折真实毛发的柔软质感和自然飘动。"
+  },
+  {
+    "s_ynqa_id": 19,
+    "video_id": "12018",
+    "type_id": 7,
+    "yn_question": "女性在视频开始前已经骑上马背。",
+    "yn_answer": "yes",
+    "yn_reasoning": "视频从女性已骑在马背上的状态开始，无前置动作如上马或准备，但问题隐含“之前”概念。"
+  },
+  {
+    "s_ynqa_id": 20,
+    "video_id": "12039",
+    "type_id": 1,
+    "yn_question": "这只猫正在用翅膀扇动飞行吗？",
+    "yn_answer": "yes",
+    "yn_reasoning": "视频中猫的翅膀通过扇动进行飞行。"
+  },
+  {
+    "s_ynqa_id": 21,
+    "video_id": "12039",
+    "type_id": 3,
+    "yn_question": "这只猫有翅膀，而不是装饰？",
+    "yn_answer": "yes",
+    "yn_reasoning": "这只猫拥有翅膀，并能起飞，并不是装饰。"
+  },
+  {
+    "s_ynqa_id": 22,
+    "video_id": "12039",
+    "type_id": 4,
+    "yn_question": "猫的翅膀和它的身体是物理上连接的吗？",
+    "yn_answer": "yes",
+    "yn_reasoning": "翅膀从猫的背部自然延伸，与身体结构一致，没有明显分离或悬浮，因此它们是物理连接的。"
+  },
+  {
+    "s_ynqa_id": 23,
+    "video_id": "12039",
+    "type_id": 7,
+    "yn_question": "猫在视频开始时已经飞离地面？",
+    "yn_answer": "no",
+    "yn_reasoning": "视频开始时猫坐在地面上，只有在后续帧中才开始悬浮或飞行，因此它在开始时并未飞离地面，时间顺序被误解。"
+  },
+  {
+    "s_ynqa_id": 24,
+    "video_id": "12048",
+    "type_id": 1,
+    "yn_question": "这艘帆船正在被风吹动前进吗？",
+    "yn_answer": "no",
+    "yn_reasoning": "视频中帆船静止在水面上，没有明显的移动或风力作用迹象，因此不存在被风吹动前进的动作。"
+  },
+  {
+    "s_ynqa_id": 25,
+    "video_id": "12048",
+    "type_id": 5,
+    "yn_question": "帆船的船体是木质的吗？",
+    "yn_answer": "no",
+    "yn_reasoning": "船体呈现光滑的红色塑料质感，而非木质纹理或颜色，因此材质并非木材。"
+  },
+  {
+    "s_ynqa_id": 26,
+    "video_id": "12057",
+    "type_id": 1,
+    "yn_question": "这只猫正在跳舞时，它的右前爪是否在空中挥舞？",
+    "yn_answer": "yes",
+    "yn_reasoning": "视频中猫的右前爪高高举起，处于挥舞姿势，符合跳舞动作。"
+  },
+  {
+    "s_ynqa_id": 27,
+    "video_id": "12057",
+    "type_id": 3,
+    "yn_question": "视频中共有五只悬挂在空中的球。",
+    "yn_answer": "yes",
+    "yn_reasoning": "视频中共有五只悬挂在空中的球。"
+  },
+  {
+    "s_ynqa_id": 28,
+    "video_id": "12057",
+    "type_id": 5,
+    "yn_question": "猫西装上的波点图案是红色的。",
+    "yn_answer": "no",
+    "yn_reasoning": "猫西装领口的波点图案是黑白相间的，不是红色。"
+  },
+  {
+    "s_ynqa_id": 29,
+    "video_id": "12057",
+    "type_id": 7,
+    "yn_question": "猫在跳舞前先完成了伸展动作。",
+    "yn_answer": "no",
+    "yn_reasoning": "视频中猫直接进入舞蹈姿势，没有显示任何伸展动作。"
+  },
+  {
+    "s_ynqa_id": 30,
+    "video_id": "12057",
+    "type_id": 8,
+    "yn_question": "镜头在视频中持续向前推进，逐渐靠近猫。",
+    "yn_answer": "no",
+    "yn_reasoning": "镜头在视频中持续向后推进，逐渐远离猫。"
+  },
+  {
+    "s_ynqa_id": 31,
+    "video_id": "12065",
+    "type_id": 1,
+    "yn_question": "划船人正在用桨划动水面，推动小船前进。",
+    "yn_answer": "yes",
+    "yn_reasoning": "视频中划船人手持长桨，正在有节奏地划动，小船在水面上向前移动，符合动作的描述。"
+  },
+  {
+    "s_ynqa_id": 32,
+    "video_id": "12065",
+    "type_id": 2,
+    "yn_question": "视频拍摄于夜晚，周围建筑被灯光照亮。",
+    "yn_answer": "no",
+    "yn_reasoning": "视频中的天空呈现橙黄色调，水面反射着暖光，远处建筑轮廓清晰，表明是日出或日落时分，而非夜晚。"
+  },
+  {
+    "s_ynqa_id": 33,
+    "video_id": "12065",
+    "type_id": 3,
+    "yn_question": "视频中有一只猫坐在船尾。",
+    "yn_answer": "no",
+    "yn_reasoning": "视频中船尾区域只看到划船人和船体结构，没有任何动物出现，因此不存在猫。"
+  },
+  {
+    "s_ynqa_id": 34,
+    "video_id": "12065",
+    "type_id": 8,
+    "yn_question": "镜头正在向前推进，逐渐靠近划船人。",
+    "yn_answer": "yes",
+    "yn_reasoning": "镜头保持稳定，从后方跟随划船人，明显向前推进。"
+  },
+  {
+    "s_ynqa_id": 35,
+    "video_id": "12067",
+    "type_id": 1,
+    "yn_question": "这只兔子正在滑冰时，它的后腿在推动冰面以获得速度。",
+    "yn_answer": "yes",
+    "yn_reasoning": "视频中兔子穿着冰鞋在冰面上滑行，它的后腿明显用于推动冰面，保持抬起或自然摆动。"
+  },
+  {
+    "s_ynqa_id": 36,
+    "video_id": "12067",
+    "type_id": 2,
+    "yn_question": "视频中的场景是在一个被雪覆盖的室内冰场。",
+    "yn_answer": "no",
+    "yn_reasoning": "背景中可见树木和开阔的自然环境，说明场景是户外冰面，而非室内冰场。"
+  },
+  {
+    "s_ynqa_id": 37,
+    "video_id": "12067",
+    "type_id": 5,
+    "yn_question": "兔子冰鞋的颜色是黑色。",
+    "yn_answer": "no",
+    "yn_reasoning": "视频中冰鞋是鲜艳的粉红色，与黑色不符。"
+  },
+  {
+    "s_ynqa_id": 38,
+    "video_id": "12067",
+    "type_id": 6,
+    "yn_question": "视频中兔子正在表演花样滑冰动作。",
+    "yn_answer": "yes",
+    "yn_reasoning": "兔子在空中完成了一项花样滑冰动作，具有技巧性。"
+  },
+  {
+    "s_ynqa_id": 39,
+    "video_id": "12067",
+    "type_id": 8,
+    "yn_question": "镜头在拍摄过程中保持固定不动。",
+    "yn_answer": "no",
+    "yn_reasoning": "镜头在兔子滑行过程中有明显的跟随移动，以保持主体在画面中心。"
+  },
+  {
+    "s_ynqa_id": 40,
+    "video_id": "12068",
+    "type_id": 1,
+    "yn_question": "视频中烟花正在从菠萝屋的门中喷出。",
+    "yn_answer": "no",
+    "yn_reasoning": "视频中烟花在菠萝屋上方天空中绽放，而非从门中喷出。门是发光的，但没有喷射烟花的视觉或物理迹象。"
+  },
+  {
+    "s_ynqa_id": 41,
+    "video_id": "12068",
+    "type_id": 3,
+    "yn_question": "视频中有一个真实的菠萝形状房屋。",
+    "yn_answer": "yes",
+    "yn_reasoning": "视频中清晰展示了一个具有菠萝外形、带门和雪覆盖的结构，尽管其风格奇幻，但其存在是明确可见的。"
+  },
+  {
+    "s_ynqa_id": 42,
+    "video_id": "12068",
+    "type_id": 4,
+    "yn_question": "烟花在菠萝屋的正前方爆炸，且屋门朝向观众。",
+    "yn_answer": "no",
+    "yn_reasoning": "烟花在屋的上方爆炸，屋门虽朝向镜头，但爆炸点并非正前方，而是上方偏左。"
+  },
+  {
+    "s_ynqa_id": 43,
+    "video_id": "12068",
+    "type_id": 5,
+    "yn_question": "菠萝屋的门是透明的，可以看见内部结构。",
+    "yn_answer": "yes",
+    "yn_reasoning": "门发光，其颜色为彩色边框，内部被黄色光填充，门是透明的，内部结构为空。"
+  },
+  {
+    "s_ynqa_id": 44,
+    "video_id": "12068",
+    "type_id": 7,
+    "yn_question": "烟花在菠萝屋爆炸之前，屋门已经关闭。",
+    "yn_answer": "no",
+    "yn_reasoning": "视频中屋门始终是敞开且发光的，烟花在屋门开启状态下绽放，不存在“之前关闭”的时序关系。"
+  },
+  {
+    "s_ynqa_id": 45,
+    "video_id": "12069",
+    "type_id": 1,
+    "yn_question": "骑士和公主正在跳舞吗？",
+    "yn_answer": "no",
+    "yn_reasoning": "视频中骑士和公主只是互相拥抱并靠近，没有显示任何旋转或脚步移动，因此没有在跳舞。"
+  },
+  {
+    "s_ynqa_id": 46,
+    "video_id": "12069",
+    "type_id": 2,
+    "yn_question": "场景是在夜晚的森林里吗？",
+    "yn_answer": "no",
+    "yn_reasoning": "背景是星空和满月，地面是草地和铁轨，没有树木或森林元素，因此不是森林场景。"
+  },
+  {
+    "s_ynqa_id": 47,
+    "video_id": "12069",
+    "type_id": 4,
+    "yn_question": "公主正被骑士抱在怀里，而火车正在远离他们吗？",
+    "yn_answer": "no",
+    "yn_reasoning": "火车在背景中静止不动，没有移动迹象，因此没有在远离他们。"
+  },
+  {
+    "s_ynqa_id": 48,
+    "video_id": "12069",
+    "type_id": 5,
+    "yn_question": "骑士的盔甲是红色的吗？",
+    "yn_answer": "no",
+    "yn_reasoning": "骑士的盔甲是银色的，公主的裙子是红色的，盔甲并非红色。"
+  },
+  {
+    "s_ynqa_id": 49,
+    "video_id": "13012",
+    "type_id": 4,
+    "yn_question": "男人站在船头，正在指挥海鸥飞向远方吗？",
+    "yn_answer": "no",
+    "yn_reasoning": "视频中男人只是站立观望，没有做出指挥动作，海鸥的飞行轨迹也未受其引导，两者无直接互动关系。"
+  },
+  {
+    "s_ynqa_id": 50,
+    "video_id": "13012",
+    "type_id": 5,
+    "yn_question": "船帆的颜色是红色的吗？",
+    "yn_answer": "no",
+    "yn_reasoning": "船帆呈现米白色或浅灰白色，视频中无任何红色元素，因此船帆不是红色的。"
+  },
+  {
+    "s_ynqa_id": 51,
+    "video_id": "13012",
+    "type_id": 7,
+    "yn_question": "男人在视频开始前已经站在船上？",
+    "yn_answer": "yes",
+    "yn_reasoning": "从视频帧序列可见，男人始终站在船头，没有出现他上船或下船的过程，因此可以推断他在视频开始前就在船上。"
+  },
+  {
+    "s_ynqa_id": 52,
+    "video_id": "13012",
+    "type_id": 8,
+    "yn_question": "镜头在视频中是静止不动的吗？",
+    "yn_answer": "no",
+    "yn_reasoning": "镜头在视频中持续跟随船只移动，视角有动态变化，表明镜头在移动而非静止。"
+  },
+  {
+    "s_ynqa_id": 53,
+    "video_id": "13017",
+    "type_id": 1,
+    "yn_question": "男子正在用笔在纸上写字。",
+    "yn_answer": "no",
+    "yn_reasoning": "视频中男子拿起的是一个银色的物体，而不是笔，他也没有在纸上写字的动作。"
+  },
+  {
+    "s_ynqa_id": 54,
+    "video_id": "13017",
+    "type_id": 3,
+    "yn_question": "桌子上有一个黑色的公文包。",
+    "yn_answer": "yes",
+    "yn_reasoning": "桌子上有一个黑色的公文包，同时它看起来更像一个装饰性或存储性的小箱子。"
+  },
+  {
+    "s_ynqa_id": 55,
+    "video_id": "13017",
+    "type_id": 4,
+    "yn_question": "男子正在将银色物体放在文件上。",
+    "yn_answer": "no",
+    "yn_reasoning": "男子拿起银色物体并查看，但没有将其放在文件上，他的动作是检查而非放置。"
+  },
+  {
+    "s_ynqa_id": 56,
+    "video_id": "13017",
+    "type_id": 7,
+    "yn_question": "男子先拿起银色物体，然后才走到桌子前。",
+    "yn_answer": "no",
+    "yn_reasoning": "男子先走到桌子前，然后才拿起银色物体，动作顺序与问题描述相反。"
+  },
+  {
+    "s_ynqa_id": 57,
+    "video_id": "14017",
+    "type_id": 1,
+    "yn_question": "一名球员正在用脚踢排球。",
+    "yn_answer": "no",
+    "yn_reasoning": "视频中所有球员都在用手击球或准备接球，没有任何人用脚踢球。排球比赛规则禁止用脚踢球，因此该动作在视频中不存在。"
+  },
+  {
+    "s_ynqa_id": 58,
+    "video_id": "14017",
+    "type_id": 3,
+    "yn_question": "视频中有一只狗在沙滩上奔跑。",
+    "yn_answer": "no",
+    "yn_reasoning": "视频中只出现了六名人类球员和背景中的少量观众，没有任何动物，特别是狗出现在画面中。"
+  },
+  {
+    "s_ynqa_id": 59,
+    "video_id": "14017",
+    "type_id": 4,
+    "yn_question": "一名球员在网前跳跃击球时，另一名球员在网后用脚踢球。",
+    "yn_answer": "no",
+    "yn_reasoning": "视频中所有球员都在用手击球或准备接球，没有球员用脚踢球。即使有人在网前跳跃击球，网后也没有任何球员进行踢球动作。"
+  },
+  {
+    "s_ynqa_id": 60,
+    "video_id": "14017",
+    "type_id": 8,
+    "yn_question": "镜头在视频中持续向前推进，以靠近球员。",
+    "yn_answer": "no",
+    "yn_reasoning": "镜头保持相对稳定，没有明显的向前推进或缩放，而是以固定角度拍摄整个球场，因此不存在持续向前推进的镜头运动。"
+  },
+  {
+    "s_ynqa_id": 61,
+    "video_id": "14019",
+    "type_id": 1,
+    "yn_question": "这位老人正在用粉笔在黑板上写字吗？",
+    "yn_answer": "no",
+    "yn_reasoning": "视频中老人没有手持粉笔，也没有在黑板上留下任何书写痕迹，他的手部动作是静止的，没有进行书写行为。"
+  },
+  {
+    "s_ynqa_id": 62,
+    "video_id": "14019",
+    "type_id": 2,
+    "yn_question": "这位老人身处一个户外的教室里吗？",
+    "yn_answer": "no",
+    "yn_reasoning": "视频背景是典型的室内教室环境，有木质讲台和黑板，没有窗户、天空或自然光线暗示户外场景。"
+  },
+  {
+    "s_ynqa_id": 63,
+    "video_id": "14019",
+    "type_id": 3,
+    "yn_question": "这位老人的西装口袋里有一支笔吗？",
+    "yn_answer": "no",
+    "yn_reasoning": "虽然西装口袋里有一块白色手帕，但没有可见的笔或其他物品，视频中未显示任何笔的存在。"
+  },
+  {
+    "s_ynqa_id": 64,
+    "video_id": "14019",
+    "type_id": 4,
+    "yn_question": "这位老人正在与黑板上的内容互动吗？",
+    "yn_answer": "no",
+    "yn_reasoning": "黑板上虽有模糊字迹，但老人未指向、注视或操作黑板内容，其身体和视线方向均未与黑板互动。"
+  },
+  {
+    "s_ynqa_id": 65,
+    "video_id": "14019",
+    "type_id": 5,
+    "yn_question": "这位老人的领带是纯色的吗？",
+    "yn_answer": "no",
+    "yn_reasoning": "领带上有明显的几何图案纹理，不是纯色，视频清晰显示其表面有重复的六边形或菱形图案。"
+  },
+  {
+    "s_ynqa_id": 66,
+    "video_id": "14019",
+    "type_id": 6,
+    "yn_question": "这位老人正在参与一场正式的学术演讲或讲座吗？",
+    "yn_answer": "yes",
+    "yn_reasoning": "老人身着西装、佩戴眼镜、站在黑板前，其姿态和环境符合学术讲座或教学场景的典型特征。"
+  },
+  {
+    "s_ynqa_id": 67,
+    "video_id": "14020",
+    "type_id": 1,
+    "yn_question": "骑手在马背上跳跃时，是否正在做翻筋斗的动作？",
+    "yn_answer": "no",
+    "yn_reasoning": "视频中骑手只是双腿分开站在两匹马的背上，没有做出翻筋斗的动作。他的身体保持直立，手臂自然张开，没有旋转或翻转的身体姿态。"
+  },
+  {
+    "s_ynqa_id": 68,
+    "video_id": "14020",
+    "type_id": 3,
+    "yn_question": "视频中是否出现了一位跪在地上的男人",
+    "yn_answer": "yes",
+    "yn_reasoning": "视频中男人从马背上摔落后，最终跪在地上。"
+  },
+  {
+    "s_ynqa_id": 69,
+    "video_id": "14020",
+    "type_id": 4,
+    "yn_question": "骑手的双脚是否同时踩在两匹马的背上？",
+    "yn_answer": "yes",
+    "yn_reasoning": "骑手的左脚踩在黑色马背上，右脚踩在棕色马背上，双脚分别位于两匹马的背上，形成平衡姿势。"
+  },
+  {
+    "s_ynqa_id": 70,
+    "video_id": "14020",
+    "type_id": 6,
+    "yn_question": "视频中是否发生了骑手从马上摔落的事件？",
+    "yn_answer": "yes",
+    "yn_reasoning": "视频中骑手在最后几帧从马上摔落，身体倒地，这是一次明确发生的事件。"
+  },
+  {
+    "s_ynqa_id": 71,
+    "video_id": "14020",
+    "type_id": 7,
+    "yn_question": "骑手在马背上站立的动作发生在摔落之前吗？",
+    "yn_answer": "yes",
+    "yn_reasoning": "视频显示骑手先在马背上站立，随后才摔倒，因此站立动作发生在摔落之前。"
+  },
+  {
+    "s_ynqa_id": 72,
+    "video_id": "14034",
+    "type_id": 1,
+    "yn_question": "男孩正在和机器人一起跳舞。",
+    "yn_answer": "no",
+    "yn_reasoning": "视频中男孩和机器人只是站在阳台上，没有进行任何舞蹈动作，因此不存在跳舞这一动作。"
+  },
+  {
+    "s_ynqa_id": 73,
+    "video_id": "14034",
+    "type_id": 4,
+    "yn_question": "男孩正在抚摸机器人的头部。",
+    "yn_answer": "no",
+    "yn_reasoning": "男孩只是用手指触碰机器人的面部，没有接触其头部，因此不存在抚摸头部的动作。"
+  },
+  {
+    "s_ynqa_id": 74,
+    "video_id": "14034",
+    "type_id": 5,
+    "yn_question": "机器人的眼睛形状保持不变。",
+    "yn_answer": "no",
+    "yn_reasoning": "机器人的眼睛是蓝色的发光圆圈，也可以是半圆形的。"
+  },
+  {
+    "s_ynqa_id": 75,
+    "video_id": "14034",
+    "type_id": 7,
+    "yn_question": "机器人在男孩之前出现。",
+    "yn_answer": "no",
+    "yn_reasoning": "机器人在男孩出现后才出现在画面中，因此不存在机器人先出现的情况。"
+  },
+  {
+    "s_ynqa_id": 76,
+    "video_id": "15015",
+    "type_id": 1,
+    "yn_question": "这只紫色毛茸茸的怪物正在跑步吗？",
+    "yn_answer": "no",
+    "yn_reasoning": "视频中怪物的动作是稳步向前走，而不是跑步。它的步伐缓慢而有节奏，身体没有表现出跑步时的快速摆动或跳跃，因此可以判断它是在走路而非跑步。"
+  },
+  {
+    "s_ynqa_id": 77,
+    "video_id": "15015",
+    "type_id": 2,
+    "yn_question": "这个场景是在一个户外森林中吗？",
+    "yn_answer": "no",
+    "yn_reasoning": "场景中两侧排列着服务器机柜，顶部有电缆和照明设备，地面有积水和发光的蘑菇，这些是典型的室内数据中心环境，而非户外森林。"
+  },
+  {
+    "s_ynqa_id": 78,
+    "video_id": "15015",
+    "type_id": 3,
+    "yn_question": "视频中没有发光的蘑菇？",
+    "yn_answer": "no",
+    "yn_reasoning": "视频中在地面和服务器机柜旁明显可以看到多个发光的白色蘑菇，它们是场景中的显著元素，因此“没有发光的蘑菇”这一说法是错误的。"
+  },
+  {
+    "s_ynqa_id": 79,
+    "video_id": "15015",
+    "type_id": 4,
+    "yn_question": "怪物正站在服务器机柜的顶部？",
+    "yn_answer": "no",
+    "yn_reasoning": "怪物位于服务器机柜之间的通道地面上，其脚部清晰可见与地面接触，没有出现在机柜顶部，因此它并未站在机柜顶部。"
+  },
+  {
+    "s_ynqa_id": 80,
+    "video_id": "15017",
+    "type_id": 1,
+    "yn_question": "骑马的人正在骑着马穿过谷仓的门。",
+    "yn_answer": "no",
+    "yn_reasoning": "视频中骑马的人是从谷仓内部骑出，但镜头在谷仓内开始，然后跟随骑马者移动到外部开阔地带，骑马者并未穿过谷仓门，而是从谷仓内直接进入田野。"
+  },
+  {
+    "s_ynqa_id": 81,
+    "video_id": "15017",
+    "type_id": 4,
+    "yn_question": "骑马的人和马匹之间存在物理接触。",
+    "yn_answer": "yes",
+    "yn_reasoning": "骑马者双手握着缰绳，马匹的运动方向和速度由骑马者控制，表明存在明确的控制关系，而非无控制状态。"
+  },
+  {
+    "s_ynqa_id": 82,
+    "video_id": "15017",
+    "type_id": 7,
+    "yn_question": "骑马者先进入谷仓，然后才开始骑马。",
+    "yn_answer": "no",
+    "yn_reasoning": "骑马者从一开始就位于谷仓外，镜头从谷仓内部开始，然后跟随骑马者进入田野，骑马者并未先进入谷仓。"
+  },
+  {
+    "s_ynqa_id": 83,
+    "video_id": "15017",
+    "type_id": 8,
+    "yn_question": "镜头在骑马者进入田野后保持静止，没有移动。",
+    "yn_answer": "no",
+    "yn_reasoning": "镜头跟随骑马者移动，从谷仓内部逐渐移至田野，镜头在骑马者进入田野后持续移动，跟随其运动轨迹，而非静止。"
+  },
+  {
+    "s_ynqa_id": 84,
+    "video_id": "15036",
+    "type_id": 1,
+    "yn_question": "护士正在使用电脑时突然站起来，是因为她接到了紧急电话。",
+    "yn_answer": "no",
+    "yn_reasoning": "视频中护士在电脑前工作，然后转头看向走廊，但没有表现出接听电话的动作或迹象，也没有任何电话设备出现在画面中。她的动作是转向走廊，而非接听电话。"
+  },
+  {
+    "s_ynqa_id": 85,
+    "video_id": "15036",
+    "type_id": 2,
+    "yn_question": "护士坐在医院走廊的办公桌旁，但场景实际上是医院的急诊室。",
+    "yn_answer": "no",
+    "yn_reasoning": "视频背景显示的是医院走廊，两侧有多个门和扶手，远处有出口标志，符合走廊的典型布局。急诊室通常有更显眼的标识、急救设备或更拥挤的环境，视频中没有这些特征。"
+  },
+  {
+    "s_ynqa_id": 86,
+    "video_id": "15036",
+    "type_id": 3,
+    "yn_question": "视频中护士的电脑旁边有一个咖啡杯。",
+    "yn_answer": "no",
+    "yn_reasoning": "视频中护士的办公桌上只有电脑、键盘和一个白色医疗设备，没有咖啡杯或其他饮料容器。所有物品都清晰可见，不存在咖啡杯。"
+  },
+  {
+    "s_ynqa_id": 87,
+    "video_id": "15036",
+    "type_id": 4,
+    "yn_question": "护士和走廊尽头的门之间存在物理接触或互动。",
+    "yn_answer": "no",
+    "yn_reasoning": "护士坐在办公桌前，面向电脑，然后转向走廊，但没有朝向门移动或与门发生任何物理互动。门是静止的，且距离较远，没有接触或互动迹象。"
+  },
+  {
+    "s_ynqa_id": 88,
+    "video_id": "15036",
+    "type_id": 5,
+    "yn_question": "护士的制服是绿色的。",
+    "yn_answer": "no",
+    "yn_reasoning": "视频中护士穿着蓝色的手术服，颜色清晰可见，不是绿色。视频中光线虽暗，但蓝色制服的颜色仍可辨认。"
+  },
+  {
+    "s_ynqa_id": 89,
+    "video_id": "15036",
+    "type_id": 7,
+    "yn_question": "护士在电脑前工作后，立即起身离开办公室。",
+    "yn_answer": "no",
+    "yn_reasoning": "护士在电脑前工作后，只是转向走廊，没有起身离开办公桌，也没有任何离开的动作。她仍坐在椅子上，手放在椅背上，表明她并未离开。"
+  },
+  {
+    "s_ynqa_id": 90,
+    "video_id": "15036",
+    "type_id": 8,
+    "yn_question": "视频中镜头在移动，跟随护士的动作。",
+    "yn_answer": "no",
+    "yn_reasoning": "镜头是固定的，没有跟随护士移动，画面始终稳定地对准护士和走廊。护士转动头部或身体时，镜头没有变化，表明是固定拍摄而非移动镜头。"
+  },
+  {
+    "s_ynqa_id": 91,
+    "video_id": "15041",
+    "type_id": 1,
+    "yn_question": "四名音乐家正在用弓拉奏弦乐器，他们的表情非常轻松。",
+    "yn_answer": "yes",
+    "yn_reasoning": "视频中四名音乐家的动作明显是动态的，他们正在持续移动弓弦，身体也随节奏摆动，且在暴风雨中进行，表情一脸严肃。"
+  },
+  {
+    "s_ynqa_id": 92,
+    "video_id": "15041",
+    "type_id": 2,
+    "yn_question": "视频中的场景是在风雨交加的海面上。",
+    "yn_answer": "yes",
+    "yn_reasoning": "视频背景显示乌云密布、闪电交加、海浪汹涌，明显是暴风雨中的海洋。"
+  },
+  {
+    "s_ynqa_id": 93,
+    "video_id": "15041",
+    "type_id": 3,
+    "yn_question": "视频中所有人的着装是一致的。",
+    "yn_answer": "no",
+    "yn_reasoning": "视频中清晰可见四名音乐家中两名男性的着装一致，另外两名女性着装一致。"
+  },
+  {
+    "s_ynqa_id": 94,
+    "video_id": "15041",
+    "type_id": 5,
+    "yn_question": "大提琴的琴身颜色是黑色。",
+    "yn_answer": "no",
+    "yn_reasoning": "大提琴的琴身是典型的棕色木质纹理，视频中清晰可见，非白色。"
+  },
+  {
+    "s_ynqa_id": 95,
+    "video_id": "15041",
+    "type_id": 7,
+    "yn_question": "视频中先出现闪电，后出现大浪。",
+    "yn_answer": "yes",
+    "yn_reasoning": "视频中大浪在闪电之后才明显涌来。"
+  },
+  {
+    "s_ynqa_id": 96,
+    "video_id": "15054",
+    "type_id": 1,
+    "yn_question": "直升机的螺旋桨正在旋转，导致办公室内的纸张飞舞，这是否意味着纸张是被螺旋桨直接吹动的？",
+    "yn_answer": "no",
+    "yn_reasoning": "视频中纸张飞舞是由于办公室内空气流动（可能是由直升机螺旋桨产生的气流），但纸张并未直接接触螺旋桨，因此不是被螺旋桨直接吹动。"
+  },
+  {
+    "s_ynqa_id": 97,
+    "video_id": "15054",
+    "type_id": 2,
+    "yn_question": "视频中的场景是一个户外的办公室，背景是蓝天和直升机。",
+    "yn_answer": "no",
+    "yn_reasoning": "视频中下面的场景是一个室内办公室，背景是墙壁、书架和窗户，上面的场景是户外直升机，两个场景是分开的。"
+  },
+  {
+    "s_ynqa_id": 98,
+    "video_id": "15054",
+    "type_id": 3,
+    "yn_question": "视频中办公室的桌子上没有电脑显示器。",
+    "yn_answer": "no",
+    "yn_reasoning": "视频中桌子上有电脑显示器，位于桌子中央，屏幕是黑色的，表明电脑正在工作或处于待机状态。"
+  },
+  {
+    "s_ynqa_id": 99,
+    "video_id": "15054",
+    "type_id": 4,
+    "yn_question": "直升机的螺旋桨与办公室内的纸张之间存在物理接触。",
+    "yn_answer": "no",
+    "yn_reasoning": "视频中螺旋桨在空中旋转，纸张在办公室内飞舞，两者没有物理接触，纸张的运动是由空气流动引起的。"
+  },
+  {
+    "s_ynqa_id": 100,
+    "video_id": "15054",
+    "type_id": 5,
+    "yn_question": "直升机的螺旋桨是透明的。",
+    "yn_answer": "no",
+    "yn_reasoning": "视频中螺旋桨是金属材质，颜色为深灰色或黑色，不是透明的。"
+  },
+  {
+    "s_ynqa_id": 101,
+    "video_id": "16001",
+    "type_id": 1,
+    "yn_question": "视频中北极熊正在游泳穿过冰面。",
+    "yn_answer": "no",
+    "yn_reasoning": "视频中北极熊均位于冰块上，没有在水中游泳，所有动作都表现为站立、行走或休息，不存在游泳行为。"
+  },
+  {
+    "s_ynqa_id": 102,
+    "video_id": "16001",
+    "type_id": 2,
+    "yn_question": "视频场景发生在真实世界中的冰川环境。",
+    "yn_answer": "no",
+    "yn_reasoning": "视频背景为冰雪覆盖的极地环境，有冰川、极光和北极熊，但是环境被放置在一个微观模型中。"
+  },
+  {
+    "s_ynqa_id": 103,
+    "video_id": "16001",
+    "type_id": 3,
+    "yn_question": "视频中共有八只北极熊。",
+    "yn_answer": "yes",
+    "yn_reasoning": "视频中清晰可见，共有两只成年北极熊，六只幼年北极熊。"
+  },
+  {
+    "s_ynqa_id": 104,
+    "video_id": "16001",
+    "type_id": 4,
+    "yn_question": "北极熊幼崽正在与成年北极熊进行捕猎协作。",
+    "yn_answer": "no",
+    "yn_reasoning": "视频中北极熊幼崽和成年北极熊均处于静止或缓慢移动状态，没有任何捕猎行为或协作动作，彼此间无互动迹象。"
+  },
+  {
+    "s_ynqa_id": 105,
+    "video_id": "16001",
+    "type_id": 5,
+    "yn_question": "北极熊的毛发呈现深棕色。",
+    "yn_answer": "no",
+    "yn_reasoning": "视频中北极熊全身覆盖白色毛发，与冰雪环境融为一体，不存在深棕色毛发的视觉表现。"
+  },
+  {
+    "s_ynqa_id": 106,
+    "video_id": "16011",
+    "type_id": 1,
+    "yn_question": "厨师正在将酱汁倒在煎蛋上。",
+    "yn_answer": "yes",
+    "yn_reasoning": "视频中有一个微型厨师站在煎蛋上方，手持容器正在倾倒黄色酱汁，动作清晰可见。"
+  },
+  {
+    "s_ynqa_id": 107,
+    "video_id": "16011",
+    "type_id": 4,
+    "yn_question": "厨师在梯子上的人正在帮助倒酱汁。",
+    "yn_answer": "no",
+    "yn_reasoning": "梯子上的人在攀爬或扶梯，没有参与倒酱汁的动作，不存在协助关系。"
+  },
+  {
+    "s_ynqa_id": 108,
+    "video_id": "16011",
+    "type_id": 5,
+    "yn_question": "煎蛋的蛋黄是透明的。",
+    "yn_answer": "no",
+    "yn_reasoning": "蛋黄是明亮的黄色，有光泽，不是透明的。"
+  },
+  {
+    "s_ynqa_id": 109,
+    "video_id": "16011",
+    "type_id": 6,
+    "yn_question": "视频中展示的是一个完整的烹饪过程。",
+    "yn_answer": "no",
+    "yn_reasoning": "视频仅展示厨师在添加酱汁，未展示食材准备、加热或装盘等完整烹饪步骤。"
+  },
+  {
+    "s_ynqa_id": 110,
+    "video_id": "16011",
+    "type_id": 7,
+    "yn_question": "厨师在倒酱汁的动作发生在梯子上的人攀爬之前。",
+    "yn_answer": "yes",
+    "yn_reasoning": "厨子先进行倒酱汁，梯子上的人一开始没有变化位置，而是整理食物，随后再攀爬梯子，动作顺序清晰可见。"
+  },
+  {
+    "s_ynqa_id": 111,
+    "video_id": "16016",
+    "type_id": 1,
+    "yn_question": "这只猫正在追逐周围的玩具老鼠。",
+    "yn_answer": "no",
+    "yn_reasoning": "视频中猫静止坐着，没有表现出追逐或移动的动作，它只是凝视着前方或侧方，与玩具老鼠没有互动行为。"
+  },
+  {
+    "s_ynqa_id": 112,
+    "video_id": "16016",
+    "type_id": 3,
+    "yn_question": "视频中没有出现任何老鼠玩具。",
+    "yn_answer": "no",
+    "yn_reasoning": "视频中清晰可见三只灰色毛绒老鼠玩具围绕在猫的周围，因此该陈述与视频内容矛盾。"
+  },
+  {
+    "s_ynqa_id": 113,
+    "video_id": "16016",
+    "type_id": 4,
+    "yn_question": "猫与玩具老鼠之间存在物理接触。",
+    "yn_answer": "no",
+    "yn_reasoning": "猫保持坐姿，四肢与玩具老鼠保持距离，没有触碰或互动，它们之间没有物理接触。"
+  },
+  {
+    "s_ynqa_id": 114,
+    "video_id": "16016",
+    "type_id": 5,
+    "yn_question": "视频中共出现了四处老鼠的元素",
+    "yn_answer": "yes",
+    "yn_reasoning": "帽子是老鼠风格的，毛毯上还摆放了三只老鼠玩具。"
+  },
+  {
+    "s_ynqa_id": 115,
+    "video_id": "16016",
+    "type_id": 7,
+    "yn_question": "猫在视频开始前已经戴上帽子。",
+    "yn_answer": "yes",
+    "yn_reasoning": "视频从猫戴帽子的静止状态开始，没有展示帽子被戴上或取下的过程，因此可推断帽子在视频开始前已戴好。"
+  },
+  {
+    "s_ynqa_id": 116,
+    "video_id": "16016",
+    "type_id": 8,
+    "yn_question": "镜头在视频中持续向前推进。",
+    "yn_answer": "no",
+    "yn_reasoning": "镜头视角固定，没有移动或推进迹象，画面始终保持在猫的正面，属于固定镜头拍摄。"
+  },
+  {
+    "s_ynqa_id": 117,
+    "video_id": "16025",
+    "type_id": 1,
+    "yn_question": "这只鸭子正在做街舞动作吗？",
+    "yn_answer": "yes",
+    "yn_reasoning": "视频中鸭子的肢体动作包括摆手、扭动身体和跳跃，符合街舞动作的特征，因此可以判断它正在做街舞动作。"
+  },
+  {
+    "s_ynqa_id": 118,
+    "video_id": "16025",
+    "type_id": 2,
+    "yn_question": "视频中的场景是在户外的街道上吗？",
+    "yn_answer": "yes",
+    "yn_reasoning": "背景墙上有涂鸦，地面是水泥地，符合户外街道的环境特征，因此可以判断场景是在户外街道上。"
+  },
+  {
+    "s_ynqa_id": 119,
+    "video_id": "16025",
+    "type_id": 3,
+    "yn_question": "视频中鸭子戴着帽子和项链，但没有穿裤子吗？",
+    "yn_answer": "yes",
+    "yn_reasoning": "鸭子穿着蓝色连帽衫，但没有穿裤子，只有黄色羽毛覆盖下半身，因此该描述是正确的。"
+  },
+  {
+    "s_ynqa_id": 120,
+    "video_id": "16025",
+    "type_id": 4,
+    "yn_question": "鸭子的项链和帽子是同时佩戴的吗？",
+    "yn_answer": "yes",
+    "yn_reasoning": "视频中鸭子始终戴着红色帽子，并且脖子上挂着金色链条项链，两者同时出现在画面中，因此它们是同时佩戴的。"
+  },
+  {
+    "s_ynqa_id": 121,
+    "video_id": "16025",
+    "type_id": 7,
+    "yn_question": "鸭子先举起右手，然后才举起左手吗？",
+    "yn_answer": "yes",
+    "yn_reasoning": "在视频中，鸭子在动作序列中先举起右手，随后才举起左手，符合先右后左的顺序，因此该描述正确。"
+  },
+  {
+    "s_ynqa_id": 122,
+    "video_id": "16029",
+    "type_id": 3,
+    "yn_question": "视频中有一只玩具鸭子在水里游泳。",
+    "yn_answer": "no",
+    "yn_reasoning": "玩具鸭子位于木板上，旁边是水渍，但没有在水中游泳，也没有水流动的迹象。"
+  },
+  {
+    "s_ynqa_id": 123,
+    "video_id": "16029",
+    "type_id": 5,
+    "yn_question": "海獭的毛发是黑色的。",
+    "yn_answer": "no",
+    "yn_reasoning": "海獭的毛发主要是灰褐色和白色相间，不是纯黑色。"
+  },
+  {
+    "s_ynqa_id": 124,
+    "video_id": "16029",
+    "type_id": 6,
+    "yn_question": "两只海獭一起跳跃的。",
+    "yn_answer": "yes",
+    "yn_reasoning": "两只海獭同步跳跃的，只是在空中两者发生了交错。"
+  },
+  {
+    "s_ynqa_id": 125,
+    "video_id": "16029",
+    "type_id": 7,
+    "yn_question": "海獭先在木板上，然后跳上蹦床。",
+    "yn_answer": "yes",
+    "yn_reasoning": "视频中海獭先在木板上趴着，然后场景转换到了蹦床上，他们正在连续蹦跳。"
+  },
+  {
+    "s_ynqa_id": 126,
+    "video_id": "16037",
+    "type_id": 1,
+    "yn_question": "这只猫正在用爪子抓挠桌子吗？",
+    "yn_answer": "no",
+    "yn_reasoning": "视频中猫的爪子正紧紧抓着粉色物体，而不是抓挠桌子。猫的注意力集中在物体上，且爪子位置和动作表明它在啃咬或舔舐，而非与桌面互动。"
+  },
+  {
+    "s_ynqa_id": 127,
+    "video_id": "16037",
+    "type_id": 2,
+    "yn_question": "这只猫在室内环境中吃东西吗？",
+    "yn_answer": "no",
+    "yn_reasoning": "背景是模糊的绿色植被和自然光线，表明场景是户外，而非室内。竹制编织桌和自然光进一步支持户外环境的判断。"
+  },
+  {
+    "s_ynqa_id": 128,
+    "video_id": "16037",
+    "type_id": 4,
+    "yn_question": "猫的爪子正在推动粉色物体使其移动吗？",
+    "yn_answer": "no",
+    "yn_reasoning": "猫的爪子是紧紧抓住物体，且物体没有明显移动迹象。猫的动作是啃咬或舔舐，而非推动。物体位置稳定，说明没有推力或移动行为。"
+  },
+  {
+    "s_ynqa_id": 129,
+    "video_id": "16037",
+    "type_id": 5,
+    "yn_question": "粉色物体表面是光滑的吗？",
+    "yn_answer": "no",
+    "yn_reasoning": "粉色物体表面有明显的颗粒状纹理，看起来像海绵或泡沫，而非光滑材质。猫啃咬时碎屑掉落也佐证其非光滑质地。"
+  },
+  {
+    "s_ynqa_id": 130,
+    "video_id": "16037",
+    "type_id": 6,
+    "yn_question": "视频开始前，猫咪就已经吃了部分蛋糕了？",
+    "yn_answer": "yes",
+    "yn_reasoning": "蛋糕放置处存在残渣，且视频开始时的蛋糕并不完整，表面猫咪已经吃了部分蛋糕了。"
+  },
+  {
+    "s_ynqa_id": 131,
+    "video_id": "16049",
+    "type_id": 4,
+    "yn_question": "人物正站在商店门口，而不是行走？",
+    "yn_answer": "no",
+    "yn_reasoning": "人物的双腿呈迈步姿势，左脚在前右脚在后，身体重心随步伐移动，且地面有连续水花，表明正在行走而非静止站立。"
+  },
+  {
+    "s_ynqa_id": 132,
+    "video_id": "16049",
+    "type_id": 5,
+    "yn_question": "雨伞是红色的？",
+    "yn_answer": "no",
+    "yn_reasoning": "雨伞在视频中呈现为黑色，表面有雨水反光，但伞面颜色并非红色。霓虹灯光反射可能造成视觉误导，但伞本身颜色是黑色。"
+  },
+  {
+    "s_ynqa_id": 133,
+    "video_id": "16049",
+    "type_id": 6,
+    "yn_question": "视频中正在发生一场大型庆典或节日活动？",
+    "yn_answer": "no",
+    "yn_reasoning": "街道上没有装饰物、人群聚集、烟花或音乐声等庆典迹象，只有零星行人和霓虹招牌，符合普通雨夜城市街景，无节日氛围。"
+  },
+  {
+    "s_ynqa_id": 134,
+    "video_id": "16049",
+    "type_id": 7,
+    "yn_question": "人物在雨中行走时，先经过了商店门口，然后才经过路灯？",
+    "yn_answer": "no",
+    "yn_reasoning": "从镜头移动和人物行进方向看，人物在画面中段才经过商店门口，而路灯在更远处左侧，人物是先经过路灯再经过商店门口，顺序错误。"
+  },
+  {
+    "s_ynqa_id": 135,
+    "video_id": "16049",
+    "type_id": 8,
+    "yn_question": "镜头是固定不动的，没有移动？",
+    "yn_answer": "no",
+    "yn_reasoning": "随着人物从左向右移动，镜头跟随其行进方向平移，背景中的霓虹招牌和广告牌位置相对人物发生变化，说明镜头在移动，而非固定拍摄。"
+  },
+  {
+    "s_ynqa_id": 136,
+    "video_id": "16063",
+    "type_id": 2,
+    "yn_question": "视频拍摄于户外的沙滩上。",
+    "yn_answer": "no",
+    "yn_reasoning": "背景是室内墙壁和木制书架，地面是灰色大理石台面，没有沙滩或自然环境的特征，因此场景并非户外沙滩。"
+  },
+  {
+    "s_ynqa_id": 137,
+    "video_id": "16063",
+    "type_id": 4,
+    "yn_question": "哥斯拉正站在一个机器人模型的背上。",
+    "yn_answer": "no",
+    "yn_reasoning": "哥斯拉站在台面上，周围是多个机器人模型，但没有任何机器人被哥斯拉踩在背上，它们均独立站立。"
+  },
+  {
+    "s_ynqa_id": 138,
+    "video_id": "16063",
+    "type_id": 5,
+    "yn_question": "哥斯拉的皮肤是光滑的金属质感。",
+    "yn_answer": "no",
+    "yn_reasoning": "哥斯拉的皮肤呈现粗糙的鳞片纹理，颜色为深红褐色，明显不是光滑的金属质感。"
+  },
+  {
+    "s_ynqa_id": 139,
+    "video_id": "17004",
+    "type_id": 1,
+    "yn_question": "视频中的人正在吃冰淇淋吗？",
+    "yn_answer": "no",
+    "yn_reasoning": "视频中手握着冰淇淋，但冰淇淋并未被食用，也没有任何动作表明正在吃。整个过程是冰淇淋在被‘制造’或‘形成’，而非被消费。"
+  },
+  {
+    "s_ynqa_id": 140,
+    "video_id": "17004",
+    "type_id": 3,
+    "yn_question": "视频中有一个完整的冰淇淋甜筒，没有破损或缺失部分？",
+    "yn_answer": "yes",
+    "yn_reasoning": "视频中展示的冰淇淋甜筒虽然有闪电和粒子特效，但其结构完整，没有缺失或破损，符合‘完整’的描述。"
+  },
+  {
+    "s_ynqa_id": 141,
+    "video_id": "17004",
+    "type_id": 4,
+    "yn_question": "闪电是从冰淇淋甜筒中向上发射的吗？",
+    "yn_answer": "no",
+    "yn_reasoning": "闪电是从云层中向下击中冰淇淋甜筒的，而不是从甜筒向上发射。视频显示闪电是外部自然现象作用于甜筒，而非甜筒产生闪电。"
+  },
+  {
+    "s_ynqa_id": 142,
+    "video_id": "17004",
+    "type_id": 6,
+    "yn_question": "视频中展示了一个完整的事件：从云层中召唤冰淇淋的过程？",
+    "yn_answer": "yes",
+    "yn_reasoning": "视频呈现了一个连贯的‘召唤’过程：从云层闪电、到冰淇淋形成、再到粒子飞溅，构成一个完整的‘从天而降’的事件，符合‘完整事件’的定义。"
+  },
+  {
+    "s_ynqa_id": 143,
+    "video_id": "17004",
+    "type_id": 7,
+    "yn_question": "闪电在冰淇淋形成之前就已出现？",
+    "yn_answer": "yes",
+    "yn_reasoning": "视频中闪电在冰淇淋尚未完全形成前就已经出现，表明闪电是先于冰淇淋形态的事件，符合‘闪电在前’的时间顺序。"
+  },
+  {
+    "s_ynqa_id": 144,
+    "video_id": "17024",
+    "type_id": 1,
+    "yn_question": "这只猫正在做深蹲动作吗？",
+    "yn_answer": "no",
+    "yn_reasoning": "视频中猫的动作是举重，它将杠铃从地面举过头顶，然后放下，这与深蹲（保持杠铃在胸前或肩上，下蹲再站起）的动作不符。"
+  },
+  {
+    "s_ynqa_id": 145,
+    "video_id": "17024",
+    "type_id": 6,
+    "yn_question": "视频中猫正在参加一场正式的奥运会举重比赛吗？",
+    "yn_answer": "yes",
+    "yn_reasoning": "场景中有奥运标志，且猫正在举重。"
+  },
+  {
+    "s_ynqa_id": 146,
+    "video_id": "17024",
+    "type_id": 7,
+    "yn_question": "猫在举起杠铃后，先放下杠铃，再转身面向观众鼓掌？",
+    "yn_answer": "no",
+    "yn_reasoning": "视频中猫在举起杠铃后直接放下杠铃，没有转身或鼓掌的动作。"
+  },
+  {
+    "s_ynqa_id": 147,
+    "video_id": "17024",
+    "type_id": 8,
+    "yn_question": "视频拍摄时镜头在缓慢向后拉远吗？",
+    "yn_answer": "no",
+    "yn_reasoning": "视频中镜头保持相对稳定，聚焦于猫的动作，没有明显的后拉远运动。"
+  },
+  {
+    "s_ynqa_id": 148,
+    "video_id": "17031",
+    "type_id": 1,
+    "yn_question": "这个卡通人物正在吃午餐吗？",
+    "yn_answer": "yes",
+    "yn_reasoning": "视频中，卡通人物坐在马桶上，手里拿着一个装有米饭和菜肴的餐盒，正在用叉子进食，这明确显示他正在吃午餐。"
+  },
+  {
+    "s_ynqa_id": 149,
+    "video_id": "17031",
+    "type_id": 2,
+    "yn_question": "这个卡通人物在办公室里出现过吗？",
+    "yn_answer": "yes",
+    "yn_reasoning": "视频中，卡通人物在不同的场景中出现：在厕所、咖啡馆、户外吸烟、办公室。"
+  },
+  {
+    "s_ynqa_id": 150,
+    "video_id": "17031",
+    "type_id": 3,
+    "yn_question": "这个卡通人物有穿衣服吗？",
+    "yn_answer": "no",
+    "yn_reasoning": "在所有视频帧中，卡通人物都没有穿任何衣服，身体是裸露的。这表明他没有穿衣服。"
+  },
+  {
+    "s_ynqa_id": 151,
+    "video_id": "17031",
+    "type_id": 5,
+    "yn_question": "卡通人物的牙齿是白色的？",
+    "yn_answer": "no",
+    "yn_reasoning": "视频中卡通人物并没有牙齿。"
+  },
+  {
+    "s_ynqa_id": 152,
+    "video_id": "17031",
+    "type_id": 6,
+    "yn_question": "卡通人物在哭泣吗？",
+    "yn_answer": "yes",
+    "yn_reasoning": "在办公室场景中，卡通人物的眼睛周围有泪滴，他用纸巾擦拭眼泪，并且表情悲伤，这表明他正在哭泣。"
+  },
+  {
+    "s_ynqa_id": 153,
+    "video_id": "17031",
+    "type_id": 7,
+    "yn_question": "卡通人物在吸烟发生在他在办公室工作之前吗？",
+    "yn_answer": "no",
+    "yn_reasoning": "视频中，卡通人物先在办公室工作，然后在户外吸烟，这表明吸烟发生在他在办公室工作之后。"
+  },
+  {
+    "s_ynqa_id": 154,
+    "video_id": "17039",
+    "type_id": 1,
+    "yn_question": "自由女神像正在用杯子喝水。",
+    "yn_answer": "no",
+    "yn_reasoning": "视频中自由女神像手持的杯子内装有浅黄色液体，且她正在举杯饮用，但液体颜色和姿态更符合香槟或白葡萄酒，而非水。"
+  },
+  {
+    "s_ynqa_id": 155,
+    "video_id": "17039",
+    "type_id": 2,
+    "yn_question": "视频场景发生在飞机的商务舱。",
+    "yn_answer": "yes",
+    "yn_reasoning": "从座椅的宽大尺寸、独立餐桌、服务人员的制服、以及窗外可见的云层和日落光线来看，环境符合高端航空客舱特征。"
+  },
+  {
+    "s_ynqa_id": 156,
+    "video_id": "17039",
+    "type_id": 3,
+    "yn_question": "视频中自由女神像手中拿着一本打开的书。",
+    "yn_answer": "no",
+    "yn_reasoning": "自由女神像手中确实持有一本书，但书页是闭合的。"
+  },
+  {
+    "s_ynqa_id": 157,
+    "video_id": "17039",
+    "type_id": 5,
+    "yn_question": "自由女神像的材质是金属，表面有铜绿色锈迹。",
+    "yn_answer": "yes",
+    "yn_reasoning": "自由女神像的表面呈现出典型的铜绿（铜氧化物）颜色，这是其历史真实材质的视觉表现。视频中雕像的绿色调和质感符合铜质雕塑的特征，因此该性质描述正确，不存在幻觉。"
+  },
+  {
+    "s_ynqa_id": 158,
+    "video_id": "17039",
+    "type_id": 6,
+    "yn_question": "视频中正在发生一场国际航班的商务舱餐食服务。",
+    "yn_answer": "yes",
+    "yn_reasoning": "视频中服务人员正在提供餐食，乘客面前摆放着水果、面包和酒杯，且环境为飞机客舱，这些元素共同构成‘商务舱餐食服务’的完整事件。"
+  },
+  {
+    "s_ynqa_id": 159,
+    "video_id": "17039",
+    "type_id": 7,
+    "yn_question": "自由女神像在喝完饮料后才开始阅读手中的书。",
+    "yn_answer": "no",
+    "yn_reasoning": "视频中自由女神像在举杯饮用时，手中书本已处于持有状态，且未显示她完成饮用后才开始阅读的动作。书本和饮料的交互顺序在视频中未明确呈现，因此无法推断出“喝完后才阅读”的时序关系。"
+  },
+  {
+    "s_ynqa_id": 160,
+    "video_id": "17047",
+    "type_id": 1,
+    "yn_question": "小猫正在用爪子拍打镜头。",
+    "yn_answer": "no",
+    "yn_reasoning": "小猫的前爪向前伸出，但没有接触镜头或拍打动作，其姿态更像是在奔跑或扑向镜头，而非拍打。"
+  },
+  {
+    "s_ynqa_id": 161,
+    "video_id": "17047",
+    "type_id": 3,
+    "yn_question": "视频中有一只老虎和一只小猫，但没有其他动物。",
+    "yn_answer": "yes",
+    "yn_reasoning": "视频中确实只清晰可见一只小猫和一只老虎，没有其他动物出现，符合描述。"
+  },
+  {
+    "s_ynqa_id": 162,
+    "video_id": "17047",
+    "type_id": 4,
+    "yn_question": "老虎正在追逐小猫，小猫在逃跑。",
+    "yn_answer": "yes",
+    "yn_reasoning": "小猫正面向镜头，姿态是扑向镜头，而老虎在后方张嘴，表现出追逐或小猫逃跑的动作。"
+  },
+  {
+    "s_ynqa_id": 163,
+    "video_id": "17047",
+    "type_id": 7,
+    "yn_question": "老虎先张开嘴，然后小猫才跑向镜头。",
+    "yn_answer": "no",
+    "yn_reasoning": "老虎和小猫的动作在画面中同时呈现，没有明确的先后顺序，且老虎张嘴和小猫跑动是同时发生的视觉效果。"
+  },
+  {
+    "s_ynqa_id": 164,
+    "video_id": "17047",
+    "type_id": 8,
+    "yn_question": "镜头在快速移动，导致背景模糊。",
+    "yn_answer": "yes",
+    "yn_reasoning": "画面中背景呈现运动模糊效果，表明镜头在快速移动或拍摄时有动态模糊，符合快速移动镜头的特征。"
+  },
+  {
+    "s_ynqa_id": 165,
+    "video_id": "17048",
+    "type_id": 1,
+    "yn_question": "猫在被外星人带走时正在跳跃。",
+    "yn_answer": "no",
+    "yn_reasoning": "视频中猫在被外星人带走时是静止站立的，没有跳跃动作，外星人将其抬离地面，猫的身体保持直立，没有表现出跳跃的姿态。"
+  },
+  {
+    "s_ynqa_id": 166,
+    "video_id": "17048",
+    "type_id": 2,
+    "yn_question": "猫被外星人带走后，场景从室内变成了外太空。",
+    "yn_answer": "yes",
+    "yn_reasoning": "视频开始时猫在室内瓷砖地板上，随后场景切换到外太空，背景变为星空，表明场景发生了变化。"
+  },
+  {
+    "s_ynqa_id": 167,
+    "video_id": "17048",
+    "type_id": 4,
+    "yn_question": "外星人与猫之间存在物理接触，但猫没有表现出任何反应。",
+    "yn_answer": "yes",
+    "yn_reasoning": "外星人用双手抱着猫，猫的身体被托举，猫的眼睛睁得很大，似乎在注视着前方，表明猫有反应，但没有挣扎或逃跑。"
+  },
+  {
+    "s_ynqa_id": 168,
+    "video_id": "17048",
+    "type_id": 8,
+    "yn_question": "镜头在猫被外星人带走时是固定的，没有移动。",
+    "yn_answer": "no",
+    "yn_reasoning": "镜头在猫被外星人带走时有明显的移动，从地面视角逐渐拉远，最后切换到外太空视角，镜头位置和角度发生了变化。"
+  },
+  {
+    "s_ynqa_id": 169,
+    "video_id": "17050",
+    "type_id": 1,
+    "yn_question": "这只柯基犬正在向后退吗？",
+    "yn_answer": "no",
+    "yn_reasoning": "视频中柯基犬正朝镜头方向奔跑，动作是向前的，而不是向后退。"
+  },
+  {
+    "s_ynqa_id": 170,
+    "video_id": "17050",
+    "type_id": 4,
+    "yn_question": "柯基犬正站在树的正前方，树在它的左侧吗？",
+    "yn_answer": "yes",
+    "yn_reasoning": "柯基犬正朝镜头跑来，树位于它的左侧。"
+  },
+  {
+    "s_ynqa_id": 171,
+    "video_id": "17050",
+    "type_id": 6,
+    "yn_question": "视频中柯基犬正在睡觉吗？",
+    "yn_answer": "no",
+    "yn_reasoning": "柯基犬正在快速奔跑并朝镜头方向移动，显然处于活跃状态，而非睡觉。"
+  },
+  {
+    "s_ynqa_id": 172,
+    "video_id": "17050",
+    "type_id": 7,
+    "yn_question": "柯基犬在视频开始前已经到达了镜头前吗？",
+    "yn_answer": "yes",
+    "yn_reasoning": "柯基犬一直位于镜头画面中。。"
+  },
+  {
+    "s_ynqa_id": 173,
+    "video_id": "17050",
+    "type_id": 8,
+    "yn_question": "视频拍摄时摄像头是固定不动的吗？",
+    "yn_answer": "yes",
+    "yn_reasoning": "整个视频中，背景中的房屋、树木和栅栏位置未发生变化，且柯基犬的运动轨迹是朝向镜头，表明摄像头没有移动。"
+  },
+  {
+    "s_ynqa_id": 174,
+    "video_id": "17055",
+    "type_id": 1,
+    "yn_question": "这只松鼠正在用爪子划水游泳。",
+    "yn_answer": "no",
+    "yn_reasoning": "视频中松鼠站在冲浪板上，随着海浪滑行，没有划水游泳的动作，其姿势和环境表明它在冲浪，而非游泳。"
+  },
+  {
+    "s_ynqa_id": 175,
+    "video_id": "17055",
+    "type_id": 4,
+    "yn_question": "松鼠的尾巴正缠绕在冲浪板上。",
+    "yn_answer": "no",
+    "yn_reasoning": "松鼠的尾巴自然垂在身后，没有与冲浪板接触或缠绕，它只是随身体摆动，保持平衡。"
+  },
+  {
+    "s_ynqa_id": 176,
+    "video_id": "01029",
+    "type_id": 1,
+    "yn_question": "视频中的人正在用双手折叠一件白色衣物，这个动作是否持续了超过5秒？",
+    "yn_answer": "no",
+    "yn_reasoning": "视频仅显示了从0:00到0:06的片段，动作在0:06结束，总时长不到6秒，因此不可能持续超过5秒。"
+  },
+  {
+    "s_ynqa_id": 177,
+    "video_id": "01029",
+    "type_id": 2,
+    "yn_question": "视频是在户外拍摄的吗？",
+    "yn_answer": "no",
+    "yn_reasoning": "视频背景是木质桌面和黑色垫子，没有自然光线或户外环境元素，表明拍摄场景是在室内。"
+  },
+  {
+    "s_ynqa_id": 178,
+    "video_id": "01029",
+    "type_id": 3,
+    "yn_question": "视频中有一只猫在布料旁边吗？",
+    "yn_answer": "no",
+    "yn_reasoning": "视频中只显示了手和布料，没有出现任何动物，更没有猫。"
+  },
+  {
+    "s_ynqa_id": 179,
+    "video_id": "01034",
+    "type_id": 1,
+    "yn_question": "这个人正在用纸巾擦拭桌子上的物品吗？",
+    "yn_answer": "no",
+    "yn_reasoning": "视频中手正在揉捏纸巾，没有接触或擦拭任何其他物品，因此不存在擦拭动作。"
+  },
+  {
+    "s_ynqa_id": 180,
+    "video_id": "01034",
+    "type_id": 2,
+    "yn_question": "这个场景是在室内厨房里吗？",
+    "yn_answer": "no",
+    "yn_reasoning": "视频显示的是室内环境，有瓷砖地板和白色台面，但是并不能确定是厨房环境，也有可能是客厅或者餐厅。"
+  },
+  {
+    "s_ynqa_id": 181,
+    "video_id": "01034",
+    "type_id": 4,
+    "yn_question": "手和纸巾之间存在物理接触关系吗？",
+    "yn_answer": "yes",
+    "yn_reasoning": "视频中手明显握着并揉捏纸巾，表明两者之间存在直接的物理接触。"
+  },
+  {
+    "s_ynqa_id": 182,
+    "video_id": "01034",
+    "type_id": 7,
+    "yn_question": "手先揉搓纸巾，然后再将纸巾中间戳出一个洞？",
+    "yn_answer": "yes",
+    "yn_reasoning": "手先揉搓纸巾，然后再将纸巾中间戳出一个洞。"
+  },
+  {
+    "s_ynqa_id": 183,
+    "video_id": "01034",
+    "type_id": 8,
+    "yn_question": "镜头在拍摄过程中有移动吗？",
+    "yn_answer": "yes",
+    "yn_reasoning": "镜头在拍摄过程中有轻微晃动。"
+  },
+  {
+    "s_ynqa_id": 184,
+    "video_id": "01071",
+    "type_id": 1,
+    "yn_question": "手正在撕开一张纸。",
+    "yn_answer": "no",
+    "yn_reasoning": "视频中手只是在展开纸张，没有撕开纸张的动作，因此该动作不存在。"
+  },
+  {
+    "s_ynqa_id": 185,
+    "video_id": "01071",
+    "type_id": 2,
+    "yn_question": "视频拍摄于室内，背景是棕色的墙壁。",
+    "yn_answer": "no",
+    "yn_reasoning": "视频背景是一个棕色的表面，看起来像是墙壁或桌面。"
+  },
+  {
+    "s_ynqa_id": 186,
+    "video_id": "01074",
+    "type_id": 1,
+    "yn_question": "视频中的人正在用笔写字吗？",
+    "yn_answer": "no",
+    "yn_reasoning": "视频中手在翻动并最终展平页面，没有显示任何书写动作。"
+  },
+  {
+    "s_ynqa_id": 187,
+    "video_id": "01074",
+    "type_id": 3,
+    "yn_question": "视频中只有一张纸？",
+    "yn_answer": "no",
+    "yn_reasoning": "视频左上角还有一个折叠好的纸。"
+  },
+  {
+    "s_ynqa_id": 188,
+    "video_id": "01074",
+    "type_id": 4,
+    "yn_question": "手和笔记本之间存在物理接触吗？",
+    "yn_answer": "no",
+    "yn_reasoning": "视频中并不存在笔记本，只有两张纸。"
+  },
+  {
+    "s_ynqa_id": 189,
+    "video_id": "01088",
+    "type_id": 1,
+    "yn_question": "视频中的人正在折叠黑色T恤吗？",
+    "yn_answer": "yes",
+    "yn_reasoning": "视频中显示双手在整理黑色T恤，动作符合折叠行为，因此可以推断正在折叠T恤。"
+  },
+  {
+    "s_ynqa_id": 190,
+    "video_id": "01109",
+    "type_id": 3,
+    "yn_question": "视频中桌子上有一只猫吗？",
+    "yn_answer": "no",
+    "yn_reasoning": "视频中桌子上有两个盒子和两张卡片，没有出现任何猫的影像或迹象，因此不存在猫。"
+  },
+  {
+    "s_ynqa_id": 191,
+    "video_id": "01109",
+    "type_id": 4,
+    "yn_question": "视频中桌子上的盒子和卡片是相互堆叠的吗？",
+    "yn_answer": "no",
+    "yn_reasoning": "盒子和卡片是并排摆放，卡片在盒子的右上方，没有堆叠关系，因此它们不是相互堆叠的。"
+  },
+  {
+    "s_ynqa_id": 192,
+    "video_id": "01109",
+    "type_id": 5,
+    "yn_question": "视频中桌子上的盒子是蓝色的吗？",
+    "yn_answer": "no",
+    "yn_reasoning": "盒子是银灰色或白色，没有蓝色的特征，因此盒子不是蓝色的。"
+  },
+  {
+    "s_ynqa_id": 193,
+    "video_id": "01118",
+    "type_id": 3,
+    "yn_question": "视频中有一台笔记本电脑在桌子上吗？",
+    "yn_answer": "yes",
+    "yn_reasoning": "视频中背景处有一台黑色笔记本电脑，位于桌子后方。"
+  },
+  {
+    "s_ynqa_id": 194,
+    "video_id": "01118",
+    "type_id": 4,
+    "yn_question": "手机和摄像机是并排摆放的吗？",
+    "yn_answer": "yes",
+    "yn_reasoning": "手机被放置在摄像机左侧，两者在同一水平面上并排摆放。"
+  },
+  {
+    "s_ynqa_id": 195,
+    "video_id": "01118",
+    "type_id": 6,
+    "yn_question": "视频中发生了一个物体被移动的事件吗？",
+    "yn_answer": "yes",
+    "yn_reasoning": "视频中手将手机从画面外移入并放置在桌上，这是一个物体移动事件。"
+  },
+  {
+    "s_ynqa_id": 196,
+    "video_id": "01127",
+    "type_id": 1,
+    "yn_question": "视频中的人正在用红色塑料篮子盛水。",
+    "yn_answer": "no",
+    "yn_reasoning": "视频中没有显示任何水，也没有任何迹象表明篮子正在被用于盛水。篮子只是被手拿着并被放置在地面上，没有与水发生任何交互。"
+  },
+  {
+    "s_ynqa_id": 197,
+    "video_id": "01127",
+    "type_id": 8,
+    "yn_question": "视频拍摄时镜头是固定的，没有移动。",
+    "yn_answer": "no",
+    "yn_reasoning": "镜头从手持视角开始，然后向下移动并聚焦于篮子，表明镜头有明显的移动和聚焦变化，不是固定的。"
+  },
+  {
+    "s_ynqa_id": 198,
+    "video_id": "01135",
+    "type_id": 3,
+    "yn_question": "桌子上有一台笔记本电脑吗？",
+    "yn_answer": "no",
+    "yn_reasoning": "视频中桌子上有键盘，但没有显示完整的笔记本电脑，键盘可能是台式机的一部分或独立设备，无法确认是笔记本电脑。"
+  },
+  {
+    "s_ynqa_id": 199,
+    "video_id": "01135",
+    "type_id": 4,
+    "yn_question": "水瓶和键盘是并排放在桌面上的吗？",
+    "yn_answer": "yes",
+    "yn_reasoning": "视频中水瓶位于桌面上，键盘在其右侧，两者在桌面上相邻放置，符合并排关系。"
+  },
+  {
+    "s_ynqa_id": 200,
+    "video_id": "01135",
+    "type_id": 5,
+    "yn_question": "水瓶是透明的，瓶身有蓝色标签吗？",
+    "yn_answer": "yes",
+    "yn_reasoning": "视频中水瓶瓶身透明，瓶身贴有蓝色标签，标签上写有“DRINKING WATER”字样，符合描述。"
+  },
+  {
+    "s_ynqa_id": 201,
+    "video_id": "01138",
+    "type_id": 2,
+    "yn_question": "视频场景是在户外的木制地板上吗？",
+    "yn_answer": "yes",
+    "yn_reasoning": "视频中显示的是浅色木板地面，有木纹和结疤，符合户外木制地板的特征，且没有显示室内装饰或家具。"
+  },
+  {
+    "s_ynqa_id": 202,
+    "video_id": "01138",
+    "type_id": 3,
+    "yn_question": "视频中有一支铅笔和一只手，但没有其他物体。",
+    "yn_answer": "yes",
+    "yn_reasoning": "视频中明确可见一支铅笔和一只手，没有其他物品出现，符合描述。"
+  },
+  {
+    "s_ynqa_id": 203,
+    "video_id": "01139",
+    "type_id": 4,
+    "yn_question": "手和瓶子之间存在物理接触吗？",
+    "yn_answer": "yes",
+    "yn_reasoning": "视频中手的指尖正按压在瓶子的标签上，表明两者之间存在直接的物理接触。"
+  },
+  {
+    "s_ynqa_id": 204,
+    "video_id": "01139",
+    "type_id": 1,
+    "yn_question": "手正在挤压瓶子以挤出内容物吗？",
+    "yn_answer": "no",
+    "yn_reasoning": "视频中手只是按压瓶子，没有明显的挤压动作或内容物被挤出的迹象。"
+  },
+  {
+    "s_ynqa_id": 205,
+    "video_id": "01139",
+    "type_id": 2,
+    "yn_question": "视频拍摄的场景是在户外的草地上吗？",
+    "yn_answer": "no",
+    "yn_reasoning": "视频背景是绿色布料，没有自然草地或户外环境的特征。"
+  },
+  {
+    "s_ynqa_id": 206,
+    "video_id": "01139",
+    "type_id": 3,
+    "yn_question": "瓶子上没有标签吗？",
+    "yn_answer": "no",
+    "yn_reasoning": "瓶子上有清晰的红色和白色标签，上面印有“VINAM”字样。"
+  },
+  {
+    "s_ynqa_id": 207,
+    "video_id": "01139",
+    "type_id": 4,
+    "yn_question": "手和瓶子之间没有物理接触吗？",
+    "yn_answer": "no",
+    "yn_reasoning": "手明确地按压在瓶子上，表明存在物理接触。"
+  },
+  {
+    "s_ynqa_id": 208,
+    "video_id": "01139",
+    "type_id": 5,
+    "yn_question": "瓶子是透明的吗？",
+    "yn_answer": "no",
+    "yn_reasoning": "瓶子是白色的不透明材质，无法透过它看到内部。"
+  },
+  {
+    "s_ynqa_id": 209,
+    "video_id": "01162",
+    "type_id": 1,
+    "yn_question": "手正在将笔插入咖啡杯中吗？",
+    "yn_answer": "no",
+    "yn_reasoning": "视频中手只是将笔放在杯子旁边，没有插入杯子中。"
+  },
+  {
+    "s_ynqa_id": 210,
+    "video_id": "01162",
+    "type_id": 2,
+    "yn_question": "视频是在户外的花园里拍摄的吗？",
+    "yn_answer": "yes",
+    "yn_reasoning": "视频是在户外的花园里拍摄的。"
+  },
+  {
+    "s_ynqa_id": 211,
+    "video_id": "01162",
+    "type_id": 3,
+    "yn_question": "视频中有一个茶包在杯子里吗？",
+    "yn_answer": "yes",
+    "yn_reasoning": "视频中茶包的标签部分露出在杯口外，表明它在杯子里。"
+  },
+  {
+    "s_ynqa_id": 212,
+    "video_id": "01162",
+    "type_id": 4,
+    "yn_question": "笔和杯子是相互接触的吗？",
+    "yn_answer": "no",
+    "yn_reasoning": "笔被手拿着，放在杯子前方，没有与杯子接触。"
+  },
+  {
+    "s_ynqa_id": 213,
+    "video_id": "01167",
+    "type_id": 1,
+    "yn_question": "一个人正在用双手打开玻璃罐的盖子。",
+    "yn_answer": "no",
+    "yn_reasoning": "视频中显示一只手握着玻璃罐，另一只手将黄色盖子放在罐子边缘，但并未实际打开盖子，盖子仍处于未开启状态。"
+  },
+  {
+    "s_ynqa_id": 214,
+    "video_id": "01167",
+    "type_id": 1,
+    "yn_question": "视频中的人正在用玻璃罐子装水。",
+    "yn_answer": "no",
+    "yn_reasoning": "视频中玻璃罐子是空的，没有水，且没有装水的动作发生。"
+  },
+  {
+    "s_ynqa_id": 215,
+    "video_id": "01167",
+    "type_id": 8,
+    "yn_question": "镜头在拍摄过程中有明显的移动。",
+    "yn_answer": "no",
+    "yn_reasoning": "镜头保持稳定，没有移动或变焦，是固定视角拍摄。"
+  },
+  {
+    "s_ynqa_id": 216,
+    "video_id": "01203",
+    "type_id": 1,
+    "yn_question": "视频中的人正在用瓶子喝水吗？",
+    "yn_answer": "no",
+    "yn_reasoning": "视频中的人只是拿着瓶子，没有显示任何喝水的动作，如嘴唇接触瓶口或液体被喝入嘴中。"
+  },
+  {
+    "s_ynqa_id": 217,
+    "video_id": "01203",
+    "type_id": 3,
+    "yn_question": "视频中存在一个完整的、未被遮挡的塑料瓶吗？",
+    "yn_answer": "yes",
+    "yn_reasoning": "视频中清晰显示一个完整的塑料瓶，瓶身有可口可乐标志，没有被遮挡或部分缺失。"
+  },
+  {
+    "s_ynqa_id": 218,
+    "video_id": "01203",
+    "type_id": 7,
+    "yn_question": "手在视频开始前已经握住了瓶子？",
+    "yn_answer": "yes",
+    "yn_reasoning": "从视频开头就能看到手握着瓶子，说明动作在视频开始前就已经发生。"
+  },
+  {
+    "s_ynqa_id": 219,
+    "video_id": "01205",
+    "type_id": 1,
+    "yn_question": "视频中的人正在用遥控器操作电视。",
+    "yn_answer": "no",
+    "yn_reasoning": "视频中没有出现任何人，遥控器只是放置在地毯上，并没有被操作。"
+  },
+  {
+    "s_ynqa_id": 220,
+    "video_id": "01206",
+    "type_id": 4,
+    "yn_question": "梳子和贴纸是相互接触的吗？",
+    "yn_answer": "yes",
+    "yn_reasoning": "在0:02至0:04帧中，梳子和贴纸在视觉上紧密相邻，贴纸位于梳子正下方，二者处于同一平面上，可以认为是相互接触的。"
+  },
+  {
+    "s_ynqa_id": 221,
+    "video_id": "01206",
+    "type_id": 7,
+    "yn_question": "梳子在贴纸出现之前就已经在视频中出现了吗？",
+    "yn_answer": "yes",
+    "yn_reasoning": "梳子在0:00帧就已出现在画面中，而贴纸是在0:02帧才被放置到画面中，因此梳子出现在贴纸之前。"
+  },
+  {
+    "s_ynqa_id": 222,
+    "video_id": "01220",
+    "type_id": 1,
+    "yn_question": "视频中的人正在用手机打电话吗？",
+    "yn_answer": "no",
+    "yn_reasoning": "视频中显示的是手拿着一本书，没有手机，也没有任何打电话的动作，因此不可能在打电话。"
+  },
+  {
+    "s_ynqa_id": 223,
+    "video_id": "02023",
+    "type_id": 1,
+    "yn_question": "这个人正在用苹果做杂耍动作吗？",
+    "yn_answer": "yes",
+    "yn_reasoning": "视频中显示这个人双手抛接多个苹果，动作连贯，符合杂耍的特征，因此可以判断他正在用苹果做杂耍。"
+  },
+  {
+    "s_ynqa_id": 224,
+    "video_id": "02023",
+    "type_id": 4,
+    "yn_question": "这个人正在用双手同时抛接苹果，且苹果在空中保持完整？",
+    "yn_answer": "no",
+    "yn_reasoning": "视频中显示这个人双手抛接苹果，但是同时还在不断的咬苹果，因此，苹果在空中并没有保持完整。"
+  },
+  {
+    "s_ynqa_id": 225,
+    "video_id": "02023",
+    "type_id": 6,
+    "yn_question": "这个人正在吃苹果吗？",
+    "yn_answer": "yes",
+    "yn_reasoning": "视频中这个人在抛接苹果的同时也在吃苹果。"
+  },
+  {
+    "s_ynqa_id": 226,
+    "video_id": "02023",
+    "type_id": 5,
+    "yn_question": "视频中共出现了三个苹果？",
+    "yn_answer": "yes",
+    "yn_reasoning": "视频中共出现了三个苹果。"
+  },
+  {
+    "s_ynqa_id": 227,
+    "video_id": "02025",
+    "type_id": 1,
+    "yn_question": "视频中的人正在做俯卧撑。",
+    "yn_answer": "no",
+    "yn_reasoning": "视频中的人从床边跳起并翻滚到上铺，动作明显不是俯卧撑，而是跳跃和翻滚，因此该动作描述是错误的。"
+  },
+  {
+    "s_ynqa_id": 228,
+    "video_id": "02025",
+    "type_id": 4,
+    "yn_question": "人跳到上铺后，上铺的被子被他掀翻了。",
+    "yn_answer": "yes",
+    "yn_reasoning": "视频中人跳到上铺时，被子确实被掀翻，动作与被子状态变化有明确物理关系，符合描述。"
+  },
+  {
+    "s_ynqa_id": 229,
+    "video_id": "02025",
+    "type_id": 7,
+    "yn_question": "人先跳到上铺，然后才翻滚到下铺。",
+    "yn_answer": "no",
+    "yn_reasoning": "视频中人直接从下铺跳到上铺，没有翻滚到下铺的动作，因此事件顺序描述错误。"
+  },
+  {
+    "s_ynqa_id": 230,
+    "video_id": "02025",
+    "type_id": 8,
+    "yn_question": "镜头在视频中是固定不动的。",
+    "yn_answer": "yes",
+    "yn_reasoning": "视频中镜头没有移动，画面稳定，没有摇晃或推拉，因此镜头状态描述正确。"
+  },
+  {
+    "s_ynqa_id": 231,
+    "video_id": "02049",
+    "type_id": 1,
+    "yn_question": "这只山羊正在滑滑板时跳跃。",
+    "yn_answer": "no",
+    "yn_reasoning": "视频中显示山羊在滑滑板，但没有跳跃的动作，它只是在滑行，因此该动作不存在。"
+  },
+  {
+    "s_ynqa_id": 232,
+    "video_id": "02049",
+    "type_id": 4,
+    "yn_question": "山羊和女孩正在一起玩滑板。",
+    "yn_answer": "no",
+    "yn_reasoning": "女孩只是在旁边行走，并没有参与滑板活动，山羊是独自在滑板，因此二者没有共同玩滑板的关系。"
+  },
+  {
+    "s_ynqa_id": 233,
+    "video_id": "02049",
+    "type_id": 5,
+    "yn_question": "山羊带着项圈？",
+    "yn_answer": "yes",
+    "yn_reasoning": "视频显示山羊带着项圈。"
+  },
+  {
+    "s_ynqa_id": 234,
+    "video_id": "02049",
+    "type_id": 6,
+    "yn_question": "视频中发生了一场山羊与人类的互动游戏。",
+    "yn_answer": "yes",
+    "yn_reasoning": "山羊在滑板上滑行，女孩在旁边走动，并进行引导。"
+  },
+  {
+    "s_ynqa_id": 235,
+    "video_id": "02049",
+    "type_id": 7,
+    "yn_question": "山羊先滑行，然后女孩才出现。",
+    "yn_answer": "yes",
+    "yn_reasoning": "视频先是聚焦于滑板上的山羊，然后才出现女孩。"
+  },
+  {
+    "s_ynqa_id": 236,
+    "video_id": "02049",
+    "type_id": 8,
+    "yn_question": "镜头在拍摄过程中有明显的上下移动。",
+    "yn_answer": "no",
+    "yn_reasoning": "镜头保持相对稳定，没有明显的上下移动，而是跟随山羊横向移动，因此镜头没有上下移动。"
+  },
+  {
+    "s_ynqa_id": 237,
+    "video_id": "02055",
+    "type_id": 1,
+    "yn_question": "猫正在用爪子按压键盘。",
+    "yn_answer": "no",
+    "yn_reasoning": "猫的前爪在触摸电脑屏幕，而不是键盘。键盘位于猫的前方，但猫没有与之互动。"
+  },
+  {
+    "s_ynqa_id": 238,
+    "video_id": "02055",
+    "type_id": 3,
+    "yn_question": "视频中出现了一个未被打开的可口可乐？",
+    "yn_answer": "no",
+    "yn_reasoning": "视频中出现了一个被打开的可口可乐，已经喝了一部分了。"
+  },
+  {
+    "s_ynqa_id": 239,
+    "video_id": "02076",
+    "type_id": 6,
+    "yn_question": "该女性成功完成了整个深度动作吗？",
+    "yn_answer": "no",
+    "yn_reasoning": "视频中，杠铃片滑落，导致失去平衡，运动员摔倒在地面上"
+  },
+  {
+    "s_ynqa_id": 240,
+    "video_id": "02076",
+    "type_id": 7,
+    "yn_question": "该女性先进行硬拉，然后才进行深蹲动作吗？",
+    "yn_answer": "no",
+    "yn_reasoning": "视频中女性只进行了深蹲的准备动作。"
+  },
+  {
+    "s_ynqa_id": 241,
+    "video_id": "02076",
+    "type_id": 8,
+    "yn_question": "镜头在视频中保持固定不动吗？",
+    "yn_answer": "yes",
+    "yn_reasoning": "镜头在视频中保持固定不动吗？"
+  },
+  {
+    "s_ynqa_id": 242,
+    "video_id": "02081",
+    "type_id": 1,
+    "yn_question": "这个人正在跑步吗？",
+    "yn_answer": "yes",
+    "yn_reasoning": "视频中的人在跑步机上运动，但是最终摔倒在跑步机上。"
+  },
+  {
+    "s_ynqa_id": 243,
+    "video_id": "02081",
+    "type_id": 5,
+    "yn_question": "跑步机的颜色是黑色的吗？",
+    "yn_answer": "yes",
+    "yn_reasoning": "视频中跑步机的表面和框架主要呈现深色，可以合理推断为黑色，尽管部分金属部分有银色光泽，但整体颜色为黑色。"
+  },
+  {
+    "s_ynqa_id": 244,
+    "video_id": "02081",
+    "type_id": 6,
+    "yn_question": "视频中发生了一个人在跑步机上摔倒的事件吗？",
+    "yn_answer": "yes",
+    "yn_reasoning": "视频显示这个人从站立姿势摔倒在跑步机上，身体前倾，手部接触跑步机表面，这明确表明发生了摔倒事件。"
+  },
+  {
+    "s_ynqa_id": 245,
+    "video_id": "02081",
+    "type_id": 7,
+    "yn_question": "这个人先扶着扶手，然后才摔倒在跑步机上吗？",
+    "yn_answer": "yes",
+    "yn_reasoning": "视频显示这个人一开始扶着扶手，随后身体前倾并摔倒，表明动作顺序是先扶着扶手，后摔倒，符合‘先/后’关系。"
+  },
+  {
+    "s_ynqa_id": 246,
+    "video_id": "02097",
+    "type_id": 1,
+    "yn_question": "视频中的人正在用叉子搅拌煎蛋。",
+    "yn_answer": "no",
+    "yn_reasoning": "视频中的人用叉子将煎蛋从平底锅中拨入水中，而不是搅拌煎蛋。"
+  },
+  {
+    "s_ynqa_id": 247,
+    "video_id": "02102",
+    "type_id": 1,
+    "yn_question": "这个人左手拿过一双红色的筷子",
+    "yn_answer": "no",
+    "yn_reasoning": "这个人左手拿过一个红色的锅铲，并不是筷子。"
+  },
+  {
+    "s_ynqa_id": 248,
+    "video_id": "02102",
+    "type_id": 3,
+    "yn_question": "视频中的人穿着的T恤有三个英文单词‘WELL’？",
+    "yn_answer": "yes",
+    "yn_reasoning": "视频中的人穿着一件白色的T恤，上面印有文字和图案，包含了三个‘WELL’的英文单词。"
+  },
+  {
+    "s_ynqa_id": 249,
+    "video_id": "02102",
+    "type_id": 4,
+    "yn_question": "锅里的食物是直接放在桌子上，而不是在炉子上加热吗？",
+    "yn_answer": "no",
+    "yn_reasoning": "视频中锅明显放在炉灶上，炉灶上有火焰或加热装置，表明食物正在被加热，而不是直接放在桌子上。"
+  },
+  {
+    "s_ynqa_id": 250,
+    "video_id": "02102",
+    "type_id": 5,
+    "yn_question": "盘子中一共有三个鸡蛋？",
+    "yn_answer": "no",
+    "yn_reasoning": "盘子中一共有四个鸡蛋，三个黄色的，一个白色的。"
+  },
+  {
+    "s_ynqa_id": 251,
+    "video_id": "02111",
+    "type_id": 1,
+    "yn_question": "视频中的人正在用瓶子打开另一个瓶子吗？",
+    "yn_answer": "no",
+    "yn_reasoning": "视频中显示的是手正在拧开一个瓶子的瓶盖，而不是用一个瓶子去打开另一个瓶子。"
+  },
+  {
+    "s_ynqa_id": 252,
+    "video_id": "02111",
+    "type_id": 4,
+    "yn_question": "瓶子和笔记本电脑之间存在物理接触吗？",
+    "yn_answer": "yes",
+    "yn_reasoning": "瓶子被手握着，最后摔倒笔记本键盘上，并流出大量液体。"
+  },
+  {
+    "s_ynqa_id": 253,
+    "video_id": "02111",
+    "type_id": 6,
+    "yn_question": "视频中发生了一起液体泼洒事件吗？",
+    "yn_answer": "yes",
+    "yn_reasoning": "视频中可以看到液体（啤酒）从瓶子中泼洒出来，覆盖了笔记本电脑的键盘和桌面，这是一起明显的泼洒事件。"
+  },
+  {
+    "s_ynqa_id": 254,
+    "video_id": "02112",
+    "type_id": 1,
+    "yn_question": "视频中的人正在做饭吗？",
+    "yn_answer": "yes",
+    "yn_reasoning": "视频中的人在厨房里，正在集体完成烹饪。"
+  },
+  {
+    "s_ynqa_id": 255,
+    "video_id": "02112",
+    "type_id": 2,
+    "yn_question": "视频中炉具上只有一个红底的平底锅吗？",
+    "yn_answer": "yes",
+    "yn_reasoning": "视频中炉具上只有一个红底的平底锅吗。"
+  },
+  {
+    "s_ynqa_id": 256,
+    "video_id": "02112",
+    "type_id": 4,
+    "yn_question": "视频中的人正在互相帮助准备食物吗？",
+    "yn_answer": "no",
+    "yn_reasoning": "视频中几个人围绕着厨房操作台，所有人都在观看一个人的操作，因此不是互相帮助准备食物。"
+  },
+  {
+    "s_ynqa_id": 257,
+    "video_id": "02112",
+    "type_id": 5,
+    "yn_question": "从视频中可以推断，厨房中至少有五人？",
+    "yn_answer": "yes",
+    "yn_reasoning": "视频正对着四人，然后从画面左侧中还有一双手在鼓掌，推测至少有五人。"
+  },
+  {
+    "s_ynqa_id": 258,
+    "video_id": "02112",
+    "type_id": 8,
+    "yn_question": "视频中镜头是从左到右扫过场景的吗？",
+    "yn_answer": "no",
+    "yn_reasoning": "视频中镜头聚焦于厨房操作台，镜头没有明显的移动或扫过场景，只是有轻微的晃动。"
+  },
+  {
+    "s_ynqa_id": 259,
+    "video_id": "02129",
+    "type_id": 4,
+    "yn_question": "视频中的人正在互相帮助爬出水渠。",
+    "yn_answer": "yes",
+    "yn_reasoning": "视频中，当一个人滑入水渠后，另一个人跑过来并伸手帮助他爬出水渠，表明他们之间存在互相帮助的关系。"
+  },
+  {
+    "s_ynqa_id": 260,
+    "video_id": "02129",
+    "type_id": 6,
+    "yn_question": "视频中发生了两个人在公园里玩水的事件。",
+    "yn_answer": "no",
+    "yn_reasoning": "视频中确实展示了两个人在公园的水渠边互动，其中一人滑入水中，另一人帮助他爬出，并不是在玩水。"
+  },
+  {
+    "s_ynqa_id": 261,
+    "video_id": "02129",
+    "type_id": 7,
+    "yn_question": "视频中的人先滑入水渠，然后才有人跑来帮助他。",
+    "yn_answer": "yes",
+    "yn_reasoning": "视频显示，一个人先滑入水渠，之后另一个人跑过来帮助他爬出，这符合事件发生的顺序。"
+  },
+  {
+    "s_ynqa_id": 262,
+    "video_id": "02129",
+    "type_id": 8,
+    "yn_question": "视频拍摄时镜头是固定的，没有移动。",
+    "yn_answer": "no",
+    "yn_reasoning": "视频中的镜头随着人物的移动而移动，尤其是在人物滑入水渠时，镜头明显向下移动并跟随其动作，表明镜头是移动的。"
+  },
+  {
+    "s_ynqa_id": 263,
+    "video_id": "02135",
+    "type_id": 1,
+    "yn_question": "该女性正在划桨板吗？",
+    "yn_answer": "yes",
+    "yn_reasoning": "视频中女性站在桨板上，稳定后，尝试滑动浆板。"
+  },
+  {
+    "s_ynqa_id": 264,
+    "video_id": "02135",
+    "type_id": 3,
+    "yn_question": "视频中有一个游泳圈？",
+    "yn_answer": "no",
+    "yn_reasoning": "视频中没有出现游泳圈，只有桨板和一个浮板，女性也没有使用游泳圈。"
+  },
+  {
+    "s_ynqa_id": 265,
+    "video_id": "02135",
+    "type_id": 5,
+    "yn_question": "视频中存在一个黑色的浮板吗？",
+    "yn_answer": "yes",
+    "yn_reasoning": "在游艇旁边存在一个黑色的浮板。"
+  },
+  {
+    "s_ynqa_id": 266,
+    "video_id": "02135",
+    "type_id": 6,
+    "yn_question": "视频中该女子穿着黑色的鞋或者袜子？",
+    "yn_answer": "yes",
+    "yn_reasoning": "视频中该女子穿着黑色的鞋或者袜子。"
+  },
+  {
+    "s_ynqa_id": 267,
+    "video_id": "02135",
+    "type_id": 8,
+    "yn_question": "镜头在视频中保持固定不动？",
+    "yn_answer": "yes",
+    "yn_reasoning": "视频中镜头没有移动，始终对准女性和桨板，视角稳定，没有明显的摇摄或推拉镜头。"
+  },
+  {
+    "s_ynqa_id": 268,
+    "video_id": "02148",
+    "type_id": 3,
+    "yn_question": "视频中有一只狗在水里。",
+    "yn_answer": "no",
+    "yn_reasoning": "视频中只有一个人跌入水中，没有出现任何动物，更没有狗。"
+  },
+  {
+    "s_ynqa_id": 269,
+    "video_id": "02148",
+    "type_id": 4,
+    "yn_question": "跌入水中的男子与台阶上的男子有直接的身体接触。",
+    "yn_answer": "no",
+    "yn_reasoning": "跌入水中的男子与台阶上的男子之间没有直接的身体接触，台阶上的男子只是在观察或准备帮助。"
+  },
+  {
+    "s_ynqa_id": 270,
+    "video_id": "02148",
+    "type_id": 5,
+    "yn_question": "跌入水中的男子将手机最终留在了岸边。",
+    "yn_answer": "yes",
+    "yn_reasoning": "跌入水中的男子将手机最终留在了岸边。"
+  },
+  {
+    "s_ynqa_id": 271,
+    "video_id": "02167",
+    "type_id": 1,
+    "yn_question": "球员20号在运球时是否正在做后撤步动作？",
+    "yn_answer": "no",
+    "yn_reasoning": "从视频帧中可以看出，球员20号在运球时身体前倾，步伐向前，没有明显的后撤步动作特征。后撤步通常伴随着向后移动和脚步的调整，而该球员的动作更符合直线运球。"
+  },
+  {
+    "s_ynqa_id": 272,
+    "video_id": "02167",
+    "type_id": 2,
+    "yn_question": "比赛是否在室内篮球场进行？",
+    "yn_answer": "yes",
+    "yn_reasoning": "视频显示有观众席、天花板结构、室内照明和木地板，这些都是典型的室内篮球场特征。没有迹象表明比赛在户外或非标准场地进行。"
+  },
+  {
+    "s_ynqa_id": 273,
+    "video_id": "02167",
+    "type_id": 3,
+    "yn_question": "视频中是否有裁判员在场边吹哨？",
+    "yn_answer": "no",
+    "yn_reasoning": "虽然视频中有裁判员在场，但没有观察到裁判员吹哨的动作。裁判员只是站在场边，没有做出吹哨的明显动作。"
+  },
+  {
+    "s_ynqa_id": 274,
+    "video_id": "02167",
+    "type_id": 5,
+    "yn_question": "摔倒的球员是否穿着红色24号球衣？",
+    "yn_answer": "yes",
+    "yn_reasoning": "从视频中可以清晰看到，摔倒的球员穿着深红色24号球衣，与另一队白色球衣形成对比。颜色明确可辨，无误识别。"
+  },
+  {
+    "s_ynqa_id": 275,
+    "video_id": "02167",
+    "type_id": 6,
+    "yn_question": "视频中是否发生了球员摔倒并被裁判员吹哨的事件？",
+    "yn_answer": "no",
+    "yn_reasoning": "视频中确实有球员摔倒，裁判员随后走向摔倒的球员并做出手势，但是并没有出现吹哨的事件。"
+  },
+  {
+    "s_ynqa_id": 276,
+    "video_id": "02167",
+    "type_id": 8,
+    "yn_question": "镜头是否在摔倒瞬间进行了快速推近？",
+    "yn_answer": "no",
+    "yn_reasoning": "镜头在摔倒瞬间没有明显的快速推近动作，而是保持相对稳定，随后才慢慢拉近。镜头移动较为平缓，没有剧烈推近的迹象。"
+  },
+  {
+    "s_ynqa_id": 277,
+    "video_id": "02172",
+    "type_id": 1,
+    "yn_question": "球员正在用球杆击打冰球吗？",
+    "yn_answer": "no",
+    "yn_reasoning": "视频中球员在滑行和摔倒，没有明显击打冰球的动作，冰球未在画面中清晰可见。"
+  },
+  {
+    "s_ynqa_id": 278,
+    "video_id": "02172",
+    "type_id": 4,
+    "yn_question": "球员在守门员身后滑行时，守门员正在扑救吗？",
+    "yn_answer": "no",
+    "yn_reasoning": "视频中守门员处于静止或准备状态，没有明显扑救动作，球员滑行时守门员未做出反应。"
+  },
+  {
+    "s_ynqa_id": 279,
+    "video_id": "02172",
+    "type_id": 8,
+    "yn_question": "镜头在球员摔倒时有快速移动吗？",
+    "yn_answer": "yes",
+    "yn_reasoning": "视频中镜头在球员摔倒时有明显的抖动和快速移动，表明拍摄时镜头不稳定。"
+  },
+  {
+    "s_ynqa_id": 280,
+    "video_id": "02185",
+    "type_id": 1,
+    "yn_question": "滑雪运动员正在空中跳跃吗？",
+    "yn_answer": "no",
+    "yn_reasoning": "视频中运动员始终在雪地上滑行，没有离开雪面进行跳跃动作。"
+  },
+  {
+    "s_ynqa_id": 281,
+    "video_id": "02185",
+    "type_id": 2,
+    "yn_question": "比赛是在白天进行的吗？",
+    "yn_answer": "no",
+    "yn_reasoning": "视频背景显示为夜晚，有灯光照明，观众席和广告牌在灯光下可见，表明比赛是在夜间进行。"
+  },
+  {
+    "s_ynqa_id": 282,
+    "video_id": "02185",
+    "type_id": 4,
+    "yn_question": "运动员在通过障碍物时，其滑雪板与障碍物有物理接触吗？",
+    "yn_answer": "yes",
+    "yn_reasoning": "视频中运动员在通过红色障碍物时，滑雪板明显与障碍物发生接触，产生雪雾。"
+  },
+  {
+    "s_ynqa_id": 283,
+    "video_id": "02185",
+    "type_id": 6,
+    "yn_question": "视频中显示的是滑雪比赛的终点线吗？",
+    "yn_answer": "yes",
+    "yn_reasoning": "视频中显示的是滑雪比赛的终点线。"
+  },
+  {
+    "s_ynqa_id": 284,
+    "video_id": "02188",
+    "type_id": 1,
+    "yn_question": "球员正在用冰球杆击打冰球，但冰球并未在冰面上移动。",
+    "yn_answer": "no",
+    "yn_reasoning": "视频中显示球员正在用冰球杆击打冰球，冰球在冰面上明显移动，表明动作是真实的。"
+  },
+  {
+    "s_ynqa_id": 285,
+    "video_id": "02188",
+    "type_id": 4,
+    "yn_question": "球员和守门员之间进行正常的比赛进程。",
+    "yn_answer": "no",
+    "yn_reasoning": "视频中球员正在向守门员方向滑行并试图射门，守门员也在做出防守动作，随后两人通过猜拳的方式来比拼输赢。"
+  },
+  {
+    "s_ynqa_id": 286,
+    "video_id": "02188",
+    "type_id": 5,
+    "yn_question": "守门员向右防守，最终防守失败。",
+    "yn_answer": "no",
+    "yn_reasoning": "守门员猜拳失败后，主动让出了球门，并非防守。"
+  },
+  {
+    "s_ynqa_id": 287,
+    "video_id": "02188",
+    "type_id": 6,
+    "yn_question": "视频中发生了一次进球。",
+    "yn_answer": "yes",
+    "yn_reasoning": "进攻人员猜拳成功，守门员直接让出了球门，随后进球成功。"
+  },
+  {
+    "s_ynqa_id": 288,
+    "video_id": "02216",
+    "type_id": 4,
+    "yn_question": "山体滑坡的尘土直接覆盖了路边的车辆。",
+    "yn_answer": "yes",
+    "yn_reasoning": "尘土主要落在水面上和山脚，也覆盖到路边的车辆。"
+  },
+  {
+    "s_ynqa_id": 289,
+    "video_id": "02216",
+    "type_id": 5,
+    "yn_question": "道路边上有‘小心山体滑坡’的警告标志。",
+    "yn_answer": "yes",
+    "yn_reasoning": "道路边上有‘小心山体滑坡’的警告标志。"
+  },
+  {
+    "s_ynqa_id": 290,
+    "video_id": "02216",
+    "type_id": 6,
+    "yn_question": "视频中发生了一场地震。",
+    "yn_answer": "no",
+    "yn_reasoning": "视频显示的是山体滑坡，没有地震的震动或建筑物倒塌等特征。"
+  },
+  {
+    "s_ynqa_id": 291,
+    "video_id": "02216",
+    "type_id": 7,
+    "yn_question": "山体滑坡发生在视频的最后几秒。",
+    "yn_answer": "no",
+    "yn_reasoning": "山体滑坡在整个视频阶段持续发生。"
+  },
+  {
+    "s_ynqa_id": 292,
+    "video_id": "03222",
+    "type_id": 1,
+    "yn_question": "女人正在用剪刀修剪灌木。",
+    "yn_answer": "no",
+    "yn_reasoning": "视频中女人正在使用的是修剪灌木的剪枝工具，而不是普通的剪刀。剪刀通常用于剪纸或布料，而视频中工具的尺寸和形状明显是为修剪植物设计的。"
+  },
+  {
+    "s_ynqa_id": 293,
+    "video_id": "03222",
+    "type_id": 2,
+    "yn_question": "视频拍摄于夜晚。",
+    "yn_answer": "no",
+    "yn_reasoning": "视频中的光线充足，背景中的植物和地面清晰可见，且人物的影子明确，说明拍摄是在白天进行的，而非夜晚。"
+  },
+  {
+    "s_ynqa_id": 294,
+    "video_id": "03222",
+    "type_id": 6,
+    "yn_question": "视频中发生的是一个女人在花园里散步的事件。",
+    "yn_answer": "no",
+    "yn_reasoning": "视频中女人并不是在散步，而是在使用工具修剪灌木，这是一个园艺活动，而非散步。"
+  },
+  {
+    "s_ynqa_id": 295,
+    "video_id": "03286",
+    "type_id": 1,
+    "yn_question": "孩子正在用滑雪杖在雪地上打雪仗。",
+    "yn_answer": "no",
+    "yn_reasoning": "视频中孩子在室内拿着滑雪杖，但没有在雪地上打雪仗，而是在室内准备滑雪装备。"
+  },
+  {
+    "s_ynqa_id": 296,
+    "video_id": "03286",
+    "type_id": 2,
+    "yn_question": "视频场景是在一个室内滑雪场。",
+    "yn_answer": "yes",
+    "yn_reasoning": "视频开始时是在一个木制长椅的室内空间，有窗户和衣物，后来切换到室外雪地，说明场景是室外滑雪场，而非室内。"
+  },
+  {
+    "s_ynqa_id": 297,
+    "video_id": "03286",
+    "type_id": 3,
+    "yn_question": "视频中有一个穿着黑色外套和红色裤子的成年人在滑雪。",
+    "yn_answer": "yes",
+    "yn_reasoning": "视频中确实有一个穿着黑色外套和红色裤子的成年人在雪地上滑雪，与孩子一起。"
+  },
+  {
+    "s_ynqa_id": 298,
+    "video_id": "03286",
+    "type_id": 6,
+    "yn_question": "视频中发生了一场雪崩。",
+    "yn_answer": "no",
+    "yn_reasoning": "视频中没有雪崩发生，只有孩子和成年人在雪地上滑雪，背景是松树林和雪地。"
+  },
+  {
+    "s_ynqa_id": 299,
+    "video_id": "03286",
+    "type_id": 7,
+    "yn_question": "孩子先在室内准备滑雪，然后在室外滑雪，最后在雪坡上滑行。",
+    "yn_answer": "yes",
+    "yn_reasoning": "视频的顺序是：孩子在室内准备滑雪，然后切换到室外滑雪，最后在雪坡上滑行，符合时间顺序。"
+  },
+  {
+    "s_ynqa_id": 300,
+    "video_id": "03286",
+    "type_id": 8,
+    "yn_question": "视频的镜头是固定不动的。",
+    "yn_answer": "yes",
+    "yn_reasoning": "视频的镜头在室内和室外之间切换，且在滑雪时有移动，表明镜头是移动的。"
+  },
+  {
+    "s_ynqa_id": 301,
+    "video_id": "03347",
+    "type_id": 1,
+    "yn_question": "视频中的人正在用吸尘器清洁地毯，这个动作是否在进行中？",
+    "yn_answer": "yes",
+    "yn_reasoning": "视频从0:00到0:04展示了吸尘器在地毯上移动清洁，动作明确在进行中。"
+  },
+  {
+    "s_ynqa_id": 302,
+    "video_id": "03367",
+    "type_id": 1,
+    "yn_question": "这个人正在系鞋带吗？",
+    "yn_answer": "no",
+    "yn_reasoning": "视频中显示这个人正在调整或检查鞋子的绑带，但没有实际系鞋带的动作，因此不是在系鞋带。"
+  },
+  {
+    "s_ynqa_id": 303,
+    "video_id": "03367",
+    "type_id": 6,
+    "yn_question": "这个人正在准备驾驶汽车吗？",
+    "yn_answer": "no",
+    "yn_reasoning": "这个人已经站到了汽车外，正在调整鞋子，并没有打算进入汽车内部。"
+  },
+  {
+    "s_ynqa_id": 304,
+    "video_id": "03448",
+    "type_id": 1,
+    "yn_question": "视频中有人正在滑雪。",
+    "yn_answer": "yes",
+    "yn_reasoning": "视频中有人正在滑雪。"
+  },
+  {
+    "s_ynqa_id": 305,
+    "video_id": "03448",
+    "type_id": 2,
+    "yn_question": "视频拍摄于一个晴朗的白天。",
+    "yn_answer": "yes",
+    "yn_reasoning": "视频中天空布满云层，是一个晴朗的白天。"
+  },
+  {
+    "s_ynqa_id": 306,
+    "video_id": "03448",
+    "type_id": 4,
+    "yn_question": "雪板被放置在车顶上，而滑雪者正在车旁准备装备。",
+    "yn_answer": "yes",
+    "yn_reasoning": "视频中确实有一块雪板放在车顶行李架上，同时有滑雪者在车旁准备装备，符合描述。"
+  },
+  {
+    "s_ynqa_id": 307,
+    "video_id": "03448",
+    "type_id": 6,
+    "yn_question": "视频中展示了一个完整的滑雪准备活动。",
+    "yn_answer": "yes",
+    "yn_reasoning": "视频主要展示的是准备阶段，没有展示任何滑雪者从山上滑下的动作。"
+  },
+  {
+    "s_ynqa_id": 308,
+    "video_id": "03448",
+    "type_id": 7,
+    "yn_question": "视频中的人先下车，然后才开始准备滑雪装备。",
+    "yn_answer": "yes",
+    "yn_reasoning": "视频中的人在下车后立即开始准备滑雪装备。"
+  },
+  {
+    "s_ynqa_id": 309,
+    "video_id": "03460",
+    "type_id": 2,
+    "yn_question": "视频拍摄地点是在一个室内商场。",
+    "yn_answer": "yes",
+    "yn_reasoning": "视频拍摄地点是在一个室内商场。"
+  },
+  {
+    "s_ynqa_id": 310,
+    "video_id": "03460",
+    "type_id": 3,
+    "yn_question": "视频中有一个穿着白色T恤的人，T恤上印有‘BRAIDING HOUSE’字样。",
+    "yn_answer": "no",
+    "yn_reasoning": "视频中穿着白色T恤的人背对镜头，T恤背面的文字是‘they did not drink in the last round’，并非‘BRAIDING HOUSE’。‘BRAIDING HOUSE’是视频左下角的水印文字，非T恤上的内容。"
+  },
+  {
+    "s_ynqa_id": 311,
+    "video_id": "03460",
+    "type_id": 5,
+    "yn_question": "视频中发型师的头发是自然卷曲的。",
+    "yn_answer": "no",
+    "yn_reasoning": "发型师的头发是编成辫子的，而非自然卷曲。视频中发型师的头发是整齐的辫子，这与自然卷曲的头发明显不同。"
+  },
+  {
+    "s_ynqa_id": 312,
+    "video_id": "03460",
+    "type_id": 6,
+    "yn_question": "视频中展示的是一个发型师在为顾客剪发。",
+    "yn_answer": "yes",
+    "yn_reasoning": "视频中展示的是一个发型师在为顾客剪发。"
+  },
+  {
+    "s_ynqa_id": 313,
+    "video_id": "03487",
+    "type_id": 1,
+    "yn_question": "视频中的人正在用剪刀剪纸吗？",
+    "yn_answer": "no",
+    "yn_reasoning": "视频中的人在用手指按压和粘贴纸张，没有使用剪刀进行剪裁。"
+  },
+  {
+    "s_ynqa_id": 314,
+    "video_id": "03487",
+    "type_id": 4,
+    "yn_question": "手正在将纸片粘贴在卡通小马的脸上吗？",
+    "yn_answer": "no",
+    "yn_reasoning": "视频中手正在将缺失的贴纸补全，并不是将纸片粘贴在卡通小马的脸上。"
+  },
+  {
+    "s_ynqa_id": 315,
+    "video_id": "03487",
+    "type_id": 6,
+    "yn_question": "视频中展示的是一个完整的装饰过程吗？",
+    "yn_answer": "no",
+    "yn_reasoning": "视频只展示了装饰过程的一部分，包括粘贴纸片等，没有展示整个过程。"
+  },
+  {
+    "s_ynqa_id": 316,
+    "video_id": "03487",
+    "type_id": 8,
+    "yn_question": "镜头中共出现了四个场景？",
+    "yn_answer": "yes",
+    "yn_reasoning": "视频中镜头中共出现了四个场景。"
+  }
+]
